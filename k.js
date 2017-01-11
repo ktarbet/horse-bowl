@@ -9,10 +9,39 @@ files = fs.readdirSync('data');
 for(var i=0; i<files.length; i++)
 {
 console.log(files[i]);
-//var lines = readFile(fileName);
- // console.log(lines.length);
+var lines = readFile('data/'+files[i]);
+console.log(lines.length);
+linesToJSON(lines);
 }
 
+
+
+//converts array of Q/A text into json array format
+function linesToJSON(lines){
+var i=0;
+do
+  {
+//508 	(easy)      	HIH505-1/DET293
+   var re1 = /^([0-9]+)\s*\(([a-zA-Z]+)\).+/
+//   var reQ = /^Q:\s+(.*)$/
+   var result = lines[i].match(re1);
+//    console.log(lines[i]);
+ 
+   if(result != null  )
+    { 
+console.log("result="+result); 
+     var level = result[2];
+     console.log("{ \"level\":\""+level+"\",");
+     console.log("\"number\":\""+ lines[i]+"\",");
+     console.log("\n"+i);
+
+     i+=3;
+    }
+   i++;
+    
+  } while(i <lines.length);
+
+}
 
  
 function readFile(fileName){
