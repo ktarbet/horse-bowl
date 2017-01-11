@@ -1,0 +1,1029 @@
+2017 SENIOR DISEASES
+
+EASY
+
+2701	(easy)							HS47/TH332
+Q:  What is an acute infection?
+A:  Symptoms appear quickly
+
+2702	(easy)							HIH630-1/TH600
+Q:  What is another name for Equine Infectious Anemia?
+A:  EIA OR swamp fever
+
+2703	(easy)							HIH625-1
+Q:  What is Encephalitis?
+A:  Inflammation of the brain
+
+2704	(easy)							HIH630-2
+Q:  A Coggins positive horse is a threat to whom?
+A:  Other horses
+
+2705	(easy)							HIH445-1,2
+Q:  What is the term that describes the animal's ability to resist a particular organism?
+A:  Immunity
+
+2706	(easy)							HS46
+Q:  What is the first step in a disease prevention plan?
+A:  Consult a veterinarian
+
+2707	(easy)							HS34/HIH810-3
+Q:  What is the name of the respiratory disease whose symptoms include forced breathing, heaving of flanks & coughing?
+A:  Heaves OR COPD
+
+2708	(easy)							HIH445-7,3
+Q:  How is rabies transmitted?	
+A:  Bite from infected animal
+
+2709	(easy)							H1-34/TH600-01
+Q:  The Coggins test is used to detect what disease?
+A:  Equine Infectious Anemia OR EIA OR swamp fever
+
+2710	(easy)							HIH665-2
+Q:  What is the treatment for West Nile?
+A:  Treat the symptoms (fluids, rest, etc.)
+
+2711	(easy)							HIH630-1
+Q:  What insect transmits Equine Infectious Anemia to horses?
+A:  Horse flies, deerflies, mosquitoes		 (only need to name one)
+
+
+
+2712	(easy)							HIH440-1,445-2
+Q:  What disease could most likely follow the infection of a deep puncture wound?
+A:  Tetanus
+
+2713	(easy)						HIH680
+Q:  Name 2 wildlife species that serve as reservoir hosts for rabies.
+A:  Raccoon, skunk, fox, coyote, bat 
+
+2714	(easy)						TH600/HIH445-8
+Q:  In reference to diseases, what is a carrier?
+A:  An animal who transmits a disease, but who may or may not show any symptoms for the disease
+
+2715	(easy)							HIH445-1new
+Q:  Ideally, to help prevent disease transmission, how long should a new horse be isolated before introducing it into an established group?
+A:  14-21 days  	(accept any number in range)
+
+2716	(easy)							HIH445-7
+Q:  What disease of the nervous system is caused by a bite from an infected animal?
+A:  Rabies
+
+2717	(easy)							HIH445-4
+Q:  What system of the horse does sleeping sickness affect?
+A:  Nervous system
+
+2718	(easy)							HIH610-1
+Q:  What system of the horse does rhinopneumonitis affect?
+A:  Respiratory
+
+2719	(easy)							HIH645-1
+Q:  What system of the horse does tetanus affect?
+A:  Central nervous system
+
+2720	(easy)							HIH605-1/445-10 new
+Q:  Name two of the symptoms of influenza.
+A:  Fever, depression, frequent dry cough, watery nasal discharge, loss of appetite, anorexia/weight loss  
+
+2721	(easy)							HIH605-2/FCH171
+Q:  What is the main treatment for influenza?
+A:  Rest
+
+2722	(easy)							HIH605-1
+Q:  How does influenza spread rapidly through a group of horses?
+A:  Through the air, coughing, contaminated surfaces, droplets of moisture	 (only need to give one)
+
+2723	easy)						HIH630-1
+Q:  How can a definite diagnosis be made for Equine Infectious Anemia?
+A:  Coggins test
+
+
+2724	(easy)							HIH445
+Q:  Define "contagious disease".
+A:  One that may be transmitted from one animal to another by direct or indirect contact
+
+2725	(easy)							HS48/TH96,98
+Q:  Name a disease spread through the air when droplets of moisture are coughed or sneezed.
+A:  Strangles, influenza, rhinopneumonitis
+
+2726	(easy)							HIH445-4
+Q:  What is a slang term for tetanus?
+A:  Lockjaw
+
+2727	(easy)							HIH445-5/FCH405,173
+Q:  What is another name for strangles?
+A:  Distemper OR Shipping Fever OR Streptococcus equi
+
+2728	(easy)							HIH445-4
+Q:  Encephalomyelitis can be spread by which parasite?
+A:  Biting flies or mosquitoes
+
+2729	(easy)							HIH450-5,810-3
+Q:  What is a common respiratory disease of older horses?
+A:  COPD OR chronic obstructive pulmonary disease OR heaves
+
+2730	(easy)							HIH445-3 new
+Q:  Which animal is considered the most sensitive to the tetanus toxin?
+A:  Horse
+
+2731	(easy)							HIH445-4
+Q:  What is a slang term for Western and/or Eastern encephalomyelitis?
+A:  Sleeping sickness
+
+2732	(easy)							HIH445-10/BEG104-2
+Q:  What is the most common infectious respiratory disease of the horse?
+A:  Influenza
+
+2733	(easy)							HIH630-1
+Q:  What is a chronic infection?
+A:  One that lasts a long time		 (additional info -- infection makes little or no headway)
+
+2734	(easy)							TH164/HIH655-1
+Q:  What is the vector for Lyme disease?
+A:   Ticks	 (specifically Ixodes ticks—deer, bear & Western black-legged)
+(accept either general “ticks” or specific type of tick)
+
+2735	(easy)								HIH850-3
+Q:  Heaves can be compared to what human medical condition?
+A:  Asthma
+
+
+MEDIUM
+
+2736	(medium)						FCH173
+Q:  What is another name for shipping fever?
+A:  Strangles 	(also accept Equine Distemper or Streptococcus equi)
+
+2737	(medium)						DET151
+Q:  Define incubation period.
+A:  The period between time of exposure & time of first signs/symptoms of disease
+
+2738	(medium)						DET40,187
+Q:  What is the difference between a broad spectrum & a narrow spectrum antibiotic?
+A:  Broad spectrum - effective against wide range of bacteria; 
+     Narrow spectrum - effective against only a few types or single type of bacteria
+
+2739	(medium)						DET12
+Q:  What is the name for the disease fighting substance produced by the immune system in response to the presence of an antigen?
+A:  Antibody
+
+2740	(medium)						DET213
+Q:  2 part question:  What is Equine Piroplasmosis & how is it transmitted?
+A:  Equine infectious disease that is usually transmitted by ticks
+
+2741	(medium)						TH611/HIH665
+Q:  Wild birds are the principal reservoir host of which virus?
+A:  West Nile OR encephalomyelitis virus
+
+2742	(medium)						FCH169/HIH665-1
+Q:  Which one of the equine encephalomyelitis viruses is communicable to people?
+A:  West Nile OR Venezuelan Equine Encephalomyelitis/VEE        
+
+2743		(medium)								TH514
+Q:  A tumor of pigment-forming cells that's commonly seen in older gray horses is known as what?
+A:  Melanoma	
+
+2744	(medium)						HIH445-6 930-5
+Q:  Equine Herpes Virus causes respiratory disease in horses.  One strain of the virus - EHV-1 - can also cause what other problems?
+A:  Abortion in pregnant mares, birth of weak foals or a paralytic neurological disease 	(only need to name one)
+
+2745	(medium)						HIH445-12
+Q:  What is the most common viral cause of foal diarrhea?
+A:  Rotavirus
+
+2746	(medium)						HIH445-4new
+Q:  How is a diagnosis of rabies confirmed?
+A:  Post mortem examination of an animal's brain (necropsy)
+
+2747	(medium)						HIH445-5new
+Q:  From where did the slang name "sleeping sickness" for EEE, WEE & VEE infections come?
+A:  Profound/deep depression (sleepiness) associated with the infections
+
+2748	(medium)						HIH445-5new
+Q:  Many horses infected with West Nile will begin to improve how many days after displaying clinical signs?
+A:  3 – 7		 (accept any number within this range)
+
+2749	(medium)								ES194
+Q:  A home-made boot dip can be made using a gallon of water & what else?
+A:  1/4 cup bleach
+
+2750	(medium)						FCH385
+Q:  Cirrhosis is a chronic disease that affects which organ?
+A:  Liver
+
+2751	(medium)						HIH445-8
+Q:  Why is botulism in foals sometimes called shaker foal syndrome?
+A:  Foal has muscle tremors, weakness, & difficulty standing
+
+2752	(medium)							TH169
+Q:  Which type of Encephalomyelitis can be transmitted “horse to horse”? 
+A:  Venezuelan 
+
+2753	(medium)						HIH445-9new
+Q:  It's estimated that what percent of horses have been infected with Equine Herpes virus at some time within their lives?
+A:  90 – 100 %		 (accept any number within this range)
+
+2754	(medium)						HIH445-9new
+Q:  How long can horses shed the EHV-1 virus?
+A:  Up to 21 days
+
+2755	(medium)						HIH445-9new
+Q:  Of the 9 types of Equine Herpes viruses, how many infect the domestic horse?
+A:  5 types
+
+2756	(medium)						HIH445-10new
+Q:  Rest is a primary treatment for horses with influenza.  How long a time period should the horse be rested?
+A:  One week for each day of fever
+
+2757	(medium)						HIH365-5
+Q. Name two types of bacteria or protozoa that may be transmitted in horse manure? 
+A. E. Coli; Giardia; Salmonella
+
+2758	(medium)						TH521
+Q:  In what breed is equine night blindness most common?
+A:  Appaloosa
+
+
+2759	(medium)						DET149
+Q:  2 part question:   What is immunity & how do horses develop immunity?
+A:  Immunity – ability to resist a particular disease; 
+get it from vaccinations, previous exposure to disease, placenta, mother’s milk, or through artificially made antibodies
+
+2760	(medium)						DET206
+Q:  What does the term "pathological" mean?
+A:  A diseased condition
+
+2761	(medium)						HIH445-4/HS56/DET281
+Q:  What is an insect vector?
+A:  Insect that carries & transmits disease-causing organisms
+
+2762	(medium)						HIH665-1
+Q:  Which disease was first detected in the US in 1999?
+A:  West Nile
+
+2763	(medium)			HIH795-2
+Q:  Cushing's disease & equine metabolic syndrome are often confused.  What is one thing that would visually indicate Cushing’s?
+A:  Long hair coat
+
+2764	(medium)						HS49
+Q:  Diagnosis of EPM (Equine Protozoal Myeloencephalitis) is difficult & will require the vet to do what?
+A:  Perform a spinal tap
+
+2765	(medium)						HIH445-12
+Q:  How is Strangles spread?
+A:  Direct or indirect contact with horses, tack, equipment or handlers who might be carrying the bacteria
+
+2766	(medium)					FCH191
+Q:  Characteristic signs of this disease of older horses are excessive hair growth & failure to shed.  What is this disease?
+A:  Cushing’s disease
+
+2767	(medium)						TH595/HIH950-6old
+Q:  Describe one early symptom of neonatal septicemia.
+A:  Decreased appetite, general weakness/depression, weak sucking reflex, fever, diarrhea, excessive sleeping/resting
+
+2768	(medium)						BEG112-2/HIH975-4
+Q:  What is passive transfer of immunity?
+A:  When a newborn foal receives antibodies from the mare through the colostrum
+
+2769	(medium)						FCH385
+Q:  What is the general term for a disease that is communicable or transmissible from one individual to another?
+A:  Contagious
+
+2770	(medium)						HIH625-1
+Q:  A reservoir host is an animal in which a virus lives before it causes disease in other animals.  Name one of the most common types of animals which serve as reservoirs.
+A:  Birds, rodents, reptiles
+
+2771	(medium)						FCH405
+Q:  What disease is characterized by swollen or abscessed lymph glands - particularly those under or behind the jaws?
+A:  Strangles OR Equine Distemper OR Shipping Fever
+
+2772	(medium)					HIH950-5 old
+Q:  An untreated umbilical cord can cause a bacterial infection known as what?
+A:  Septicemia or sepsis
+
+2773	(medium)						HIH650-1
+Q:  What does PHF stand for?
+A:  Potomac Horse Fever
+
+2774	(medium)						FCH174/DET227
+Q:  What disease is being described?  This disease is caused by a rhabdovirus that infects the nervous system of the horse.  It can be transmitted to any mammal.  There is no treatment & it's fatal if the horse has not been previously vaccinated.
+A:  Rabies
+
+2775	(medium)							DET265
+Q:  What is the name for the disease caused by Clostridium tetani?
+A:  Tetanus OR Lockjaw
+
+2776	(medium)							HIH450-5
+Q:  What are 2 characteristics of Cushing's disease?
+A:  Excessive hair growth, failure to shed, excessive thirst, excessive urination, weight loss
+
+2777	(medium)						HIH630-1
+Q:  What do the initials EIA stand for?
+A:  Equine Infectious Anemia
+
+2778	(medium)						HIH630-1
+Q:  A troublesome feature of Equine Infectious Anemia is what?
+A:  That once a horse is infected, it remains infected for the rest of its life
+
+2779	(medium)					HIH445-6/HS48
+Q:  Name a disease that can be contracted from contaminated food or water.
+A:  Strangles or Leptospirosis
+
+2780	(medium)						FCH168/HIH445-3new
+Q:  Approximately how long does tetanus antitoxin give protection?
+A:  2-4 weeks 
+
+
+
+2781	(medium)						TH598 HIH930-4
+Q:  The most common viral cause of abortion in mares is what?
+A:  Equine herpes (EHV-1)
+
+2782	(medium)						TH596
+Q:  What antibiotic is used to treat strangles?
+A:  Penicillin
+
+2783	(medium)						TH427 HIH975-2
+Q:  An annual injection of tetanus toxoid produces active immunity.  Give an example of passive immunity
+A:  Mare passing antibodies to the newborn foal through colostrum  
+
+2784	(medium)						HIH665-1
+Q:  What is the recovery rate for horses infected with West Nile?
+A:  Approximately 50% or higher
+
+2785	(medium)						FCH393
+Q:  What is the term for the time period between exposure to an infection & the onset of clinical signs?
+A:  Incubation
+
+2786	(medium)						FCH401
+Q:  What virus causes Rhinopneumonitis?
+A:  Equine herpes  (EHV-4, EHV-1)
+
+2787	(medium)						TH599/HIH445-
+Q:  Which strain of equine encephalomyelitis has the lowest mortality rate?
+A:  WEE or Western
+
+2788	(medium)						TH602
+Q:  What disease, first recognized in Maryland in 1979, is characterized by diarrhea, founder, colic, fever & a high mortality rate?
+A:  Potomac Horse Fever
+
+2789	(medium)						HS47
+Q:  What do you call the type of disease that is caused by pathogenic microorganisms such as bacteria, viruses, & fungi?
+A:  Infectious  
+
+2790	(medium)						HIH445-7
+Q:  A horse with a potentially contagious disease should be isolated from other horses for how many days after recovery?
+A:  At least 10 days
+
+2791	(medium)						TH595
+Q:   With septicemia, infection spreads throughout the horse’s body causing multi-organ problems.  How does this infection spread?
+A:  Through the bloodstream
+
+
+
+2792	(medium)						HIH615-1
+Q:  What will happen to the lymph nodes of a horse when it has strangles?
+A:  They become hot, swollen, & painful & may abscess
+
+2793	(medium)						HIH625-2
+Q:  Where do mosquitoes contact the viruses known as Eastern, Western & Venezuelan Encephalomyelitis?
+A:  A wild host
+
+2794	(medium)						HIH630-1
+Q:  Equine Infectious Anemia viruses can only live in which animals?
+A:  Horses & their close relatives  (donkeys & mules)
+
+2795	(medium)						TH595
+Q:  What is another name for blood poisoning?
+A:  Septicemia		 (also accept sepsis)
+
+2796	(hard)							HIH630-1/TH600
+Q:  What does the Coggins test specifically check for in the blood?
+A:  Antibodies against the EIA virus
+
+2797	(medium)						HIH610-1,445-6
+Q:  Abortions attributable to EHV-1 usually occur at what stage of gestation?
+A:  8 - 11 months      (last 3 months/last trimester)
+
+2798	(medium)							FCH385
+Q:  Cirrhosis is a chronic disease that affects which organ?
+A:  Liver
+
+ 2799	(medium)							HIH645-1
+Q:  Trismus is a symptom exhibited in a horse with Tetanus.  The definition of trismus is the same as the common term for this disease.  What is trismus?
+A:  Lockjaw 	(paralysis of the jaw)
+
+2800	(medium)								HIH465-2
+Q:  Name 2 breeds that are predisposed to developing squamous cell carcinoma?
+A:  Appaloosa, Paint, Belgian 	(additional info -- horses with large areas of white hair & pink skin on the face)    
+
+2801	(medium)						HIH445-4
+Q:  How far can the influenza virus travel when an infected horse coughs?
+A:  35 yards
+
+2802	(medium)     						TH600
+Q:  What is a slang name for EIA?
+A:  Swamp fever
+
+2803	(medium)						HIH660-1
+Q:  What is a common clinical symptom of horses infected with Salmonellosis?
+A:  Diarrhea
+
+
+2804	(medium)						HIH620-1,2
+Q:  Name the sex of the horse that can become a long-term carrier of Equine Viral Arteritis.
+A:  Male
+
+2805	(medium)					HIH440-4
+Q:  Cushing’s disease is more common in horses over what age?
+A:  18
+
+2806	(medium)						FCH173/ES171/HIH615
+Q:  What characteristic makes strangles easy to identify?
+A:  Swollen and/or Abscessed lymph nodes in the throatlatch area
+
+2807	(medium)						HIH445-3
+Q:  For what disease is a vaccine given to broodmares at the 5th, 7th & 9th month of pregnancy?
+A:  Rhinopneumonitis    (EHV-1)
+
+2808	(medium)							HIH445-5
+Q:  Which respiratory disease is an allergic disorder that may develop after respiratory infections?
+A:  COPD (chronic obstructive pulmonary disease) or heaves
+
+2809	(medium)						TH615
+Q:  What bacterial disorder involves production of toxins that result in paralysis, rigidity of muscles & often death?
+A:  Tetanus
+
+2810	(medium)						HIH615
+Q:  What severely contagious bacterial disorder results in swollen lymph nodes under the jaw which often need to be lanced & drained?
+A:  Strangles	 (also accept Streptococcus equi, shipping fever, or distemper)
+
+2811	(medium)						BEG114-1
+Q:  How long after a wound is sustained are symptoms of tetanus likely to appear?
+A:  Two days to one month (accept any number within this range)
+
+2812	(medium)								FCH101/TH514
+Q:  By age 15 most gray horses will have developed what condition?
+A:  Melanoma	
+
+2813	(medium)						FCH362
+Q:  What general age category of horses is most prone to botulism?
+A:  Foals
+
+2814	(medium)						DET91
+Q:  Name the term that means "an inflammation of the brain".
+A:  Encephalitis
+
+
+
+
+
+2815	(medium)						DET18
+Q:  What is the COMMON name for the eye disease that causes cloudiness of the uveal tract of the eye and may lead to blindness? 
+A:  Moon blindness
+
+2816	(medium)						HIH445-10new
+Q:  Which disease has a convalescence period that's typically much longer than the owner would expect?
+A:  Influenza    (additional info -- horses might not return to athletic activities for up to 6 months)
+
+2817    (medium)                                     DET253
+Q:  Stable cough is the slang term for which viral equine disease?
+A:  Rhinopneumonitis					
+
+2818 	 (medium)                  HIH680-1		
+Q:  What mammal is considered to be the primary source of rabies in horses?
+A:  Skunk					
+
+2819 	(medium)                                 HIH670-1
+Q:  What is the definitive host for Equine Protozoal Myeloencephalitis?
+A:  Opossum					
+
+2820	(medium)                    ES172
+Q: Describe the typical stance of a horse with tetanus
+A:  “Saw horse” stance          
+
+2821	(medium)                                TH603
+Q:  Which bacterial disease is called shaker foal syndrome when it affects foals?
+A:  Botulism         
+
+2822 	(medium)                                    HIH685-1/DET282
+Q:  Vesicular stomatitis is a viral disease that results in the formation of vesicles in the mouth & on the lips, hooves & teats.  What is a vesicle?
+A:  Fluid-filled sac  (blister)         
+
+2823	(medium)                               HIH975-17, 18
+Q:  What is another name for septic arthritis?
+A:  Joint Ill              
+
+2824	(medium)                                               DET76
+Q:  In general, what does the prefix “cysto” refer to?		
+A:  Bladder
+
+2825	(medium)                                DET168
+Q:  In general, what does the prefix “leuko” refer to?			
+A:  White blood cells
+
+2826	(medium)               	       DET79
+Q:  In general, what does the prefix “desmo” indicate?		
+A:  Ligament
+
+2827	(medium)                                DET15
+Q:  In general, what does the prefix “arthro” describe?		
+A:  Joint
+
+
+HARD
+
+2828	(hard)						HIH445-12 975-12
+Q:  Name 2 ways to help prevent rotavirus infection. 
+A:  Vaccinate pregnant mares (at 8, 9 & 10 months gestation), good hygiene/ management practices
+
+2829	(hard)									TH104
+Q:  What term is used to describe a disease of a muscle?
+A:  Myopathy        (my-AHH-path-ee)
+
+2830	(hard)								HIH 660-1 975-13,14		
+Q:  What type of bacteria is considered the most common cause of infectious enterocolitis in adult horses?
+A:  Salmonella
+
+2831	(hard)					  HIH650-2
+Q:  You do the math…  Your horse has Potomac Horse Fever and is being treated with the antibiotic Tetracycline.  You horse weighs approximately 500 Kg (kilograms).  The recommended dosage is 10 mg (milligrams) per Kg (kilogram) of body weight. How many total milligrams of Tetracycline will your horse receive?
+A:  5000 milligrams 
+
+2832	(hard)							FCH361-62/DET36
+Q:  What is the name for a type of food poisoning that can be caused by hay or silage contaminated by a Clostridium bacteria?   
+A:  Botulism
+
+2834	(hard)							HIH445-10,11
+Q:  Stallions from which 2 breeds are extremely likely to test positive for EVA?
+A:  Standardbreds & Warmbloods  (especially Austrian Warmbloods)
+
+2835	(hard)							HIH445-11new
+Q:  What are 2 ways to prevent outbreaks of EVA?
+A:  Identify the carrier stallions & use management practices to prevent the introduction of EVA positive horses into a non-infected herd
+
+2836	(hard)							HIH445-7new
+Q:  Which type of baled hay is associated with a higher risk for botulism?
+A:  Round bales
+
+2837	(hard)						HIH445-5new
+Q:  Which virus is the leading cause of arbovirus encephalitis in horses & humans in the US?
+A:  West Nile
+
+
+
+2838	(hard)						HIH445-4new
+Q:  Viruses that cause Eastern, Western & Venezuelan Encephalomyelitis are arboviruses.  What does arbovirus mean?
+A:  They are transmitted by bloodsucking insects	 (also accept -- arthropod borne)
+
+2839	(hard)								HIH445-4new
+Q:  What is a zoonotic disease?
+A:  One that is transmissible from animals to humans
+
+2840	(hard)							HIH610-1,445-6
+Q:  Are signs of EHV-4 usually observed primarily among foals or mares?
+A:  Foals
+
+2841	(hard)							HIH445-7/650-1
+Q:  What specific type of microorganism causes Potomac Horse Fever?
+A:  Parasite (Neorickettsia ristici formerly called Ehrlichia risticii)          
+ (additional info – not necessary to give:  rickettsia are gram negative bacteria that are in their own category because they can’t live outside of cells)
+
+2842	(hard)							TH111
+Q:  What is pleurisy?
+A:  Inflammation of the membranes surrounding the lungs
+(additional info – not necessary to give-- often a complication of influenza, pneumonia, etc.)
+
+2843	(hard)							TH305
+Q:  What is another name for Enterotoxemia?
+A:  Over-eating disease 		
+(additional info not necessary to give:  bacterial disease caused by Clostridium perfringens)
+
+2844	(hard)							FCH301
+Q:  What is the viral disease that causes blister-like lesions of the mouth, dental pad, tongue, lips, nostrils, hooves & teats of infected animals?
+A:  Vesicular stomatis	 (also accept hoof & mouth disease)
+
+2845	(hard)							HS37
+Q:  What are the 2 most important factors that determine whether a disease-causing organism will produce the disease in an exposed animal?
+A:  Virulence/strength of the organism & animal's resistance
+
+2846	(hard)							HIH665-1/455-5 new
+Q:  What is a "dead end" or terminal host?
+A:  A host from which infectious agents are not transmittable
+
+2847	(hard)							HIH665-1
+Q:  What is the incubation period for West Nile?
+A:  5 - 15 days		 (accept any answer within range)
+
+
+
+
+2848	(hard)							HIH660-1
+Q:  What is Equine Salmonellosis?
+A:  Infection with salmonella bacteria
+
+2849	(hard)							DET221
+Q:  What is the purpose of a prophylactic medication?
+B:  Used to prevent a disease
+
+2850	(hard)							HIH660-3
+Q:  What is the treatment for equine salmonellosis?
+A:  Supportive care - including fluid administration
+
+2851	(hard)							HIH660-2 HIH975-13,14
+Q:  Why is it difficult to eradicate salmonella bacteria?
+A:  They are very resistant & adaptable to environmental conditions OR they can survive long periods in soil/water/feed
+
+2852	(hard)							FCH31,32
+Q:  In areas where the soil has low available selenium content, what disease can be prevalent in foals if the mares are fed homegrown feeds?
+A:  White muscle disease
+
+2853	(hard)							TH96
+Q:  What specific parts of the horse does strangles affect?
+A:  Submaxillary & parotid lymph nodes
+
+2854	(hard)							HIH810
+Q:  What is another name for laryngeal hemiplegia?
+A:  Roaring
+
+2855	(hard)							TH521
+Q:  What is another name for equine periodic ophthalmia?
+A:  Moon blindness or ERU (Equine Recurrent Uveitis)
+
+2856	(hard)								HIH445-13
+Q:  What is one way a horse is infected with anthrax?
+A:  Ingestion of bacteria spores, inhalation of bacteria, skin penetration by biting flies or injury especially when horse has been exposed to infected soil or carcasses	 (only need to give one)
+
+2857	(hard)							HIH670-1
+Q:  What animal is the reservoir host for Sarcocystis neurona?
+A:   Opossum
+
+2858	(hard)							HIH605-1
+Q:  What is the study of the transmission & control of diseases called?
+A:  Epidemiology
+
+
+
+
+2859	(hard)							HIH650-1
+Q:  What is the common name for Borrelliosis?
+A:  Lyme disease
+
+2860	(hard)							TH601/HIH445-3new
+Q:  Identify the disease based on the following symptoms:  prolapse of the third eyelid, trismus(spasms of the masseter muscle), difficulty walking, high mortality rate & a sawhorse posture
+A:  Tetanus
+
+2861	(hard)							HIH670-1
+Q:  The parasite Sarocystis neurona causes what disease?
+A:  EPM or Equine Protozoal Myoloencephalitis
+
+2862	(hard)							HIH685-1
+Q:  What is the incubation period for vesicular stomatitis?
+A:  2 - 8 days			(accept any number in range)
+
+2863	(hard)							HIH445-7new
+Q:  Why does Botulism in foals sometimes happen when they start to nibble at hay & grass?
+A:  Ingest the bacteria from the soil (which produces toxins in the foal's intestinal tract)
+
+2864	(hard)							HIH810
+Q:  What disease is characterized by an excessive breathing noise caused by an upper airway obstruction?  The noise is usually heard during exercise
+A:  Laryngeal hemiplegia or roaring
+
+2865	(hard)							HIH615-2/DET25
+Q:  What is "Bastard Strangles"?
+A:  A form of strangles that affects tissue in the horse's whole body instead of only the lymph nodes of the head OR infection is spread to other lymph node sites in the horse's body (such as abdomen, brain, liver, kidneys, lungs)
+
+2866	(hard)							FCH357
+Q:  What disease is caused by a toxin-producing fungus located in contaminated corn grain that's consumed by horses?
+A:  Moldy corn poisoning, leukoencephalomalacia, or blind staggers 		(only need to name one)
+
+2867	(hard)									TH111
+Q:  An inflammation affecting the fine membrane that lines the chest & covers the lungs is known as what?
+A:  Pleurisy
+
+2868	(hard)							HIH625-1
+Q:  How many types of Venezuelan Equine Encephalomyelitis are there?
+A:  4 subtypes
+
+2869	(hard)							HIH610-1,445-5
+Q:  Equine Herpes Virus-4 is also known as what?
+A:  Equine Rhinopneumonitis virus
+
+
+2870	(hard)							HIH655-1
+Q:  Name the disease carried by deer ticks that's caused by the bacterium Borrelia burgdorferi .
+A:  Lyme disease
+
+2871	(hard)							FCH301
+Q:  Which disease has outward signs which are very similar to vesicular stomatitis?
+A:  Hoof & mouth disease
+
+2872	(hard)									HIH795-2
+Q:  What syndrome is characterized by obesity, regional adiposity, insulin resistance, high blood triglycerides, & hyperleptinemia?
+A:  Equine Metabolic Syndrome
+
+2873	(hard)							HIH615-1/FCH173
+Q. Which bacteria is the cause of strangles in horses? 
+A. Streptococcus equii 
+
+2874	(hard)									HIH795-2
+Q:  Compared to other causes of obesity, name 2 areas where fat is deposited in Equine Metabolic Syndrome. 
+A:  Crest & tailhead
+	 
+2875	(hard)							DET12
+Q:  What disease is caused by the bacterium Bacillus anthracis?
+A:  Anthrax
+ 
+2876	(hard)							HIH630-1,2
+Q:  What disease is being described?  There is no effective treatment or vaccination for this disease, but a horse may survive the acute phase & remain a carrier for the remainder of its life.  The virus attacks cells in the horse's body - including the red blood cells - & causes anemia & jaundice.  All horses should be periodically tested for this disease using the Coggins test.
+A:  Equine Infectious Anemia or EIA
+
+2877	(hard)							FCH168,251,361/DET118/TH305
+Q:  Name 2 diseases caused by the bacteria Clostridia.
+A:  Tetanus, botulism, foal septicemia/umbilical cord infection, enterotoxemia/overeating disease, gangrene
+
+2878	(hard)							HIH465-3
+Q:  What is the most common infectious agent that causes Equine Recurrent Uveitis (ERU)?
+A:  Leptospira
+
+2879	(hard)							HIH465-3
+Q:  Give 2 other names for the condition Equine Recurrent Uveitis (ERU).
+A:  Moon blindness, periodic opthalmia
+
+2880	(hard)							HIH465-3
+Q:  What is the treatment for Equine Recurrent Uveitis (ERU)?
+A:  Anti-inflammatory medications
+
+
+2881	(hard)							HIH445-11
+Q:  Why should you test stallions for the presence of EVA antibodies BEFORE you vaccinate them?
+A:  Because it's not possible to differentiate between vaccine induced antibodies and those caused by natural infection
+
+2882	(hard)							HIH615-1
+Q:  What is another name for a Streptoccus equii infection?
+A:  Strangles	 (also accept equine distemper or shipping fever)
+
+2883	(hard)							HIH620-1
+Q:  What is EVA?
+A:  Equine Viral Arteritis
+
+2884	(hard)						`	HIH620-1
+Q:  What virus affecting horses has recently been discovered to also affect swine?
+A:  EAV or Equine Arteritis Virus
+
+2885	(hard)							HIH445-13
+Q:  Anthrax bacteria can live in the soil for decades.   Give a reason why.
+A:  Low nutrient requirements, ability to survive temperature extremes
+
+2886	(hard)							HIH620-1
+Q:  Two distinct equine influenza A viruses have been identified.  Name them.
+A:  Equine 1 or H7N7 & Equine 2 or H3N8
+
+2887	(hard)							HIH605-1
+Q:  Where does the influenza virus multiply?
+A:  In the upper respiratory tract (specifically, in the epithelial cells)
+
+2888	(hard)							HIH610-1
+Q:  What does EHV-1 stand for?
+A:  Equine Herpes Virus- 1
+
+2889	(hard)							HIH610-1
+Q:  Equine Herpes Virus-1 is also sometimes known as what?
+A:  Abortion virus 
+
+2890	(hard)							HIH445-2
+Q:  What causes tetanus?
+A:  Clostridium tetani
+
+2891	(hard)							HS47
+Q:  Disease-causing organisms vary greatly in their ability to produce disease.  What is the term used when the ability to produce disease is great?
+A:  Virulent
+
+2892	(hard)						HIH445-11-12
+Q:  Horses who recover from Potomac Horse Fever develop an immunity which lasts how long?
+A:  Up to 2 years 
+
+2893	(hard)						HS49
+Q:  What is EPM?
+A:  A disease of the spinal cord & nervous system
+ (additional info -- EPM is Equine Protozoal Myeloencephalitis)
+
+2894	(hard)						HIH445-13
+Q:  What is purpura hemmorrhagica?
+A:  A serious complication of strangles OR it's the result of an exaggerated immune response & causes inflammation & hemorrhaging    
+
+2895	(hard) 									HIH795-2
+Q:  Explain how insulin resistance in Equine Metabolic Syndrome (EMS) predisposes horses to laminitis.
+A:  Like with diabetes, insulin resistance may decrease blood flow; decreased blood flow to the feet causes laminitis
+
+2896	(hard)						HIH445-13
+Q:  This disease is listed as a bioterrorism alert in the US.  All cases of this disease -- suspect and confirmed -- must be reported to the state veterinarian.  What disease is it?
+A:  Anthrax
+
+2897	(hard)                        DET146-47
+Q:  What is the difference between hyperplasia & hypertrophy?
+A:  Hyperplasia is an increase in the number of cells
+      Hypertrophy is an increase in the size of the cells                 
+
+2898	(hard)                       HIH795-3
+Q:  What is the correct medical terminology for the long, wavy, non-shedding hair coat associated with Equine Cushing’s Disease?
+A:  Hirsutism             
+
+2899	(hard)                      HIH930-5
+Q:  What is the definition of endemic?
+A:  Prevalent or very commonly found          
+
+2900	(hard)                             HIH930-5
+Q:  The 2 most common abortion-causing viral diseases in the US are what?
+A:  Equine herpes virus (EHV-1) & equine viral arteritis virus (EVA)           
+ 
+	
+
+BONUS
+
+2901	(bonus)							HIH445-12
+Q:  What are 3 clinical signs of rotaviral infection in foals?
+A:  Depression, anorexia, decreased sucking, watery diarrhea, dehydration
+
+2902	(bonus)							HIH465-3
+Q:  Give 3 initial signs of ERU.
+A:  Tears, redness, squinting
+
+2903	(bonus)							HIH445-13
+Q:  Name 3 clinical signs of an animal infected with anthrax.
+A:  Fever, muscle tremors, dyspnea/difficulty breathing, congestion, sudden death, blood-stained milk, & following death discharge of blood can be seen from body openings
+
+2904	(bonus)							HIH445-10new
+Q:  Two part question:  How many general types of influenza viruses are there & who is primarily affected by each?
+A:  3;    Type A -infects wide variety of animals, including horse, 
+Type B – primarily infects humans, Type C - Has been found in humans, pigs & dogs
+
+2905	 (bonus)							HIH445-8new
+Q:  Give 3 clinical signs of botulism.
+A:  Weakness, decreased muscle tone of tail/eyelid/tongue, trembling, dilated pupils, lying down, difficulty swallowing, drooling, green or milky nasal discharge
+
+2906	(bonus)							HIH445-6new
+Q:  Name 3 ways horses can contract botulism.
+A:  Eating forage/feed containing the bacteria, eating forage/feed containing the toxins, wounds contaminated by bacteria
+
+2907	(bonus)						ES p. 171, 172, 182: YLM ADV 334-3L; Evans p. 611
+Q:  The body position a horse assumes may be indicative of illness.  Identify the disease or condition that would most likely be present in the following three horses: 
+ Horse # 1—horse with a “saw-horse” stance,              
+ Horse # 2—horse standing with its head & neck outstretched & resistant to flexion, & 
+Horse # 3—horse that has its front feet out ahead of the body &rocks back on its hind feet, drawing them underneath the body for support.
+A:  Horse # 1—Tetanus;        Horse # 2—Strangles (also accept Choke);	       Horse # 3—Laminitis (Founder)
+
+2908	(bonus)							HIH445-2
+Q:  Name 2 common wounds that serve as port of entry for tetanus.
+A:  Lower limb wounds, punctures in sole of foot, castration wounds, contaminated surgical sites, injection abscesses, infected umbilical structures
+
+2909	(bonus)							HIH445-2
+Q:  Name 3 diseases whose vaccinations are considered in the at-risk group.
+A:  Anthrax, botulism, equine herpes/rhino, equine viral arteritis, influenza, Potomac Horse Fever, rotaviral diarrhea, strangles
+
+2910	(bonus)							HIH445-8
+Q:  Name 3 diseases caused by soil-borne, spore-forming bacteria. 
+A:  Tetanus, Botulism, Anthrax
+
+
+
+
+
+
+2911	(bonus)							HIH445-1
+Q:  Name 3 factors that may decrease resistance or increase susceptibility to disease.
+A:  Stress, over-crowding, parasites, poor nutrition, inadequate sanitation, contaminated water source/supply, concurrent disease, stringent exercise program, no turnout time, transportation, inclement/bad  weather, weaning, disruption of established social groups, movement of people/vehicles/equipment on or off property during infectious disease outbreak
+
+2912	(bonus)								HIH445, 975-2
+Q:  3 part question:  What is immunity?  Name 2 types & define them
+A:  Immunity—animal's  ability to resist a particular organism; permanent—lasts for the life of the animal; temporary—only lasts a short time; 
+ALSO ACCEPT active—develops antibodies after exposure or vaccine 
+ passive given antibodies through placenta (not in horses), mother’s milk, or artificial transfer of antibodies 
+
+2913	 (bonus)						HIH630-1/ES176
+Q:  What are 3 symptoms of Equine Infectious Anemia?
+A:  Fever, anemia, horse tires easily, weight loss, swelling/edema, depression, weak pulse, irregular heartbeat, jaundice, enlarged spleen
+
+2914	(bonus)							HIH445-5new/DET177
+Q:  Name 3 symptoms of sleeping sickness.
+A:  Fever, depression,  ataxia/irregular gait, loss of coordination, head hanging low, head pressing, unable to swallow, acts blind, convulsions, grinding teeth, circling, staggering, paralysis, stupor
+
+2915	(bonus)							TH596-604
+Q:  Name 3 ways disease organisms escape from the host.
+A:  Eliminated with blood, eliminated with urine or feces, droplets of moisture, saliva, mucus membranes
+
+2916	(bonus)						HIH615-1,445-4
+Q:  What are 3 symptoms of strangles?
+A:  Fever, depression, increased respiration, swelling of lymph glands in throat area, nasal discharge, sore throat, pain on eating, stands with neck stretched out
+
+2917	(bonus)							HIH445-3
+Q:  Name 3 immunizations given a horse annually as standard procedure.
+A:  Eastern Encephalomyelitis/EEE, Western Encephalomyelitis/WEE, Tetanus, Flu, West Nile
+Rhino /Rhinopneumonitis
+
+2918	(bonus)						HIH650-1
+Q:  What are 3 symptoms of Potomac Horse Fever?
+A:  Fever, depression, reduced or absent gut sounds, colic, dehydration, profuse diarrhea, shock, laminitis
+
+2919	(bonus)							HIH950-5 
+Q:  Name 3 symptoms of septicemia.
+A:  Fever, depression, excessive sleeping, joints hot/swollen/ painful, navel hot & swollen, navel may have discharge
+
+
+
+
+2920	(bonus)							HIH605-1
+Q:  Name 3 common features of influenza.
+A:  Fever, depression, watery nasal discharge, loss of appetite, frequent dry cough, rapid spread of infection
+
+2921	(bonus)							HIH445-6
+Q:  What are the 2 primary reasons for Equine Herpes Virus vaccination?
+A:  Prevention of abortion in pregnant mares, prevention of respiratory disease/rhino
+
+2922	(bonus)							HIH645-1
+Q:  Give 3 symptoms of tetanus.
+A:  Fever, depression, constant excitement, muscle stiffness/rigidity, stiff/stilted gait, elevated tail carriage, protrusion of third eyelid/haw/nictitating membrane, excessive reaction to noise/touch/light/sound, sawhorse stance, jaw muscle locked/trismus, unable to eat, neck stiffness, high pulse, high respiration rate, flared nostrils, muscle spasms, sweating, convulsions, respiratory or cardiac arrest
+
+2923	(bonus)							HIH445-7 445-3-4 new,
+Q:  What are 3 symptoms of rabies?
+A:  Fever, depression, loss of appetite, altered behavior, hyper-responsiveness to touch, weakness, uncoordinated gait, lameness, colic, inability to swallow, blindness, hyperactivity, convulsions, fear, aggressiveness, etc
+
+2924	(bonus)						BEG104
+Q:  Give 3 symptoms of rhinopneumonitis.
+A:  Fever, depression, nasal discharge, loss of appetite, coughing
+
+2925	(bonus)							FCH191
+Q:  Give 3 clinical signs of Cushing's disease in the horse.
+A:  Long wavy/curly hair, fragile bones, weakness, excessive drinking, excessive urination, poor shedding, thin skin, stupor, sweating, loss of muscle mass, chronic lameness
+
+2926	(bonus)						HIH665-2
+Q:  What are 3 clinical signs of West Nile?
+A:  Fever, depression, loss of appetite, weakness of hind legs, paralysis of hind legs, impaired vision, head pressing, ataxia, head tilt, aimless wandering, convulsions, inability to swallow, circling, hyperexcitability,  coma, personality changes
+
+2927	(bonus)							HIH665-2
+Q:  Definite diagnosis of West Nile must first rule out other diseases with similar symptoms.  Name 3 of these diseases.  
+A:  EPM (Equine Protozoal Myeloencephalitis), EEE (Eastern Equine Encephalitis), WEE (Western Equine Encephalitis), VEE (Venezuelan Equine Encephalitis), rabies, botulism
+
+2928	(bonus)							HIH665-1
+Q:  Since birds are the reservoir host for West Nile, finding a large number of dead ones can be a signal that the virus is present in the area.  Name 3 of the birds most often associated with West Nile.
+A:  Blue jays, crows, ravens, raptors (eagle, owl, etc)
+
+
+
+
+2929	(bonus)							HIH660-1
+Q:  Name 3 risk factors for equine salmonellosis.
+A:  Transportation, crowded conditions, abrupt change in diet, intense physical exercise, antimicrobial treatment, gastrointestinal tract disorders, surgery
+
+2930	(bonus)							HIH660-2
+Q:  What are 3 symptoms of salmonellosis?
+A:  Diarrhea (profuse, watery, smelly), colic, depression, anorexia, dehydration, fever, tachycardia (fast heart rate)
+
+2931	(bonus)							TH599
+Q:  What are 3 types of equine encephalomyelitis?
+A:  Eastern, Western, Venezuelan, West Nile
+
+2932	(bonus)							TH607
+Q:  Describe 3 things you can do to alleviate some of the horse's distress caused by heaves.
+A:  Provide lots of fresh air, eliminate dust, leave horse on pasture, wet hay/grain, feed pelleted ration, give antihistamine medication, use dust-free bedding, adjust high temperature with fans/coolers, adjust humidity level
+
+2933	(bonus)							HIH655-1,2
+Q:  Name 3 of the most common signs of Lyme disease.
+A:  Fever, arthritis, dermatitis, difficulty swallowing, glazed eyes, head tilt, joint swelling, lameness, neurological disease, tail paralysis, profuse sweating, wandering aimlessly, uveitis/eye disorder
+
+2934	(bonus)								ES p. 167
+Q:  Infection is the result of the presence of organisms in the body that cause health problems or disease.  Name three types of “infectious agents” or organisms.	
+A:  Bacteria, virus, protozoa, fungus, rickettsia     (arthropod borne obligate intracellular parasites)
+
+2935	(bonus)							HIH445-5new
+Q:  The West Nile virus belongs to the family Flavivirdae.  This virus family has the distinction of containing some of the most severe human pathogens in the world.  Name 3 human diseases - other than West Nile -caused by these pathogens.
+A:  Yellow fever, dengue fever, Japanese encephalitis, tick-borne encephalitis, St. Louis encephalitis, Hepatitis C, louping ill (ovine encephalitis)
+
+2936	(bonus)                                  ES173
+Q:  Identify 2 systemic fungal diseases that affect horses				
+A:  Aspergillosis				Blastomycosis
+      Coccidiomycosis			Hisoplasmosis
+
+2937	(bonus)				ES174
+Q:  Identify 2 equine diseases that are caused by protozoa
+A:  Equine Piroplasmosis (babesiosis)
+Equine Protozoal Myeloencephalitis  (EPM)
+Giardia infection  (Giadiasis)                        
+
+
+2938	(bonus)				ES170-71, FCH362
+Q:  Identify three bacterial diseases that affect both humans and horses.
+A:  Tetanus, Botulism, Anthrax, Brucellosis, Lyme Disease           
+
+2939	(bonus)					FCH259
+Q:  Give 4 observations that would indicate that a foal with diarrhea would require medical attention
+A:  Large amount of diarrhea			Diarrhea contains blood
+Decreased appetite				Fever
+Depression/lethargy				Dehydration
+Large volume of water in diarrhea                                                          
+
+2940	(bonus)					TH305,601,603
+Q:  2 part:  Identify 3 diseases that are caused by a type of clostridium bacteria & identify the specific type of clostridum bacteria for each disease
+A:  Tetanus – clostridium tetani
+      Botulism  clostridium botulinum
+      Enterotoxemia – clostridium perfingens                             
+
+

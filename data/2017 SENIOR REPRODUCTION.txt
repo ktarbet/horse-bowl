@@ -1,0 +1,1348 @@
+2017 SENIOR REPRODUCTION
+
+EASY
+
+5746	(easy)								FCH39/HIH930-3
+Q:  What is foal heat?	
+A:  Mare's first heat after foaling    (addtl info – 7-15 days after foaling)
+
+5747	(easy)								HIH920-5
+Q:  You do the math… A mare that was bred on May 20th should foal in what month the next year?
+A:  April
+
+5748	(easy)								HIH970-3/TH422
+Q:  In a normal birth, which legs appear first?
+A:  Front
+
+5749	(easy)							HIH975-6
+Q:  Why is creep feeding of foals recommended when foals are 30-60 days old?
+A:  Mare’s milk production declines 
+
+5750	(easy)			HIH 450-2/DET p. 171				
+Q:  What is a long yearling?
+A:  A horse more than 1 year old but not yet 2 years old
+
+5751	(easy)						HS22/TH384 DET7
+Q:  What does alter mean?
+A:  To castrate or geld a horse
+
+5752	(easy)							HIH980-1/TH387/HS23
+Q:  What is the term used when a male horse has retained one or both testicles in his body cavity?
+A:  Ridgling or cryptorchid
+
+5753	(easy)							HIH950-4old  DET77
+Q:  The mother of a horse is called what?
+A:  Dam
+
+5754	(easy)							TH537/HS18/DET246
+Q:  The father of a horse is called what?
+A:  Sire
+
+5755	(easy)							FCH389/HS22 DET107
+Q:  Define the word "filly"
+Q:  Immature female horse  OR  Female horse  3 years old & younger    
+
+5756	(easy)							HS26/TH431-32DET258
+Q:  What do you call the charge for breeding services rendered by a stallion?
+A:  Stud fee
+
+5757	(easy)						FCH389/TH322/HS22/DET107
+Q:  What is the term for an immature female horse?
+A:  Filly
+
+
+
+5758	(easy)						HS23/DET234
+Q:  What is a ridgling?
+A:  A male horse that has retained one or both testicles in his body cavity
+
+5759	(easy)							FCH385/HS22/DET62
+Q:  The correct term to use when describing a male foal is what?
+A:  Colt
+
+5760	(easy)								HIH342/H3-34/DET175
+Q:  What is a mare?
+A:  Mature female horse OR female horse 4 years old & older   
+
+5761	(easy)						HS22/FCH385/DET62
+Q:  What is a colt?
+A:  Male foal (immature male horse)  
+
+5762	(easy)							HIH975-6
+Q:  A foal is normally weaned at what age?
+A:  4 - 6 months	  	 (accept any number within this range)
+
+5763	(easy)							TH930/HS24/DET288
+Q:  What is a weanling?
+A:  A weaned foal or foal that's been taken away from its mother
+
+5764	(easy)							HS22/DET111
+Q:  What is a foal?
+A:  Colt or filly under one year old      (a baby horse)
+
+5765	(easy)							HIH930-4
+Q:  How long is the gestation period for horses?
+A:  Approximately 11 months OR 335-340 days  		 (accept any number within range)
+
+5766	(easy)							HIH910-1/DET258
+Q:  What do you call an unaltered male horse?
+A:  Stallion (stud)
+
+5767	(easy)							HIH110-5/FCH390
+Q:  What is a gelding?
+A:  A castrated male horse
+
+5768	(easy)							HIH110-5
+Q:  An altered or castrated male horse is called what?
+A:  Gelding
+
+5769	(easy)						HIH970-2
+Q:  What is colostrum?
+A:  The first milk a mare produces after the birth of the foal
+
+5770	(easy)							HH56/DET120
+Q:  What is the breeding term for the offspring of a sire?
+A:  Get			
+
+
+5771	(easy)							HH58 DET258
+Q:  What is the slang term for a horse breeding establishment?
+A:  Stud	     (stud farm)
+
+5772	(easy)							HH56/DET220
+Q:  What is the breeding term for the offspring of a dam?
+A:  Produce			
+
+5773	(easy)							HIH930-1/FCH382
+Q:  What is a barren mare?
+A:  A mare that's not in foal but who was bred    (mare that's been bred, but isn't pregnant)
+
+5774	(easy)							HH12
+Q:  Define sex characteristic.
+A:  Masculinity in the stallion & femininity in the mare
+
+5775	(easy)								TH323/ADV336-1L/HIH940-1
+Q:  What is the term for the stallion that is used to determine if a mare is receptive to breeding?
+A:  Teaser
+
+5776	(easy)						HIH920-5/930-4
+Q:  The length of time (usually 11 months) for the development of the foal from the time of breeding until birth is called what?
+A:  Pregnancy or gestation period
+
+5777	(easy)							HIH920-4
+Q:  What do the ovaries produce?
+A:  Eggs   (also accept estrogen and progesterone)
+
+5778	(easy)							TH781/ DET258
+Q:  A barn where stallions are kept for breeding is called what?
+A:  Stud barn or stallion barn
+
+5779	(easy)						HIH930-1/DET174
+Q:  What term refers to a mare that has never been bred
+A:  Maiden               
+
+5780	(easy)							HIH930-1
+Q:  What is a maiden mare?
+A:  Mare that's never been bred
+
+5781	(easy)								DET152 HIH930-1
+Q:  What does the term “in foal” mean? 
+A:  The mare is pregnant 
+
+5782	(easy)							BEG112-2/HIH970-3
+Q:  During what time period are most foals born?
+A:  Night     (11 pm – 4 am – accept either general or specific)
+
+
+
+
+
+5783	(easy)						HIH920-5, 930-4
+Q:  In months, what is the gestation period of the Rangerbred?
+A:  11 months	
+
+5784	(easy)						HIH930-1
+Q:  What does the term "open mare" refer to?
+A:  Mare that is currently not pregnant   (not bred this season)	
+
+5785	(easy)							TH323/HIH920-5
+Q:  How long is the estrous cycle of the mare?
+A:  21 - 23 days              (accept any number within range)
+
+5786	(easy)							HIH781-1
+Q:  A nursing foal's nutrient requirements exceed those provided by the dam's milk within how many months?
+A:  Two
+
+5787	(easy)							H2-35/FCH234/DET163
+Q:  What is lactating?
+A:  Producing milk
+
+5788	(easy)						HIH980-1/TH387
+Q:  What is another name for a ridgling?
+A:  Cryptorchid
+
+5789	(easy)							HIH930-1
+Q:  What do you call a mare that was bred, but didn't produce a foal?
+A:  Barren
+
+5790	(easy)							HS24/TH326/HIH920-5
+Q:  What is the average length of estrus (heat period)?
+A:  6 days
+
+5791	(easy)							HS24/TH361
+Q:  At what age are most mares capable of reproduction?
+A:  Three
+
+5792	(easy)							HS23
+Q:  At what age can you start using a stallion for breeding purposes?
+A:  Two	  	 (additional info -- only for limited breeding)
+
+5793	(easy)							HS24/TH322/HIH920-5
+Q:  What is another name for heat?
+A:  Estrus
+
+5794	(easy)							HIH930-2
+Q:  Other than hormones, what can be used to bring mares into heat earlier than the normal breeding season?
+A:  Artificial lights
+
+5795	(easy)							HIH940-1
+Q:  What is a common method used to determine if a mare is in heat?
+A:  Teasing
+
+
+5796	(easy)						H2-35/FCH234/DET163
+Q:  Lactation means the production of what?
+A:  Milk		
+
+5797	(easy)							HIH970-5
+Q:  Normal foals will nurse for the first time within how many hours of birth?
+A:  2 – 3		  	(accept either)
+
+5798	(easy)							HS22/TH384/DET119
+Q:  What does it mean to geld?
+A:  Castrate a male horse
+
+5799	(easy)							HIH970-2	
+Q:  What is the nutritious, high-protein first milk for the foal called?
+A:  Colostrum
+
+5800	(easy)							HIH781-1old
+Q:  How much weight will a foal typically gain per day during the first 3 months?
+A:  2.25 - 3 pounds per day		  	(accept any number in range)
+
+5801	(easy)								HIH920-4
+Q:  Of all of our domestic animals, which animal has the lowest reproductive efficiency?
+A:  Horse
+
+5802	(easy)								HH46/DET107
+Q:  What is a colt or filly under one year of age called?
+A:  Foal
+
+5803	(easy)								BEG112/HIH970-4/975-2
+Q:  Why should you treat the naval stump of a newborn foal with chlorohexidine?
+A:  To prevent bacteria from entering the body through it
+
+5804	(easy)							HIH930-1
+Q:  What is the slang term for a mare that's nursing a foal?
+A:  Wet mare
+
+5805	(easy)							FCH400
+Q:  What is the slang term for a gelding that shows stallion-like aggressive behavior?
+A:  Proud cut, rig, false rig (accept any)
+
+5806	(easy)							HIH930-1
+Q:  What is a “wet mare”?
+A:  Mare that's nursing a foal
+
+5807	(easy)			HIH930-1
+Q:  What do you call a mare which is kept for breeding & producing young?
+A:  Broodmare        
+
+5808	(easy)				HIH920-5
+Q:  Which domestic animal has the longest heat period?
+A:  Mare   (horse)     
+
+
+5809	(easy)				HIH975-4
+Q:  Other than bottle feeding, name a way to feed an orphan foal
+A:  Bucket, nurse mare, nurse goat              
+
+
+
+
+
+
+MEDIUM
+
+5810	(medium)							HIH970-5/975-2
+Q:  What care should be given to the navel stump of a newborn foal?
+A:  Apply mild iodine solution (7%) OR 1% povidone  OR 0.5% solution of chlorohexidine to prevent bacteria from entering body  (addtl info   chlorohexidine  right after birth & for first 3 days is the recommended – iodine can cause delayed healing, killed tissue
+
+5811	(medium)					FCH235/TH323/ HIH920-6
+Q:  What event triggers the end of estrus or heat - usually within 24- 48 hours?
+A:  Ovulation
+
+5812	(medium)					HIH920-3
+Q:  What is the name for the structure in the abdomen that's multi-layered, hollow, Y-shaped & is suspended by the broad ligaments?
+A:  Uterus
+
+5813	(medium)					HIH920-5/FCH235
+Q:  Frequent urination & eversion of the vulva or winking will occur during what phase of the mare's reproductive cycle?
+A:  Estrus or heat
+
+5815	(medium)					FCH245/HIH970-4
+Q:  What can be done to delay foaling until the veterinarian arrives if there is an indication of abnormal presentation of the foal?
+A:  Walk the mare and keep her standing
+
+5816	(medium)						HIH975-3
+Q:  What is the name of the first feces that the foal excretes?
+A:  Meconium
+
+5817	(medium)						TH340
+Q:  How do nutrients get from the mare to the fetus after it's attached to the uterus?
+A:  Through the placenta 	(additional info -- via the umbilical cord)
+
+5818	(medium)						TH340 HIH970-5
+Q:  What is the correct name for the membranous organ referred to as the afterbirth?
+A:  Placenta
+
+5841	(medium)							CAHA71
+Q:  In comparison to the horse, how is the length of the estrous cycle of donkeys and ponies different?
+A:  Estrous cycles are longer 	(additional info -- usually 25 days instead of 19-22 days)
+
+
+5842	(medium)					DET280/HIH920-3
+Q:  What is the reproductive organ that holds the fetus from conception to birth?
+A:  Uterus
+
+5843	(medium)						TH321/HIH910-3
+Q:  What is the muscle that is a physical barrier between vagina & uterus 
+A:  Cervix
+
+5844	(medium)						TH432
+Q:  What does "return privilege in season" mean?
+A:  You may bring your mare back until she's in foal for that breeding season only.  A second fee will be charged after the current season if the mare is returned
+
+5845	(medium)						TH323/HIH920-5
+Q:  What word means without estrus?
+A:  Anestrus
+
+5846	(medium)						TH319/DET106
+Q:  What is the process of the uniting of the sperm & egg?
+A:  Fertilization
+
+5847	(medium)							TH427/DET62/HIH975-3
+Q:  Colostrum is especially important to the foal because it contains what 2 things?
+A:  Antibodies (proteins) that protect the foal from infection & laxatives (fats) that help foal pass meconium 
+
+5848	(medium)						TH271/HIH930-6
+Q:  When does the most rapid period of fetal growth take place?
+A:  During the last 3-4 months of pregnancy
+
+5849	(medium)							HS25
+Q:  How are identical twins produced?
+A:  A single fertilized egg (zygote) divides & produces offspring with identical genetic makeup  
+
+5850	(medium)							TH346/HIH930,940 DET278
+Q:  What technique of pregnancy diagnosis is the easiest &the most accurate.  It can detect pregnancy as early as 2 weeks after conception?
+A:  Ultrasound
+
+5851	(medium)						TH128
+Q:  What is the primary sex organ of the mare?
+A:  Ovary
+
+5852	(medium)						HIH920-3
+Q:  What is the largest part of the female reproductive system?
+A:  Uterus
+
+5853	(medium)						TH318/HIH920-4
+Q:  How many follicles are on an ovary?
+A:  Hundreds
+
+
+
+
+5854	(medium)						TH361
+Q:  Puberty - or the capacity to produce sex cells - occurs in the stallion at approximately what age?
+A:  One year
+
+5855	(medium)						HS22/HIH920-3
+Q:  What is the unborn animal called as it develops in the uterus?
+A:  Fetus
+
+5856	(medium)						TH361/HIH980-2
+Q:  What hormone does the testicle produce?
+A:  Testosterone	 (also estrogen)
+
+5857	(medium)						TH128 HIH980-1
+Q:  What is the primary sex organ of the stallion?
+A:  Testes (testicle)
+
+5858	(medium)						TH355/HIH980-4
+Q:  As compared to body temperature, should the temperature of the scrotum & testicles be higher, lower or the same?
+A:  Lower
+
+5859	(medium)						TH355/HIH980-2
+Q:  What is the sack-like pouch that suspends the testicles outside the male animal?
+A:  Scrotum
+
+5860	(medium)						TH128	HIH920-4
+Q:  What is an ovary?
+A:  A female reproductive organ that produces eggs & sex hormones (estrogen & progesterone)
+
+5861	(medium)						TH323/HIH920-5
+Q:  What is the term for the rhythmic opening & closing of the labia as exhibited in mares?
+A:  Winking
+
+5862	(medium)						HIH975-4
+Q:  About how long does it take for a foal's immune system to become functional & produce significant levels of antibodies?
+A:  2 - 4 months            (accept any number within range)
+
+5863	(medium)						TH322
+Q:  What is the average age of puberty in the mare?
+A:  12 - 15 months            (accept any number within range)
+
+5864	(medium)							TH427/HIH975-4
+Q:  How long does the mare produce colostrum?
+A:  Up to 48 hours after birth of the foal (foal absorbs antibodies from colostrum for 36 hours)
+
+5865	(medium)						HIH920-6
+Q:  What does FSH cause in the mare?
+A:  Follicle growth
+
+
+
+
+5866	(medium)								DET258
+Q:  What are 2 meanings of the term “stud”?
+A:  A stallion & an establishment at which horses are kept for breeding purposes
+
+5867	(medium)						FCH235
+Q:  What is a silent heat?
+A:  Ovulation without outward signs of estrus
+
+5868	(medium)					INT226-2L HIH920-4
+Q:  Name the tube which carries the egg from the ovary to the uterus?
+A:  Oviduct or Fallopian tube
+ 
+5869	(medium)						TH376/HIH950-1
+Q:  What do the initials AI stand for?
+A:  Artificial insemination
+
+5870	(medium)						CAHA73/DET285
+Q:  Parturition is another name for what?
+A:  Birth
+
+5871	(medium)					TH346 HIH930/940
+Q:  What is a common method of diagnosing pregnancy in the mare?
+A:  Ultrasound or rectal palpation               (accept either)
+
+5872	(medium)						TH323/HIH920-5
+Q:  During what season would a mare be naturally in anestrus?
+A:  Winter
+
+5873	(medium)						CAHA73 HIH970-4
+Q:  Within a few days of birth, what begins to form on the mare's teats?
+A:  Wax
+
+5874	(medium)					TH427/HIH970-4
+Q:  What is the VERY FIRST step in taking care of a foal immediately after birth?
+A:  Remove anything from foal's nostrils that might restrict breathing
+
+5875	(medium)					HIH930-1
+Q:  What is the difference between a barren mare & an open mare?
+A:  Barren – not pregnant, but was bred; 
+     Open – not pregnant, but was NOT bred this season (has had foals in the past)
+
+5876	(medium)						TH409/HIH940-3
+Q:  What is the most important environmental cue in inducing estrus in mares?
+A:  Light
+
+5877	(medium)					TH425/DET38
+Q:  Delivery in which the foal's rump or hind feet are presented first in the birth canal is called what?
+A:  Breech birth
+
+5878	(medium)				DET205
+Q:  What is the correct medical terminology for giving birth?
+A:  Parturition              
+      
+5879	(medium)					TH339 DET100
+Q:  What is the hormone responsible for the mare's outward sexual behavior?
+A:  Estrogen   (specifically estradiol)           Accept either general or specific answer
+
+5880	(medium)					TH427 HIH975-4 HIH950-3-4
+Q:  The foal’s digestive tract permits absorption of the colostrum antibodies for approximately how long?
+A:  36 hours
+
+5881	(medium)						TH127/DET221
+Q:  What does the hormone prolactin do?
+A:  Initiates lactation
+
+5882	(medium)						TH425/DET1
+Q:  What is the expulsion of the fetus before the time of normal foaling called?
+A:  Abortion
+
+5883	(medium)						TH400
+Q:  What does the term "proud cut" refer to?
+A:  A gelding that shows stallion-like behavior
+
+5884	(medium)						TH323 HIH920-5
+Q:  What is the name of the long period between breeding seasons when the ovaries are inactive?
+A:  Anestrus
+
+5885	(medium)						TH362/HIH980-3
+Q:  Where in the stallion is sperm produced?
+A:  Testes/testicles (more specifically in the seminiferous tubules)     Accept either general or specific
+
+5886	(medium)						TH365/HIH980-3
+Q:  What is the general term for the substance emitted by a stallion during the breeding of a mare?
+A:  Semen or seminal fluid
+
+5887	(medium)					CAHA73/FCH246/HIH970-5
+Q:  What is the last event to occur in the mare's labor?
+A:  Expulsion of the placenta (afterbirth)
+
+5888	(medium)						HIH920-5
+Q:  At what part of a mare's estrous cycle is she NOT responsive to the stallion?
+A:  Diestrus
+
+5889	(medium)						TH428/HIH975-6
+Q:  What is a nurse mare?
+A:  A lactating mare known for her foster mother qualities -- she will accept a strange/orphan foal & let it nurse
+
+5890	(medium)						CAHA5/HIH980-5
+Q:  What is the term for the black, waxy substance that can build up in a horse's sheath?
+A:  Smegma
+
+5891	(medium)						TH781/DET39
+Q:  What is a breeding shed?
+A:  Specialized building where mares are bred
+
+
+5892	(medium)						HIH940-1, 920-3-5
+Q:  Name a major cause of infertility in mares? 
+A:  Uterine infections/endometriosis  or  Human management
+
+5893	(medium)						HIH930-6
+Q:  Why would you want to deworm your pregnant mare 30 days before her foaling date?
+A:  to decrease passage of parasite eggs to foal    
+
+5894	(medium)						TH343 HIH930-4
+Q:  On average, how many days longer are colts carried than mares?
+A:  2 - 7 days             (accept any number within range)
+
+5895	(medium)					HIH920-6/ADV326-3
+Q:  What hormone does the maturing follicle on the ovary release to stimulate the sexual behavior of mares during heat?
+A:  Estrogen
+
+5896	(medium)						TH417/HIH970-2, 940-3
+Q:  How long before birth will pregnant mare's teats begin to wax?
+A:  1 – 6 days               (accept any number within range)
+
+5897	(medium)				HIH990-1
+Q:  Handling breeding stallions should focus on what?
+A:  Using the least amount of restraint necessary to ensure safety            
+
+5898	(medium)						HIH920-5
+Q:  What is the difference between estrus & diestrus?
+A:  Estrus - period during which mare is receptive to stallion & encourages mating
+     Diestrus - period during which mare is not receptive to stallion & will resist him
+
+5899	(medium)						TH340/DET278
+Q:  Between what 2 structures is the umbilical cord?
+A:  Fetus & placenta
+
+5900	(medium)						HIH920-5
+Q:  The mare's estrous cycle is divided into 2 distinct phases.  What are they?
+A:  Estrus & diestrus
+
+5901	(medium)					TH327
+Q:  When a mare ovulates, but fails to show behavioral signs of estrus, this is called what?
+A:  Silent heat
+
+5902	(medium)						FCH245/ HIH970-3
+Q:  In the pregnant mare, the first stages of foaling can often mimic what condition?
+A:  Colic
+
+5903	(medium)					CAHA5a/HIH980-3
+Q:  2 part question :   What is smegma & where is it found?
+A:  Waxy substance that builds up in a horse's sheath
+
+
+
+
+5904	(medium)							HIH920-3, 940-1
+Q:  When during the estrous cycle is conception rate the highest in mares?
+A:  At the end of estrus (1 - 2 days prior to ovulation) OR foal heat
+
+5905	(medium)						TH428/HIH975-6
+Q:  What is the term used for a lactating mare that takes care of an orphaned foal as her own?
+A:  Nurse mare	
+
+5906	(medium)						TH319/HIH920-4
+Q:  Where do the sperm & egg unite?
+A:  Oviducts or fallopian tubes        (accept either)
+
+5907	(medium)						TH337 HIH920-5
+Q:  What is the hormone called that caused follicle growth?
+A:  FSH     (follicle stimulating hormone)
+
+5908	(medium)						TH326/ HIH920-5/FCH235
+Q:  What term describes when a mare undergoes multiple estrous cycles only during a specific part of the year?
+A:  Seasonally polyestrous    
+
+5909	(medium)						TH317 HIH920-4
+Q: 2 part question: What are the size & the shape of the ovaries?
+A:  2 - 3 inches long, bean shaped
+
+5910	(medium)						TH317 HIH920-4
+Q:  What is the scientific name for the egg?
+A:  Ovum	 (additional info -- ova is plural)
+
+5911	(medium)					TH781/DET39
+Q:  What is the name for the specialized building where mares are bred?
+A:  Breeding shed
+
+5912	(medium)						HIH930-2
+Q:  Reproductive ability in the mare decreases after what age?
+A:  15	(accept any number within 15-18 range) 
+
+5913	(medium)						DET97
+Q:  What does the term "entire" refer to?
+A:  Stallion
+
+5914	(medium)					BEG112 HIH970-5, 975-2
+Q:  In the newborn foal the navel stump is a site that allows easy access for the invasion of what microorganism into the body?
+A:  Bacteria	
+
+5915	(medium)						DET176/FCH234
+Q:  What is mastitis?
+A:  Inflammation/infection of the udder
+
+5916	(medium)						CAHA69
+Q:  In mare's milk, which is higher -- milk fat or lactose?
+A:  Lactose
+
+
+5917	(medium)						TH393 HIH940-3
+Q:  What type of lights makes a photo-stimulation effective?
+A:  Regular bulbs on a timer OR fluorescent bulbs		 (accept either)
+
+5918	(medium)						FCH250 HIH970-5
+Q:  After birth, when a mare passes the placenta, what should you do with it?
+A:  Examine it to make sure it's all there
+
+5919	(medium)						TH355 HIH980-1
+Q:  What is the main function of the scrotum?
+A:  Encloses testicles OR controls the temperature of the testicles (accept either)
+
+5920	(medium)						HIH1380-1,2
+Q:  What breeding policy involves payment of the stud fee when the mare is pronounced in foal at a 42 day exam?
+A:  Guaranteed in foal
+
+5921	(medium)						HIH970-4
+Q:  Name a cause of dystocia or difficulty foaling
+A:   Abnormal presentation, foal too large for mare’s pelvis, twins, “red bag”
+ (accept any reasonable answer)
+
+5922	(medium)						TH340 HIH960-3
+Q:  Approximately how many days does it take for the fertilized ovum to migrate to the uterus?
+A:  4 - 6              (accept any number within range)
+
+5923	(medium)						INT226-2L/HIH920-4
+Q:  Give another name for the oviducts.
+A.  Fallopian Tubes
+
+5924	(medium)					DET100 HIH920-5
+Q:  During what stage of the mare's estrous cycle is she receptive to the stallion?
+A:  Estrus
+
+5925	(medium)						HIH1380-1
+Q:  What breeding policy involves payment in advance of the entire price for the season with the payment non-refundable?
+A:  No guarantee
+
+5926	(medium)					TH423 HIH970-5
+Q:  How soon after birth should a mare pass her placenta?
+A:  3 hours
+
+5927	(medium)				CAHA74 HIH980-4
+Q:  How does the scrotum regulate testicular temperature?
+A:  Raising or lowering the testicles close to or away from the body
+
+5928	(medium)						DET222
+Q:  What is the term for the change that occurs in an animal that results in the animal being able to produce sex cells?
+A:  Puberty
+
+
+5929	(medium)						FCH44
+Q:  Lactating mares have an increased need for water due to what?
+A:  Milk production
+
+5930	(medium)						TH430 HIH975-7
+Q:  When weaning a foal from the mare, why is it recommended to reduce the mare's food?
+A:  To help the drying up process
+
+5931	(medium)						TH245
+Q:  What percent of mare's milk is water?
+A:  90%
+
+5932	(medium)						HIH421, 970-5
+Q:  What happens in the 3rd stage of labor?
+A:  Expulsion of the placenta (afterbirth)
+
+5933	(medium)						DET92/HIH920-3
+Q:  Define endometrium
+A:  Inner Lining of the uterus
+
+5934	(medium)						DET92/HIH920-3
+Q. What is the name for the inner lining of the uterus? 
+A. Endometrium 
+
+5935	(medium)						FCH395 HIH975-3
+Q:  What is the meconium?
+A:  First manure passed by the foal  OR  dark green/brown/black tarry stools formed prior to birth - normally begin to pass 1/2 hour to 6 hours after birth
+
+5936	(medium)					FCH234 DET176
+Q:  What is the term for a bacterial infection of the udder?
+A:  Mastitis
+
+5937	(medium)					HIH940-2
+Q:  When using the system for scoring of behavioral estrus in mares, what behavior is seen in a mare scoring 1?
+A:  Mare isn't aggressive towards stallion OR looks away/isn't interested
+
+5938	(medium)					HIH940-5old
+Q:  A normal foal weighs what percent of the mare's body weight at birth?
+A:  9 - 10% 		(accept either)
+
+5940	(medium)						HIH1380
+Q:  When the breeder guarantees a live foal, what must that foal do to fulfill the guarantee?
+A:  Stand & suck
+
+5941	(medium)						DET298
+Q:  What is a zygote?
+A:  Fertilized egg
+
+
+
+
+5942	(medium)						FCH240
+Q. Which breed has the highest incidence of twinning?
+A. Thoroughbred
+
+5943	(medium)						INT227-2 HIH980-1
+Q:  Which structure of the horse is responsible for maintaining proper temperature for sperm production?
+A:  Scrotum
+
+5944	(medium)					FCH240
+Q:  What general type of equine has the lowest incidence of twin pregnancies?
+A:  Ponies
+
+5945	(medium)							TH323-36 HIH920-5
+Q:  What is meant by the term “seasonally polyestrous”?
+A:  Mare undergoes multiple estrous cycles only during certain times of the year
+
+5946	(medium)				FCH273
+Q:  In general, what type of horse is often used as a nurse mare 	because they produce more milk?
+A:  Draft or draft-cross mares                                         
+
+5947	(medium) 				HIH975-7
+Q:  When weaning a foal, why would you want to keep it in familiar surroundings?
+A:  Minimize stress, decrease exposure to disease                
+
+5948	(medium)					HIH920-5
+Q:  Give 2 ways that humans contribute to poor reproductive performance
+A:   Attempting to breed mares outside their natural reproductive season
+    Selecting stallions/mares for their performance/pedigree/beauty instead of their reproductive efficiency               
+
+5949	(medium)				HIH970-1
+Q:  If a mare must be moved to another facility before foaling, why should you do it no later than 3-4 weeks prior to the expected foaling date?
+A:  To allow her to acclimate to the new area/people/reduce stress            
+
+5950	(medium)				HIH970-2
+Q:  How long before foaling does colostrum develop?                  
+A:  2-3 weeks
+
+
+
+
+
+
+
+HARD
+
+5951	(hard)								DET91  HIH960
+Q:   This type of breeding is not accepted by all breed associations.   It is the process of recovering a fertilized egg from the uterus of one mare and transferring it to the uterus of another for gestation. What is this type of breeding? 
+A:   Embryo transfer 
+
+
+5952	(hard)						HS16 HIH920-6
+Q:  What hormone regulates testosterone in the stallion?
+A:  LH   (luteinizing hormone)		Accept either
+
+5953	(hard)							HIH782-5, 975-5
+Q:  On average, how much milk in pounds is a light horse mare capable of producing per day?
+A:  23 - 29 pounds 		(accept any number within this range) also accept 2-3% of her body weight per day  HIH975-5) 
+
+5954	(hard)						TH424
+Q:  When a foal is in the transverse ventral presentation for delivery, what part of the foal’s body is lodged against the pelvis of the mare and preventing the delivery of the foal?
+A:  The foal’s back
+
+5955	(hard)							TH358 HIH980-2
+Q:  What is the vas deferens?
+A:  Tube that carries sperm from the epididymis to the urethra in the male
+
+5956	(hard)							TH365 HIH980-5
+Q:  What is the definition of semen?
+A:  Sperm mixed with fluids from the accessory glands
+
+5957	(hard)							TH127/HIH920-3, 940-4
+Q:  What does the hormone progesterone do?
+A:  Encourages glandular development, encourages greater muscle tone in myometrium
+Steroid hormone that keeps mare out of estrus & helps to maintain pregnancy in early stages
+
+5958	(hard)						TH358 HIH980-2
+Q:  What is the tube that carries sperm from the epididymis to the urethra?
+A:  Vas deferens
+
+5959	(hard)							HIH970-4
+Q:  During the second stage of labor, you notice the appearance of a red, velvety bulb at the vulva which looks like a basketball. This is commonly referred to as a “red bag”. What does this indicate?
+A:  Premature placental separation
+ (This is an emergency requiring immediate rupture of this membrane to expedite delivery of the foal)
+
+5960	(hard)							TH358 HIH980-2
+Q:  What is the tube through which both semen & urine pass through the male's penis?
+A:  Urethra
+
+5961	(hard)							TH128 HIH920-1
+Q:  2 part question -- What is the birth canal & what organs does it consist of?
+A:  Organs through which the unborn animal passes at birth.  Consists of cervix & vagina
+
+5962	(hard)						TH319/HIH920-4
+Q:  What is the funnel-like membrane which surrounds the ovary & catches the egg when it's released?
+A:  Infundibulum
+
+
+
+
+
+5963	(hard)					CAHA72
+Q:  What does the urachus do?
+A:  Takes urine away from the foal during pregnancy
+
+5964	(hard)							TH362 HIH980-3
+Q:  Where, specifically, does sperm production take place?
+A:  Seminiferous tubules
+
+5965	(hard)						HIH920-4, 980-4
+Q:  What is the function of the cremaster muscle?
+A:  Raises & lowers the scrotum
+
+5966	(hard)					HIH980-4
+Q:  What is the name for the major muscle that raises & lowers the scrotum?
+A:  Cremaster
+
+5967	(hard)							TH321/HIH920-1
+Q:  Into what organ in the mare does a stallion deposit sperm during mating?  The foal also passes through this during birth 
+A:  Vagina
+
+5968	(hard)								TH340 HIH980-4
+Q:  Why are the testicles suspended outside the body cavity?
+A:  Because the scrotal temperature is several degrees cooler than that of the body cavity which is necessary for normal development of the sperm
+
+5970	(hard)							TH361 HIH980-1
+Q:  The glands located along the urethra of the male produce fluids which nourish & preserve the sperm.  What are these glands called?
+A:  Accessory glands
+
+5971	(hard)							TH319 HIH920-3
+Q:  Define corpus luteum.
+A:  A solid mass that forms on the ovary after ovulation; produces the hormone progesterone that helps maintain pregnancy
+
+5972	(hard)								TH358 HIH980-4
+Q:  What is the main function of the epididymis?
+A:  To store sperm	 (additional info -- where they undergo maturation)
+
+5973	(hard)								TH128
+Q:  Define reproductive organs
+A:  Special organs that produce sex cells & carry out the process of reproduction
+
+5974	(hard)							TH339 DET100
+Q:  Hormones that stimulate the development & maintenance of feminine sexual characteristics are called what?
+A:  Estrogenic hormones  OR  Estrogens
+
+5975	(hard)							TH317-18 HIH920-4
+Q:  Define follicle
+A:  Bubble-like structure on the ovary which contains the egg
+
+5976	(hard)							TH319 HIH920-4
+Q:  Define ovulation
+A:  Time when the follicle bursts & the egg is released
+
+5977	(hard)						DET213/CAHA72-73/TH340,127/HIH970
+Q:  What is the placenta?
+A:  Membrane/organ that attaches the fetus to the uterus & transports nutrients & wastes between the uterus & fetus 	(additional info -- via the umbilical cord)
+
+5978	(hard)							HIH950-2old
+Q:  What does agalactic mean?
+A:  Without milk
+
+5979	(hard)							HIH940-4
+Q:  Regumate is the synthetic form of which hormone?
+A:  Progestrone
+
+5980	(hard)							HIH940-3
+Q:  What ratio of daylight to darkness seems to bring mares into heat?
+A:  16 hours of daylight to 4 hours of darkness   OR 4:1      Accept either
+
+5981	(hard)							FCH237/HIH930-2, 940-3
+Q:  Use of an artificial lighting program to induce early estrous cycling and ovulation should include 16 hours of light each day and begin how long before the desired breeding season?
+A:  2 to 3 months		 (accept anything within this range)
+
+5982	(hard)							TH319/HIH920-3
+Q:  What is the infundibulum?
+A:  Funnel-like membrane that surrounds the ovary & catches the egg
+
+5983	(hard)							HIH980-3
+Q:  What is spermatogenesis?
+A:  Process of producing sperm cells
+
+5984	(hard)							TH339/HIH920-6/CAHA71
+Q:  What does a lutenizing hormone do?
+A:  Causes ovulation & initiates the formation of the corpus luteum
+
+5985	(hard)							TH423/DET87/HIH970-4
+Q:  What is dystocia?
+A:  Difficulty in giving birth    (foaling problems)
+
+5986	(hard)							HIH920-3
+Q:  What is the main purpose of the myometrium?
+A:  Responsible for the contractions that expel the foal at birth
+
+5987	(hard)							HIH920-6
+Q:  In response to GnRH release from the hypothalmus, what structure releases FSH & LH?
+A:  Pituitary gland
+
+
+
+
+5988	(hard)							TH422/DET200
+Q:  Give 2 reasons for injecting a mare with oxytocin
+A:  Help with delivery of foal, stimulate milk let down
+
+5989	(hard)							ADV327-1 HIH980-2
+Q:  The Sertoli cells located in the seminiferous tubules of the stallion's testes stimulate spermatogenesis in the stallion.  What hormone from the pituitary gland controls the Sertoli cells?
+A:  FSH (follicle stimulating hormone)
+
+5990	(hard)							TH344/HIH940-4
+Q:  What does PMSG stand for?
+A:  Pregnant mare serum gonadotropin
+
+5991	(hard)							HIH920-6, 940-4/CAHA71
+Q:  What hormone released by the uterus if the mare isn't pregnant is responsible for the regression of the corpus luteum & the return of the mare cycling?
+A:  Prostaglandin
+
+5992	(hard)								TH427 HIH975-4
+Q:  What is the protein in colostrum that provides the foal with temporary immunity against infectious diseases?
+A:  Immunoglobulin (antibodies)
+
+5993	(hard)							CAHA71
+Q:  When during the estrous cycle does ovulation usually occur?
+A:  24 - 28 hours before end of estrus           (accept any number within range)
+
+5994	(hard)								FCH239
+Q:  2 part question:  What substances in the urine & in the blood are used to test for pregnancy & what specifically are they tested for?  
+A:   Urine—estrogen; 	blood --PMSG (pregnant mare serum gonadotropin)
+
+5995	(hard)							TH376 HIH930-3
+Q:  Name the operation performed on mares where the upper part of the vulva is stitched to reduce infection?
+A:  Caslicks
+
+5996	(hard)							HIH920-4
+Q:  What organ is responsible for the production of estrogen & progesterone?
+A:  Ovary
+
+5997	(hard)						TH396
+Q:  How long can sperm cells survive in the female reproductive tract?
+A:  48 -72 hours
+
+5998	(hard)					HIH 940-5old				
+Q:  You do the math… A newborn foal normally weighs 9-10% of the mare’s body weight.  What would be the approximate weight of a foal if the mare weighs 1200 pounds?
+A:  Approximately 108 to 120 pounds		 (accept anything within this range)
+
+5999	(hard)							HIH920-6
+Q:  Once the follicle has ruptured & released the ova, the luteal phase begins.  The corpus luteum begins to form & is responsible for the release of what hormone?
+A:  Progesterone
+
+6000	(hard)							TH341/CAHA72 HIH920-3
+Q:   What is the name of the innermost membrane of the fetal placenta that forms the water bag for the developing fetus?
+A:   Amnion
+
+6001	(hard)							CAHA72
+Q:  What is the name of the hard disc-like structure found in the placental fluids after birth?
+A:  Hippomane
+
+6002	(hard)							ADV327-2 HIH980-3
+Q:  What structures in the testes serve as the location for spermatogenesis?
+A:  Seminiferous tubules
+
+6003	(hard)							HIH930-2
+Q:  What is the purpose of a Caslick's operation?
+A:  To seal the vulva  OR  to prevent air/debris from being sucked into reproductive tract of the mare
+
+6004	(hard)							CAHA5
+Q:  What do the sebaceous glands in the prepuce of a stallion produce?
+A:  Smegma
+
+6005	(hard)							TH358/HIH980-3/DET97
+Q:  In what part of the stallion's reproductive tract do sperm undergo modifications or maturation?
+A:  Epididymis
+
+6006	(hard)							TH338 HIH920-6
+Q:  What 2 hormones increase just before ovulation in the mare?
+A:  Estrogen & Lutenizing Hormone/LH
+
+6007	(hard)							HIH980-1
+Q:  2 part question:  What is a bilateral cryptorchid stallion & explaining your answer, can they be used for breeding?
+A:  Stallion that's retained both testicles in the body cavity.  No, they can’t be used for breeding because they're infertile 	(additional info -- due to suppressed spermatogenesis)  
+
+6008	(hard)							HIH920-4
+Q:  What is the function of the cilia in the oviducts?
+A:  Transporting the ovum/egg down the oviduct & moving sperm in opposite direction
+
+6009	(hard)							HIH980-2
+Q:  What is the primary hormone that's produced & secreted by the Leydig cells in the testes?
+A:  Testosterone
+
+6010	(hard)						HIH920-3
+Q:  Which layer of the mare's uterus is responsible for the powerful contractions which expel the foal at birth?
+A:  Myometrium (middle layer)        Accept either
+
+6011	(hard)							HIH980-2
+Q:  Leydig cells in the stallion are responsible for the production of what 2 hormones?
+A:  Testosterone & estrogen
+
+
+
+6012	(hard)							TH127/HIH920-3
+Q:  What hormone causes the cervix of the mare to become relaxed during estrus?
+A:  Estrogen
+
+6013	(hard)							ADV327 HIH980-2
+Q:  What is the primary purpose of FSH in the stallion?
+A:  Stimulates production of sperm
+
+6014	(hard)							TH387 HIH990-4
+Q:  How is it determined that a stallion has ejaculated while breeding a mare?
+A:  Tail flagging
+
+6015	(hard)							TH360 HIH990-5 
+Q:  The vesicular gland is responsible for adding what to the semen?
+A:  Gel fraction
+
+6016	(hard)							TH340 DET200
+Q:  What hormone is responsible for both milk let-down & contractions during parturition?
+A:  Oxytocin
+
+6017	(hard)							HIH920-3
+Q:  Name the 2 tough sheet-like structures by which the uterus is suspended within the body cavity?
+A:  Broad ligaments
+
+6018	(hard)							TH339 HIH920-6
+Q:  What are the 2 ovarian hormones that control the mare's estrous cycle?
+A:  Estrogen & progesterone
+
+6019	(hard)							HIH920-6
+Q:  Which hormone do the luteal cells within the corpus luteum secrete?
+A:  Progesterone
+
+6020	(hard)							TH595 HIH970-4
+Q:  Give a good reason for not breaking the foal's umbilical cord too soon after birth?
+A:  Foal would be deprived of about 30% of the blood that flows from mare to her foal immediately after birth
+
+6021	(hard)							TH411/HIH960-1
+Q:  Define embryo transfer
+A:  Transfer of fertilized egg from a donor mare to another recipient mare who carries it to term
+
+6022	(hard)							HIH990-2
+Q:  When collecting semen from a stallion for use in artificial insemination, what is the most common method?
+A:  Using an artificial vagina   (use a jump mare or breeding phantom/dummy)         
+
+6023	(hard)							HIH920-5
+Q:  During which stage of a mare's reproductive cycle will she exhibit eversion of the vulva?
+A:  Estrus
+
+6024	(hard)							ADV327-1 HIH980-2
+Q:  Which hormone stimulates spermatogenesis or the production of sperm in the stallion?
+A:  FSH
+
+
+6025	(hard)							TH340 DET10, 56
+Q:  The amnion, allantois, & chorion comprise what structure?
+A:  Placenta
+
+6026	(hard)							ADV327-1 HIH980-3
+Q:  The process of the production of sperm cells is called what?
+A:  Spermatogenesis
+
+6027	(hard)							TH343-44
+Q:  The gestation period of a mare carrying a horse foal is approximately how many days shorter than it would be if she were carrying a mule foal?
+A:  10 days
+
+6028	(hard)							TH218
+Q:  Lactation increases the energy requirements of a mare above maintenance by what percentage?	
+A:  50 - 70%                (accept any number within range)
+
+6029	(hard)				FCH247
+Q:  Pandiculation is an indication of the well-being of a foal & usually occurs within 4 hours after birth.  What is pandiculation?
+A:  Stretching                      
+
+6030	(hard)				HIH940-4
+Q:  A “red bag delivery” is most commonly observed in mares that have grazed on what type of pasture?
+A:  Fescue            
+
+6031	(hard)				CAHA332
+Q:  What term describes plant toxins that cross the placental barrier during pregnancy & cause defects in the foal?
+A:  Teratogenic               
+
+6032	(hard)				HIH980-3
+Q:  Mares are often placed under lights to bring them into heat earlier.  Why would you want to place a stallion under lights?
+A:  Increase testicular activity              
+
+6033	(hard)				HIH910-3
+Q:  Weakening of the broad ligaments can cause a downward tilting of the uterus & can predispose a mare to uterine infections & infertility.  Other than injury & illness, identify 2 things that would contribute to the weakening of these ligaments?
+A:  Age of mare, number of pregnancies the mare has had            
+
+6034	(hard)				TH240,247)
+Q:  In what specific area of the uterus does the fertilized egg attach & the fetus develop in a normal horse pregnancy?
+A:  Uterine horn                      
+
+6035	(hard)				HIH930-4
+Q:  Ovulation will usually occur within how many days after the discontinuation of treatment with Regumate?
+A:  Approximately 12 days              
+
+
+
+6036	(hard)				HIH920-4
+Q:  You recently purchased a new stallion for your breeding program.  The previous owner stated that the stallion had a respiratory illness accompanied by a high fever 30 days ago.  What impact would this have on the stallion’s fertility?
+A:  Would expect a lower sperm count for 65 days after the illness         
+
+6037	(hard)				TH368
+Q:  Which 2 criteria used to evaluate semen are NOT affected by the length of day or season of year?
+A:  Morphology & motility                
+
+6038	(hard)				TH429
+Q:  What is the slang term for a foal that’s born with septicemia & is semi-comatose?
+A:  Sleeper or sleeper foal         
+
+6039	(hard)				HIH920-4
+Q:  What is the national average for live foal births in human-controlled breeding operations?
+A:  50 – 60%              
+
+6040	(hard)					 HIH920-5
+Q:  What is the average for live foal births in feral horse populations?
+A:  80-90%             
+
+6041	(hard)					HIH930-3
+Q:  What is short-cycling a mare?
+A:  Giving hormones to return mare to heat before their next natural cycle     
+
+6042	(hard)					HIH930-6
+Q:  What has been one of the most important advances in commercial horse breeding?
+A:  The practice of AI (artificial insemination)    
+
+6043	(hard)				HIH950-1
+Q:  AI is accepted in most breed associations.  Name a breed that requires live cover breeding
+A:  Thoroughbred             
+
+6044	(hard)				HIH950
+Q:  Name a cause of colic in newborn foals                   
+A:  Meconium impaction, gastric ulcer, enteritis, inguinal hernia, lethal white syndrome
+
+6045	(hard)							ADV336/HIH940-4
+Q:  Prostaglandin, human chorionic gonadotropin & progesterone (Regumate) are 3 hormones that can be used to do what?
+A:  Manipulate estrus in mares
+
+6046	(bonus)				FCH240
+Q:  The most common cause of spontaneous abortion is placental or uterine infections.  Prior to the current widespread use of ultrasound, what accounted for about 25% of abortions & was considered to be the second most common cause?
+A:  Twinning              
+
+
+
+
+
+BONUS
+
+6047	(bonus)							HIH1380-24/HIH920-3
+Q:  Name 3 distinct layers of the uterus.
+A:  Endometrium, myometrium, serosa
+
+6048	(bonus)							ADV336-2/HIH940-2
+Q:  When scoring the behavioral estrus in mares, give 3 examples of behavior that would indicate a score of 4
+A:  Mare shows intense interest in stallion, turning hindquarters to him, leaning towards him, exhibits continuous winking & urination, squats, tail lifting, calling
+
+6049	(bonus)					HIH445-3, 930-5
+Q:  Name 3 booster vaccinations should the broodmare receive 4 - 6 weeks before foaling?
+A:  Tetanus, rhinopneumonitis, flu  change to - tetanus, WEE/EEE, influenza, West Nile, rabies
+
+6050	(bonus)							H3-34/HIH910-1
+Q:  Give 3 negative aspects of breeding your horse.
+A:  Years before foal can be ridden, might not be able to sell foal, foal might not inherit desirable characteristics, pregnancy or birth complications, mare or foal could die during foaling, might not be able to use mare during pregnancy/lactation, expenses such as stud fee, mare care, medical expense, “foal proofing” facility, etc.     Accept any reasonable answers
+
+6051	(bonus)							H3-9
+Q:  Give 3 positive aspects of breeding your horse.
+A:  Good learning experience, can imprint/train foal, can plan mating to produce type of offspring you want, possible income from sale of foal or pregnant mare
+
+6052	(bonus)							HIH930-1
+Q:  Give 3 of the 5 reproductive classifications of mares.
+A:  Pregnant, open, barren, maiden, wet/lactating/nursing
+
+6053	(bonus)								FCH230/HIH930-1
+Q:  2 part question:  Reproductively, name 3 ways mares can be classified & explain each classification.
+A:  Barren—mare that's been bred, but isn't pregnant; 
+      In foal/pregnant—pregnant mare; a mare which will foal in the current or following year
+       Wet/lactating—nursing a foal; 
+      Maiden—never been bred;  (or mare that has never delivered a foal)
+      Open—currently not in foal (hasn't been bred this season, but has produced foal in previous seasons)
+HIH definition simpler – “mare not pregnant in the current year”
+
+6054	(bonus)							TH365 HIH990-6
+Q:  Name 3 of the criteria used to evaluate stallion semen.
+A:  Concentration, motility/movement, volume, morphology, appearance
+
+6055	(bonus)							INT226-2/ADV326 HIH920-5
+Q:  Name 3 behaviors of a mare in diestrus towards a stallion.
+A:  Biting, kicking, striking, squealing, tail switching, ignoring/disinterested
+
+6056	(bonus)							TH374 HIH980
+Q:  Give 3 causes of infertility in the stallion.
+A:  Poor health, poor nutrition, anxiety, masturbation, unnecessary rough handling, scared by aggressive mares, injury, worry, improper management, overuse as a teaser, overbreeding, pain
+
+6057	(bonus)							TH339 HIH920-6
+Q:  What are the 3 principal estrogenic hormones?
+A:  Estradiol, estrone, estriol
+
+6058	(bonus)							TH375/HIH910-2
+Q:  You have recently opened a Quarter Horse breeding operation.  You think you've found the ideal stallion for your program.  His conformation is nearly flawless.  However, there are other considerations when purchasing a stallion -- Name 3 other considerations.
+A:  Semen evaluation, weight (over or under), cardiovascular system, reproductive tract palpation, temperament/manners,  condition of respiratory tract, record of settling mares, general health, hindleg soundness, arthritis, parasite infestation, colic frequency, libido evaluation, melanomas, genetic problems, unsoundness, 
+
+6059	(bonus)							TH323 HIH920-5
+Q:  Name 3 signs of estrus in the mare.
+A:  Frequent urination, flexed pelvis/squatting, winking, elevated tail, acceptance of stallion
+
+6060	(bonus)							TH374/HIH920-5
+Q:  Name3 general causes of infertility in either a mare or stallion.
+A:  Infection, hormonal disturbance/imbalance, nutritional factors, anatomical problems, age, psychological, mechanical, management factors
+
+6061	(bonus)							TH341 DET
+Q:  Name the 3 membranes of the placenta.
+A:  Amnion, allantois, chorion
+
+6062	(bonus)							TH346 HIH930,940
+Q:  What are 3 methods that can be used to determine if a mare is pregnant?
+A:  Blood test for PMSG after 45 days, palpation, failure to come into heat, ultrasound
+
+
+6063	 (bonus)							TH425-27HIH
+Q:  Name 3 causes of equine abortion
+A:  Infectious:  acute infections, chronic infections, bacterial infections, viral infections, fungal infections, non-infectious:  fetus in the uterine body instead of uterine horn, endometrial fibrosis, strangulation of umbilical cord, fetal abnormalities, trauma, twins, fetal malnutrition, problems with placenta, drugs, plants, hormone imbalance, nutritional deficiencies
+
+6064	(bonus)							HIH920-1/TH128
+Q:  Name 3 parts of the reproductive tract of the mare.
+A:  Ovaries, oviducts/fallopian tubes, uterus, cervix, vagina, vulva
+
+6065	(bonus)							TH128 HIH980-1
+Q:  Name 3 parts of the stallion's reproductive tract.
+A:  Testicle, scrotum, epididymis, vas deferens, urethra, penis
+
+6066	(bonus)							HS22 DET
+Q:  Name 3 terms that mean the removal of testicles in a horse.
+A:  Alter, geld, castrate
+
+
+
+
+6067	(bonus)								TH385 HIH
+Q:  Give 3 advantages of castration.
+A:  Geldings are safer for novice horsemen, geldings are easier to care for, geldings are easier to transport, geldings are less prone to injuries, can keep several geldings together, can keep geldings with mares, prevents accidental pregnancy
+
+6068	(bonus)							TH363 HIH980-3
+Q:  Name the 3 parts of the sperm cell
+A:  Head, midpiece, tail
+
+6069	(bonus)							FCH245/TH417	HIH970-2-3
+Q.  List three things that you might observe in your pregnant mare that would indicate she is starting the first stage of labor.
+A.  Seeks isolation from other horses
+Stops eating
+Becomes restless – pacing, lies down and gets up repeatedly
+Tail swishing
+Sweating
+Frequent urination
+Wax on the end of the teats may fall off and milk starts to drip
+
+6071	(bonus)                           HIH950-8
+Q:  Premature separation of the placenta during parturition resulting in hypoxia is a known cause for neonatal maladjustment syndrome.  Identify 3 terms used to describe these foals as they progress through the stages of this disorder
+A:  Wanderer, dummy, convulsive or barker foal                   
+
+6072	(bonus)				TH424
+Q:  A broodmare whose foal is in a “flexed capri” position would need what problem corrected to enable normal vaginal delivery?
+A:  Knees are bent, so foal would need repositioned & front legs straightened into normal presentation for delivery                         
+
+6073	(bonus)								HS22 DET111,107,62
+Q:  What are the terms used for a baby horse, a baby female horse, a baby male horse?
+A:  Baby horse is a foal, baby female horse is a filly, & baby male horse is a colt
+
+6074	(bonus)				FCH237
+Q:  In regards to the stallion, identify 4 advantages for artificial insemination versus live cover breeding
+A:  Prevent spread of venereal disease
+Able to breed injured/crippled stallions that are unable to mount a mare
+Eliminates injury to stallion from nervous, aggressive or shy mares
+Able to breed more mares per season
+Able to impregnate a mare located far away by shipping semen
+
+6075	(bonus)				FCH237
+Q:  What are the 4 methods used to breed mares?
+A:  Pasture breeding, hand breeding, artificial insemination, embryo transfer        
+
+
+
+
+
+6076	(bonus)				FCH251
+Q:  Describe 3 methods that can be used to help establish an effective airway for a foal that’s not breathing after delivery
+A:  Clear & remove membranes from over nostrils
+Place foal on sternum (head outstretched with rear end elevated)
+Gently remove fluids from nostrils with fingers
+Tickle inside of nose to induce sneezing
+Suction fluids from mouth using bulb syringe
+Rub with towels               
+
+6077	(bonus)					HIH930-4
+Q:  Give 3 physical signs of immaturity in a newborn foal
+A:  Underweight, silky hair, floppy ears, weakness, poor suckle reflex, illness/septicemia      
+
+6078	(bonus)				HIH930-4
+Q:  Give 3 factors affecting gestation length           
+A:  Time of year (late winter/early spring may foal 5-10 days later), fetal sex, maternal nutrition, environmental stress, ingestion of toxins (fescue)
+
+6079	(bonus)				HIH950-1
+Q:  Name 3 advantages of AI     (artificial insemination)           
+A:  breed to large pool of stallions no matter where located geographically – potential to improve genetics in their herd w/o shipping mare to stud, potential injuries/risks associated w/transportation eliminated, health risks due to disease transmission reduced, mares susceptible to uterine infections more likely to conceive, stallions can breed to more mares
+
+6080	(bonus)				HIH950-1
+Q:  Name 3 disadvantages of AI   (artificial insemination)    
+A:  initial costs to stallion owner, need skilled staff, costs of shipping (usually overnight), mare must be examined – timing of heat & ordering, need good communication between mare/stallion owners, must be ordered in advance
+
+6081	(bonus)				HIH960-2
+Q:  Name 3 reasons why embryo transfer might be used         
+A:  Obtain foals from mares w/o withdrawing them from competition, produce more than one foal from a valuable mare within same year, obtain foals from young, cycling mares that lack mental and/or physical maturity, provide economic benefit to owner, improving productivity of fertile mares w/lesser genetic potential by using them for surrogates
+
+6082	(bonus)				HIH975-3
+Q:  Name 3 symptoms of meconium impactions in newborn foals
+A:  Depression, not interested in nursing, flagging tail, increased heart rate/tachycardia, increased respiration rate/tachypnea, abdominal distension              
+
+6083	(bonus)				HIH990-1
+Q:  What are 3 reasons for doing a semen evaluation?
+A:   Monitor stallion’s semen quality, estimate the number of mares that could be bred, maximizing use of single time breeding, shipping cooled semen, freezing semen for later use, quality control    
+
+6084	(bonus)							TH360   HIH980-1
+Q:  What are the 3 accessory glands located along the urethra in the stallion?
+A:  Prostate, seminal vesicles/vesicular glands, Cowper's/bulbourethral glands

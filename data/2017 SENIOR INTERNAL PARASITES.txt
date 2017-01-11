@@ -1,0 +1,577 @@
+2017 SENIOR INTERNAL PARASITES
+
+EASY
+
+5401	 (easy)								HIH415-6
+Q:  During what time of the year are adult bot flies most active?
+A:  Late summer to early fall
+
+5402	(easy)								HIH430-1
+Q:  If you see a rough hair coat on a horse, what would you suspect the problem is?
+A:  Worms    (parasites)
+
+5403	(easy)								HIH430-6
+Q:  In reference to parasites, what can happen if a pasture is overgrazed?
+A:  Pasture can become a serious source of parasite infections   (horse can get worms)
+
+5404	(easy)								HIH430-6
+Q:  Ideally, horses should be rotated to fresh pasture every 2 weeks.  Why?
+A:  To allow the pasture time to re-grow OR to reduce parasite infestation  
+
+5405	(easy)								HIH430-6/TH606
+Q:  Why should you never feed your horse on the ground?
+A:  Horse can get parasites OR horse can eat sand & can develop colic
+
+5406	(easy)								HIH430-7
+Q:  Why should you rotate or alternate chemical deworming products?
+A:  Worms can develop resistance
+
+5407	(easy)								HIH110-5
+Q:  What is it called when you give medication to decrease the number of internal parasites in the horse?
+A:  Deworming or worming
+
+5408	(easy)								HIH430-4
+Q:  How can you remove bot eggs?
+A:  Scrape them off
+
+5409	(easy)								HIH415-5,430-3
+Q:  What insect does the adult bot fly look like?
+A:  Honeybee
+
+5410 	(easy)							HIH430
+Q:  What general type of horse is very susceptible to internal parasites?
+A:  Young, thin, old, or horses in poor condition		 (only need to give one)
+
+5411	(easy)								HIH430-2/TH649-50
+Q:  What cycle of a parasite must be broken to decrease the number of parasites in horses?
+A:  Life cycle
+
+5412	(easy)								HIH430-3/FCH158
+Q:  What parasite causes a horse to rub his rump against posts, trees or other objects?  
+A:  Pinworms, mites, or lice 	(do not need to give all)	
+
+
+
+5413	(easy)								HIH430-1/HS35
+Q:  Internal parasites are particularly harmful to foals & young horses up to what age?
+A:  18 months - 2 years 		(accept any number within this range)
+
+5414	(easy)								HIH430-1,2
+Q:  Generally speaking, what age horses are ascarid infections restricted to?
+A:  Young horses 	(generally less than 18 months)
+
+5415	(easy)								HIH430-4,5
+Q:  What age horses are affected by strongyles & bots?
+A:  All ages
+
+5416	(easy)							HIH430-2
+Q:  What may happen if horses are de-wormed too frequently?
+A:  Parasites may develop resistance
+
+5417	(easy)								HIH430-1/TH630
+Q:  What is the most common cause attributed to coughing, pot bellies & rough hair coats in young horses?
+A:  Worms (specifically ascarids or roundworms)  	 (accept either general or specific answer)
+
+5418	(easy)								HIH430-3
+Q:  Where on the horse do bot eggs hatch?
+A:  In the horse’s mouth
+
+5419	(easy)								HIH430-6,730-9
+Q:  How does dragging pastures kill internal parasites?
+A:  Exposes them to the sun
+
+5420	(easy)								HIH430-3/TH640
+Q:  What is the most obvious clinical sign of pinworm infestation?
+A:  Rubbed tail/rump OR bare patches on tailhead/buttocks      (accept either)
+
+5421	(easy)								HIH430-1/TH644-66
+Q:  2 part question:  When worming, what stage of the worm's life cycle do you particularly want to destroy & why?
+A:  Adult;   so they can't lay eggs
+
+5422	(easy)								HIH430-7
+Q:  What times of year is it most important to deworm horses?
+A:  Spring & Fall
+
+5423	(easy)								HIH430
+Q:  How can you evaluate the effectiveness  of dewormers?
+A:  Have vet do a fecal egg count
+
+5424	(easy)								HIH430-3
+Q:  Historically, only young horses were susceptible to pinworms, but for some unknown reason, they are now found in what age groups?
+A:  All ages
+
+
+
+
+5425	(easy)								HIH430-4
+Q:  What causes bot eggs to hatch?
+A:  Warmth & moisture from the horse’s tongue 
+
+5426	(easy)								HIH430-10
+Q:  What is the main principle for how frequently to worm your horse?
+A:  Deworm as infrequently as possible, but as often as necessary    (also accept as recommended by your vet)
+
+5427	(easy)								HIH430
+Q:  Which is more important in parasite control, treatment or prevention?
+A:  Prevention
+
+5428	(easy)								HIH430/HS56/TH647
+Q:  How often should horses be “wormed”?
+A:  As recommended by your vet OR 2 times a year in the spring & fall OR 4 times a year OR every 2 months OR daily with certain types of wormers
+
+5429	(easy)								HS43/HIH430
+Q:  Which internal parasite of the horse spends its adult life outside of the horse?
+A:  Bots
+
+5430	(easy)								HS43/HIH430
+Q:  Name the fly that hovers about the horse, then quickly darts toward the animal & glues individual eggs to the hair in a matter of seconds?
+A:  Bot fly
+
+5431	(easy)							TH640
+Q:  What color are pinworms?
+A:  White
+
+
+
+
+MEDIUM
+
+5432	(medium)							DET106,213,224,156
+Q:  Fenbendazole, Piperazine, Pyrantel and Ivermectin are examples of what type of medication? 
+A:  Anthelminitic    (de-wormer) 
+
+5433	(medium)							FCH161
+Q:  Name the wormer available in alfalfa-flavored pellets which is designed to be fed on a daily basis.
+A:  Strongid C
+
+5434	(medium)							HIH430-6
+Q:  What is the most common form of anti-parasitic compound for horses?
+A:  Paste
+
+5435	(medium)							TH623
+Q:  Define larvae.
+A:  The immature, worm-like form of certain parasites
+
+
+
+5436	(medium)							HIH430-4
+Q:  Tapeworms infect horses through which intermediate host?
+A:  Mites 	(specifically oribatid mite)		accept either general or specific
+
+5437	(medium)							HIH430-6
+Q:  How does mowing & harrowing a pasture help control parasites?
+A:  Breaks up the manure deposits & exposes larvae to sun which kills them
+
+5438	(medium)							TH588
+Q:  Where in the horse’s digestive system would you find bot larvae attached?
+A:  Stomach
+
+5439	(medium)							HIH430-5
+Q:  Which internal parasite is the most significant & most common?
+A:  Strongyle
+
+5440	(medium)							HIH415-5,430-3
+Q:  How do bot fly larvae usually get into the horse's mouth?
+A:  Horse bites/licks at areas where eggs are laid which stimulates hatching of the eggs
+
+5441	(medium)							HIH415-5,430-3
+Q:  How many species of bot fly are there?
+A:  At least 3
+
+5442	(medium)							HIH430
+Q:  In the 5 stage cycle of the life cycle of a parasite, what happens in stage 1?
+A:  Eggs passed out to pasture
+
+5443	(medium)							HIH430
+Q:  At what stage in an internal parasite's life cycle does it become infective?
+A:  Stage 2   (larvae)
+
+5444	(medium)							HIH430-5
+Q:  What is the main damage caused by pinworms?
+A:  Irritation to the anal region causing tail rubbing
+
+5445	(medium)							HIH430-5
+Q:  What forms as a result of the bloodworms migrating in the arteries?
+A:  Blood clots
+
+5446	(medium)							HIH430-1
+Q:  Which specific internal parasite is most common in young horses?
+A:  Ascarids (also accept roundworms, nematodes, or Parascaris equorum)
+
+5447	(medium)							HIH430-6
+Q:  What is an anthelmintic?
+A:  De-wormer		 (wormer)
+
+5448	(medium)							HIH430
+Q:  What is a fecal egg count?
+A:  Lab procedure used to determine the number of parasite eggs in a fecal sample
+
+
+5449	(medium)							HS44
+Q:  When the horse licks or bites itself, where the bot fly eggs are attached, what does this do?
+A:  Stimulates hatching
+
+5450	(medium)							HIH430-1
+Q:  Why are horses older than 18 months not commonly infected with ascarids?
+A:  They develop immunity after being exposed early in life
+
+5451	(medium)							HIH430-2
+Q:  Most foals infected with threadworms don't show any symptoms.  For those that do, what is the main symptom?
+A:  Diarrhea
+
+5452	(medium)							HIH430-4/TH161
+Q. Explain why a boticide should be given one month after the first frost?
+A. First frost will kill the adult flies.  If you use a boticide 1 month later, hatched larvae that have migrated to the stomach will be killed
+
+5475	(medium)							HIH430-4
+Q:  Tapeworms cluster in the cecum.  The presence of large numbers of tapeworms may result in what?
+A:  Intestinal blockage & colic
+
+5476	(medium)							HIH430-6
+Q:  No deworming schedule fits every horse.  Name 2 reasons why.
+A:  Local parasite resistance, fecal egg count of horse, age of horse, health of the horse, number of horses on farm, climate  
+
+5477	(medium)							HIH430-7
+Q:  Parasite control programs should target which specific internal parasite that is the most common & is the most problematic.
+A:  Strongyles		(specifically small strongyles)			accept either general or specific
+
+5479	(medium)							HIH430-7
+Q:  Effective de-wormers should be able to reduce the number of eggs shed by how much?
+A:  At least 90% 	  (additional info -- below 80% usually indicates resistance)
+
+5480	(medium)							HIH430-8
+Q:  In customizing an internal parasite control program, what is the first & most important step?
+A:  Determine which drugs are still effective 
+
+5481	(medium)							HS45
+Q:  How long are most strongyles?
+A:  Less than an inch
+
+5482	(medium)							HIH430-4
+Q:  What is another name for strongyles?
+A:  Bloodworms
+
+5483	(medium)							HIH430-1
+Q:  Where do ascarid larvae develop into mature worms?
+A:  Small intestine
+
+
+5484	(medium)							HIH430-2,3 975-14
+Q:  Which type of worm affects foals almost exclusively, causing diarrhea, dehydration & weight loss?
+A:  Threadworms     (strongyloides or Strongyloides westeri)	   accept either general or specific
+
+5485	(medium)							HIH430-2
+Q:  The more mature ascarids are, the more they are susceptible to what?
+A:  De-worming agents
+
+5486	(medium)							HIH430-6
+Q:  What is a disadvantage to harrowing or dragging your pasture in the fall?
+A:  Leaves it uniformly contaminated until the following spring   
+
+5487	(medium)							HIH430-7
+Q:  Why is it necessary to know which de-worming agent is effective with which internal parasite?
+A:  They differ in their effectiveness OR some worms are resistant to some dewormers
+
+
+
+
+HARD
+
+5488	(hard)								FCH159
+Q:  What type of parasite usually only occurs in horses that are grazed in pastures with donkeys?
+A:  Lungworms
+
+5489	(hard)								HIH415-5
+Q:  How long does the mature bot fly take to emerge from the pupa case?
+A:  1 - 2 months				accept either
+
+5490	(hard)								HIH430-9
+Q:  Approximately what percent of horses in a herd are able to maintain relatively low numbers of strongyles without any deworming?
+A:  50%
+
+5491	 (hard)								HIH430-9
+Q:  As a rule of thumb, about 20% of the horses in any herd are responsible for what percent of internal parasite egg production?
+A:  80%
+
+5492	(hard)								HIH430-1
+Q:  Name 3 internal parasites of horses.
+A:  Strongyles/bloodworms, ascarids/roundworms/nematodes, strongyloides/threadworms, pinworms, bots, tapeworms  
+
+5493	(hard)								HIH430-3
+Q:  Where may pinworm eggs be found?
+A:  Around horse’s anus, pasture, feces, bedding, feeding areas, water	 (only need to name one)
+
+5494	(hard)								HIH430-1
+Q:  Which internal parasite's eggs are very resistant to the outside environment & may survive as long as a decade?
+A:  Ascarid
+
+
+5495	(hard)								HIH430-3
+Q:  How long does it take for the bot egg to mature in the stomach?
+A:  Approximately 8 months
+
+5496	(hard)								HIH430-3
+Q:  During what seasons do bots detach themselves from the stomach wall & are passed outside in the feces?
+A:  Spring & summer
+
+5497	(hard)								TH623-29
+Q:  At what stage of development do large & small strongyles have marked differences?
+A:  4th stage
+
+5498	(hard)								TH630
+Q:  Describe stage 5 of the ascarid life cycle.
+A:  Develop into mature worms & begin egg production
+
+5499	(hard)								HIH430-9
+Q:  The tendency of some horses to harbor large numbers of internal parasites & therefore shed large egg amounts is due to what?
+A:  Genetic trait
+
+5500	(hard)								HIH430-7
+Q:  What is “tubing” a horse?
+A:  Inserting a nasogastric tube to release gas or to give medications such as wormers or medicines for colic
+
+5501	(hard)								HIH430-1
+Q:  How do ascarid larvae get out of the lungs to the small intestine?
+A:  Coughed up & then swallowed
+
+5502	(hard)								HIH430-8
+Q:  How can you totally eradicate large strongyles from a closed herd?
+A:  Use 1 larvicidal treatment every 6 months.  Since the life cycle is approximately 6 - 8 months, all will be eradicated within 18 months in a closed herd
+
+5503	(hard)								HIH430/TH623-35
+Q:  What happens in stage 4 in the life cycle of an internal parasite?
+A:  Migration of immature worms through the horse's tissues
+
+5504	(hard)								HIH430-5
+Q:  What internal parasite causes damage to the arterial walls?
+A:  Strongyles OR bloodworms OR Strongylus vulgaris
+
+5505	(hard)								HIH430-8
+Q:  Small strongyles are almost universally resistant to what drug class?
+A:  Benzimidazoles     (also accept pyrantel)
+
+5506	(hard)								HIH430-1
+Q:  Where do ascarid larvae go after penetrating the stomach wall?
+A:  Into the bloodstream where they migrate to the liver & lungs
+
+
+
+5507	(hard)								TH617
+Q:  What is a nematode?
+A:  Another name for a roundworm OR ascarid OR Parascaris equorum
+
+5508	(hard)								HIH430-8
+Q:  Besides incorporating ERP (egg reappearance period) into your parasite control program, the refugia needs to be kept as large as possible - why?
+A:  The resistant genes will be diluted by susceptible ones
+
+5509	(hard)								TH630/HIH430
+Q:  How long are ascarids?
+A:  5 - 15 inches		 (accept any number within this range)
+
+5510	(hard)								TH645
+Q:  What skin problem of horses is a possible result of the internal parasite Habronema?
+A:  Summer sores (dermatitis granulose)		accept either
+
+5511	(hard)							HIH975-14	HIH430
+Q:  How long is the life cycle of the ascarid?
+A:  2-3 months	(10-12 weeks)		accept either
+
+5512	(hard)								TH630
+Q:  What is the common name for Parascaris equorum?
+A:  Ascarid OR roundworm OR nematode
+
+5513	(hard)								HIH415-5
+Q:  A large infestation of bots can cause paralysis of what part of the alimentary canal?
+A:  Esophagus
+
+5514	(hard)								HS45
+Q:  Where do pinworms mature?
+A:  In the large intestine
+
+5515	(hard)								TH623
+Q:  What blood vessel is damaged by Strongylus vulgaris?
+A:  Cranial mesenteric artery
+
+5516	(hard)								HIH430-2
+Q:  How are foals infected with strongyloides or threadworms?
+A:  Ingest larvae in mare's milk OR ingestion or penetrating skin by free-living larvae in pastures, paddocks, etc.
+
+5517	(hard)								INT200-3L
+Q:  What color are the eggs of the nose bot fly?
+A:   Black
+
+5518	(hard)								HIH430-8
+Q:  In reference to parasite control, what is "refugia"?
+A:  Parasite population that hasn't been exposed to de-wormers
+
+5519	(hard)								TH405
+Q:  What causes summer sores?
+A:  Stomach worm larvae in the skin OR Habronema
+
+5520	(hard)								FCH159
+Q:  Horses infected with lungworms have generally been exposed to what animal?
+A:  Donkey
+
+5521	(hard)								FCH157
+Q:  Name 2 organs where you might find Parascaris equorum as either adults or larvae?
+A:  Small intestine, lungs, liver
+
+5522	(hard)								HS43
+Q:  How many eggs does the female bot fly lay?
+A:  About 500
+
+5523	(hard)								FCH158
+Q:  What is the genus of this parasite?  Adult horses rarely have clinical problems.  They primarily affect nursing foals.  The small, thread-like adult worms in the small intestine can cause diarrhea & un-thriftiness.
+A:  Strongyloides
+
+5524	(hard)								HIH430-5
+Q:  What is the scientific name of the following parasite?  Life cycle takes 6 - 7 months with the adult ending up in the large intestine.  The larvae migrate to the anterior mesenteric artery & may cause problems within the digestive tract by forming clots.  They are the most dangerous of the 3 large strongyles.
+A:  Strongylus vulgaris
+
+5525	(hard)								HIH430-1
+Q:  Why might a horse showing pulmonary symptoms of ascarids have a negative fecal count?
+A:  These symptoms are associated with immature worms, not egg-laying adults
+
+5526	(hard)								HIH430-1
+Q:  How many eggs can a female ascarid lay per day?
+A:  200,000
+
+5527	(hard)								HIH430-4
+Q:  What drug is 100% effective against tapeworms?
+A:  Praziquantel 	(found in Equimax, Quest Plus, & Zimectrin Gold)
+
+5528	(hard)								HIH430-5
+Q:  Environmental conditions are critical to the transmission of strongyles.  Eggs will only hatch & develop into infective larvae at what temperature?
+A:  45 - 85 degrees		 (accept any number within this range)
+
+5540	(hard)								HIH430-7
+Q:  What is anthelmintic resistance?
+A:  Ability of a worm to survive a dose of an anthelmintic  (wormer) which previously had  been effective
+
+5542	(hard)				HIH430-4
+Q:  The orbatid mite is the intermediate host for which internal parasite?
+A:  Tapeworm                
+
+5543	(hard)					HIH430-4
+Q:  Praziquantel & pyrantel pamoate are both effective for the control of tapeworms.  How does the dosage of pyrantel paomate need to be altered when treating tapeworms?
+A:  Give twice the standard dose                
+
+5544	(hard)				FCH157
+Q:  What type of parasite may result in coughing, fever & nasal discharge – which is commonly referred to as a “summer cold” - in foals?
+A:  Roundworms   (parascaris equorum)    
+
+7148	(hard)								HIH430-7
+Q:  What is ERP or egg reappearance period?
+A:  The time interval between treatment & resumption of significant number of eggs
+
+
+
+BONUS
+
+5546	(BONUS)						ES188/HIH430-3
+Q:  Horses can be grouped into low, medium & high "contaminators" according to their fecal egg counts.  Give the approximate egg count for each group.
+A:  Low - counts below 200
+Medium - counts between 200 - 500
+High - counts above 500
+
+5547	(BONUS)						ES189/HIH430-2
+Q:  Describe 3 life cycle stages of ascarids/roundworms.
+A:  Life cycle is about 3 months; eggs are passed out in feces to pasture; eggs become infective; eggs are swallowed by animal; larvae hatch in intestinal tract; larvae migrate through blood stream to liver & lungs; larvae are coughed up & swallowed; worms mature & reproduce in the small intestines
+
+5548	(bonus)								HIH430-9
+Q:  Customizing your internal parasite control program will reduce your cost & diminish resistance in parasites.  Give the general recommended worming schedule for low, medium & high "contaminators".
+A:  Low contaminators (fecal egg counts less than 200)—use minimum schedule (2 times a year in spring & 
+       fall); 
+Medium contaminators (fecal egg counts 200-500)— use minimum schedule plus one additional treatment 
+       during the main transmission season (OR 3 times a year);
+High contaminators (fecal egg counts above 500)— use the same measures as the moderate group with 
+       another additional treatment during the main transmission season  (OR 4 times a year)
+
+5549	(bonus)								HIH430
+Q:  Name 3 signs or effects of internal parasite infestation.
+A:  Rough coat, pot belly, un-thriftiness, slow growth, depression, weight loss, tail rubbing, colic, diarrhea, death
+Decreased work efficiency, poor ultilization of feed, intermittent lameness, bacterial/fungal disease,  colic, chronic cough, bronchitis, blood clots, digestive irritation, intestinal blockage,  retarded growth, , pneumonia, 
+
+5550	(bonus)								HIH430
+Q:  Name 2 types of internal parasites that affect horses of all ages.
+A:  Strongyles, bots, tapeworms, pinworms
+
+5551	(bonus)							HIH430
+Q:  Out of the 150 types of internal parasites known to infect horses, what are the 5 most significant ones?
+A:  Ascarids, strongyles, pinworms, bots, tapeworms  
+
+
+
+
+5552	(bonus)								HIH430-8
+Q:  What are 2 practices that should be used to assist in controlling internal parasite infestations?
+A:  Good sanitation, fecal egg count, appropriate use of anthelmintics/DEWORMER 
+
+5553	(bonus)								HIH430-5,6,7
+Q:  No deworming schedule fits all horses.   List 3 factors that would influence your deworming program.
+A:  Climate, humidity, rainfall, season, concentration of horses, size of pasture, age of horses, parasite infection history, travel of horses out of facility, fecal egg count
+
+5554	(bonus)								HIH415-5,430-4
+Q:  Name 3 areas on the horse where the bot fly lays her eggs.
+A:  Legs, shoulders, flank, mane, belly, chin, under jaw, nose, chest, neck
+
+5555	(bonus)								TH628
+Q:  Give the scientific name for 3 of the following 4 types of parasites:  large pinworms, bloodworms, roundworms, threadworms
+A:  Oxyuris equi (large pinworms), 		Strongylus vulgaris (bloodworms), 
+     Parascaris equorum (roundworms), 		Strongyloides westeri (threadworms)
+
+5556	(bonus)								HIH430-8
+Q:  Explain how you would determine which drugs are still effective against the internal parasites on your premises.
+A:  Approximately 4 months from last worming, collect fecal sample from 10% of the herd & do a fecal egg count.  Then treat horse with drug of interest & 2 weeks later, do a second fecal egg count.  The results are compared to see how effective the drug is.  A decrease of 90% is considered effective.  80% & below indicate resistance
+
+5557	(bonus)								HIH430-9
+Q:  Describe 3 life stage cycles of strongyles/bloodworms.
+A:   Life cycle is 8-11 months; eggs are passed out in feces to pasture; 2 larval stages outside the horse; 3rd larval stage ingested by horse; 4th larval stage leaves large intestine & migrates to the cranial mesenteric artery; worms  mature & reproduce in the large intestines
+
+
+5558	(bonus)							 FCH155
+Q:  What are the scientific names for the three types of large strongyles?
+A:  Strongylus vulgaris, Strongylus edentatus, Strongylus equinis	
+
+5560	(bonus)								HIH430-7
+Q:  Generally what is the egg reappearance period for the following drug classes:  a) Piperazine, Benzimidazole & Pyrantel, b) Ivermectin, & c) Moxidectin
+A:    a) 4 weeks or less,     b) 6 - 8 weeks,     c) 10 - 12 weeks
+
+5561	(bonus)								HIH430-6
+Q:  Give 3 generic wormer names.
+A:  Ivermectin, Pyrantel (pamoate & tartrate), Fenbendazole, Oxibendazole, Moxidectin, Praziquantel, Piperazine
+
+5562	 (bonus)								HIH430-6
+Q:  Give 3 examples of purge deworming.
+A:  Paste, stomach tube, using feed as carrier
+
+
+
+5563	 (bonus)								HIH430
+Q:  Name 3 internal parasites that are more common in young horses or foals than in mature horses.
+A:  Ascarids, pinworms, threadworms
+
+5564	 (bonus)								ADV300-3L
+Q:  2 part question:  There are 3 types of Gastrophilus or horse bot flies.  Give either their common name or scientific name & identify one area on the horse where they deposit their eggs.
+A:  Gastrophilus intestinalis/common bot fly – legs, chest, neck, stomach, flanks	
+     Gastrophilus nasalis/throat bot fly –under jaw, throat
+     Gastrophilus hemorrhoidalis/nose bot fly –upper & lower lips
+
+5565	(bonus)							TH630/HIH975-14
+Q:  Give 3 examples of damage that ascarids can do to a horse.
+A:  Chronic enteritis, disruption of digestive system/absorption of nutrients, malnutrition, pulmonary problems, destructive migrating through liver/lungs, peritonitis, intestinal obstruction/rupture etc
+
+5566	(bonus)								HIH430
+Q:  Name 3 management practices, not including worming,  that have been found to be effective in reducing parasite (both external & internal) numbers.
+A:  Don't feed on ground, remove manure, re-bed stalls regularly, compost manure, don't let grass grow in small exercise lots, rotate pastures, drag pastures, avoid overcrowding, clean water sources, don't use non-composted manure on pastures, deworm new horses before bringing home, don't graze pastures below 3", use fecal egg counts, eliminate mosquito breeding areas, use fly control products, fence off wetlands, remove bot eggs, deworm before grazing clean pastures, rest pastures
+
+5567	(BONUS)						ES188/HIH430-5
+Q:  Describe 3 stages of the life cycle of common bots (Gastrophilus intestinalais).
+A:  Life cycle is 9-12 months; female bot fly lays eggs on horse; horse bites or licks eggs; eggs hatch in mouth; 1st larval stage migrates through tissues; 2nd larval stage; 3rd larval stage attaches to the wall of the stomach; bot larvae are passed out in feces; pupae in soil; adult flies
+
+
+
+
+
+
+

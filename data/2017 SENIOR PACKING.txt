@@ -1,0 +1,196 @@
+2017 SENIOR PACKING
+
+EASY
+
+
+5704	(easy)							BEG118-1L
+Q:   When your horse is carrying a pack load down a steep grade, what piece of rigging other than the cinch needs to be adjusted and pulled tighter?
+A:   Breeching
+
+5705	(easy)								HIH1125-1
+Q:  Traditional pack saddles come in 2 styles.  Name them.
+A:  Crossbuck/sawbuck & Decker
+
+5706	(easy)								HIH1125-1
+Q:  What does the term "mantied" mean?
+A:  Placed in a canvas cover
+
+5707	(easy)								BEG118-1L
+Q:  When comparing the crossbuck & Decker saddles, which is better suited to a sling load that's mantied?
+A:  Decker
+
+5708	(easy)								BEG118-1L
+A:  You do not have a crossbuck or Decker saddle available, but want to do packing.  What other commonly available saddle could you use with some modifications?
+A:  Western or stock saddle
+
+5709	(easy)								HIH1125-1
+Q:  What type of rigging does a crossbuck or sawbuck saddle have?
+A:  Double
+
+5710	(easy)								HIH1125-3
+Q:  What is a manta or mantee?
+A:  Canvas used to cover load when packing
+
+5711	(easy)								HIH1125-3
+Q:  A piece of canvas which is used to cover your pack load is called what?
+A:  Manta or mantee
+
+5712	(easy)								HIH1125-1
+Q:  How many cinches are on a Decker pack saddle?
+A:  One
+
+5713	 (easy)								HIH1125-3
+Q:  What is a lash rope used for?
+A:  To tie the load onto the pack saddle
+
+5714	(easy)								HIH1125-2
+Q:  Which piece of equipment is used to keep a pack saddle from sliding backwards?
+A:  Breast collar
+
+
+
+
+5715	(easy)								HIH1125/BEG118-1L
+Q:  What is the purpose of the crupper on a pack saddle?
+A:  To keep the saddle from sliding forward OR to help keep the pack load centered
+
+5716	(easy)								HIH1125-3
+Q:  If you are using a stock saddle for packing, what piece of equipment that goes around the base of the tail & attaches to the saddle would you use to help keep the pack load centered?
+A:  Crupper
+
+5717	(easy)								HIH1125-3
+Q:  What is the name for the piece of equipment that's used to carry supplies on a pack trip?
+A:  Panniers
+
+5718	(easy)								HIH1125-3
+Q:  Name 2 pieces of equipment that you can use to help stabilize a load on a pack horse.
+A:  Breeching, breast collar, crupper
+
+5719	(easy)								HIH1125-3
+Q:  What item of pack equipment could contain shelves or double as a small table?
+A:  Panniers	
+
+5720	(easy)								HIH1125-1
+Q:  What must be balanced & centered on your pack animal?
+A:  The load or pack
+
+5721	(easy)								HIHvarious/HH
+Q:  Name a good way to restrain a pack horse.
+A:  Hobbles, picket line, high line
+
+5722	(easy)								HIH1125-1
+Q:  What is the use of a sawbuck saddle?
+A:  Packing
+
+5723	(easy)								HIH1125-1	
+Q:  What is a pannier?
+A:  Container used for carrying supplies while packing
+
+5724	(easy)								HIH1125-1
+Q:  When securing the entire balanced load to the pack animal, what is the most important factor?
+A:  The hitch
+
+5725	(easy)								HIH1125-1
+Q:  What is the purpose of a pack saddle's breeching?
+A:  To prevent the saddle from sliding forward when going downhill
+
+5726	(easy)								HIH1125-1
+Q:  Which pack saddle has a single cinch?
+A:  Decker
+
+
+
+
+
+5727	(easy)								HIH1125-1
+Q:  Which pack saddle has a double-rigged cinch?
+A:  Crossbuck or sawbuck   
+
+	
+
+
+MEDIUM
+
+5728	(medium)							HIH1125-1
+Q:  What type of pack saddle is described as a centerfire-rigged, single cinch saddle with a half breed?
+A:  Decker
+
+5729	(medium)							HIH1125-1
+Q:  Single, double, half, Arizona & diamond are terms referring to what?
+A:  Pack hitches
+
+5730	(medium)							HIH1125-5
+Q:  What is a half-inch rope of soft, twisted nylon 45-50 feet in length that's used to secure the entire load on a pack saddle?
+A:  Lash rope
+
+5731	(medium)						BEG118-1L
+Q:  Why is a horse or mule with little or no withers undesirable as a pack animal?
+A:  Because the saddle won’t fit well & will cause sores.
+
+
+
+HARD
+
+5732	(hard)								HIH1125-1
+Q:  What is the purpose of a quarter strap in packing?
+A:  Reduce cinch sores
+
+5733	(hard)								HIH1125-2
+Q:  On a sawbuck or crossbuck saddle, where is sheepskin lining added for more protection & comfort?
+A:  Blades
+
+5734	(hard)								HIH1125-2
+Q:  In choosing a packhorse, what kind of withers are best?
+A:  Medium high
+
+5735	(hard)								HIH1125-5
+Q:  In securing your pack before hitting the trail, what are the last 2 items you need?
+A:  Lash cinch & lash rope
+
+5736	(hard)								HIH1125-1
+Q:  2 part question:   In reference to packing, describe a half-breed & explain how it's used.
+A:  Heavy canvas pad with wooden bars at the bottom used over a Decker saddle; provides extra padding & holds the pack away from the animal's sides
+
+
+
+5737	(hard)								HIH1125-2
+Q:  Why is it important to keep a pack saddle from sliding backwards?
+A:  So it doesn't rest on the horse's kidneys or lumbar region
+
+5738	(hard)								HIH1125/BEG118-1
+Q:  Why is a traditional McClellan saddle a reasonably effective packsaddle?
+A:  Lightweight & has plenty of rings & straps to tie thing onto
+
+5739	(hard)								HIH1125-1
+Q:  Extra-long crossbucks are used for what purpose?
+A:  They hold the pack away from the animal's sides
+
+5740	(hard)								HIH1125-1
+Q:  When referring to packing, what is the purpose of the "half-breed"?
+A:  To hold packs away from the animal's sides OR to provide extra padding
+
+5741	(hard)								HIH1125-1
+Q:  What is another name for a basket or barrel hitch?
+A:  Sling hitch
+
+5742	(hard)								HIH1125-1
+Q:  Over what location on a stock saddle would panniers fit?
+A:  Cantle & swells
+
+5743	(bonus)						HIH1125-2
+Q:  2 part question:  In regards to withers, what type of conformation is undesirable in a packhorse & why?
+A:  Little or no withers – allows saddle to turn & rub/creates sores OR withers that are too high—they're        harder to fit & more prone to sores 
+
+
+
+
+BONUS
+
+5744	(bonus)								HIH1125-1
+Q:  Name 3 types of saddles that can be used in packing.
+A:  Decker, crossbuck/sawbuck, McClellan, Western or stock
+
+5745	(bonus)								HIH1125-1
+Q:  Name 4 hitches used in packing.
+A:  Squaw hitch, 1/2 diamond, double diamond, triple diamond, one-man diamond, box hitch, Arizona, square, sling, basket, barrel
+

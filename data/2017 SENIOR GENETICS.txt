@@ -1,0 +1,651 @@
+2017 SENIOR GENETICS
+
+
+EASY
+
+4602	(easy)							HIH1040-1/ES94-95
+Q:  What color is recessive to black and bay?
+A:  Chestnut
+
+4603	(easy)							HIH1060-1/HS19/TH458-9/ES90
+Q:  If a gene has the ability to mask the genetic makeup of the other gene in the pair, it is said to be what?
+A:  Dominant
+
+4604	(easy)							HIH1060-1
+Q:  How many pairs of chromosomes do horses have?
+A:  32 pairs
+
+4605	(easy)							HIH1020-1
+Q:  How are characteristics passed from parents to offspring?
+A:  By genes	 (also accept chromosomes)
+
+4606	(easy)					HIH1040-1
+Q:  If a chestnut is mated to a chestnut, what color or colors can be produced?
+A:  Only chestnut	 (additional info -- chestnut is recessive to black)
+
+4607	(easy)							HIH1020-1
+Q:  What is the dense center of a cell that contains the genetic material?
+A:  Nucleus
+
+4608	(easy)					TH447/HIH1060-1
+Q:  2 part question:  How many pairs of chromosomes are there in a horse & are these pairs always identical in nature?
+A:  32 pairs; not always identical
+
+4609	(easy)				HIH1060-1/HS19/TH458-9/ES90
+Q:  If a gene cannot mask the genetic makeup of the other gene in a pair, it is said to be what?
+A:  Recessive
+
+4610	(easy)							HIH1020-1
+Q:  How many chromosomes does the sperm of a stallion or an egg of a mare contain?
+A:  32 
+
+4611	(easy)							TH458/HS20-21
+Q:  What does genotype mean?
+A:  Genetic make up
+
+4612	(easy)							TH458/HS20
+Q:  What does phenotype mean?
+A:  Outward appearance 
+
+
+4613	(easy)				HIH1040-3
+Q:  Are roan horses heterozygous or homozygous?
+A:  Heterozygous	 (additional info -- like with white horses, homozygous roan horses die in utero)
+
+4614	(easy)							HIH1020-1
+Q:  What is the study of how characteristics are passed from parents to offspring?
+A:  Genetics
+
+4615	(easy)							HIH1020-1
+Q:  What are the units of inheritance?
+A:  Genes
+
+4616	(easy)							HIH1060-1
+Q:  What do we need to be able to see chromosomes?
+A:  Microscope  
+
+4617	(easy)							HIH1020-2
+Q:  What is the term used to describe the condition when a pair of genes are identical?
+A:  Homozygous 
+
+4618	(easy)							HIH1060-1
+Q:  What is the sex genotype for a mare?
+A:  XX
+
+4619	(easy)							HIH1020-2
+Q:  If paired genes are not identical, they are called what?
+A:  Heterozygous
+
+4620	(easy)							HIH1060-1/TH61
+Q:  How many chromosomes are responsible for the sex of a foal?
+A:  Two    (one pair)
+
+4621	(easy)	 				HIH1060-1
+Q:  What is the sex genotype of a stallion?
+A:  XY
+
+4622	(easy)							HIH1060-4
+Q:  What do you call an abnormal condition that an animal possesses at birth?
+A:  Congenital
+
+4623	(easy)							HIH1060-4
+Q:  Explain congenital.
+A:  An abnormal condition that an animal possesses at birth
+
+4624	(easy)							HIH1060-1
+Q:  In the inheritance of sex in the horse, what are the chances for the foal to be male?
+A:  50 - 50
+
+
+
+4625	(easy)							TH459/HS19
+Q:  A gene that does not show up when it's paired with a dominant gene is said to be what?
+A:  Recessive
+
+4626	(easy)							HS19/TH458
+Q:  Which of the following is the dominant coat color – black or chestnut?
+A:  Black
+
+4627	(easy)							TH482/HIH1040-1
+Q:  Which color can cover up or mask colored areas of a horse?
+A:  White
+
+4628	(easy)							HIH1060-1
+Q:  What is the general term for the X & Y chromosomes?
+A:  Sex chromosomes
+
+4629	(easy)							HIH1040-3
+Q:  What color foal will a homozygous gray produce?
+A:  Gray - no matter what color the other parent is
+
+
+
+
+
+
+
+
+
+MEDIUM
+
+4630	(medium)								TH511
+Q:  What sex-linked disease results in a deficiency of clotting factor VIII? 
+A:  Hemophilia A	 (also accept Hemophilia) 
+
+4631	(medium)						HIH1070-1
+Q:  Although a horse may have the genetic potential to be large, fast or intelligent, 30-50% of the trait is due to what?
+A:  Environmental factors (such as feed, care, training & injuries - all of which can have an effect on the horse's overall quality)
+
+4632	(medium)						ADV335
+Q:  Define heredity.
+A:  Passing of traits from parents to offspring
+
+4633	 (medium)					TH57
+Q:  Is the curly coat of the American Bashkir Curly caused by a dominant or a recessive gene?          
+A:  Recessive            
+
+
+
+4634	(medium)							HIH1040-1
+Q:  In reference to coat color, what genes must a chestnut horse have?
+A:  Two recessive extension genes OR “ee” 	(accept either)
+
+4635	(medium)						HIH1040-1/ES94,95
+Q:  Name two genotypes of a black horse.
+A:  EE, Ee, aaEE, aaEe               
+
+4636	(medium)					HIH1060-5
+Q:  Why are all dominant white horses heterozygous & not homozygous?
+A:  Homozygous white fetuses die before birth 
+
+4637	 (medium)					HIH675-2
+Q:  Which Quarter Horse sire has been linked to the disorder HC (HERDA)?
+A:  Poco Bueno
+
+4638	(medium)				TH462
+Q:  One pair of chromosomes is responsible for the sex of a foal.  The chromosomes are designated as XX & XY.  Which pair designates the stallion?
+A:  XY
+
+4639	(medium)						ES87
+Q:  What is the common term for deoxyribonucleic acid?
+A:  DNA
+
+4640	(medium)						ES87
+Q:  What does "diploid" mean?
+A:  A pair of chromosomes
+
+4641	(medium)						TH454-58
+Q:  What is the difference between genotype & phenotype?
+A:  Genotype is the genetic makeup, phenotype is the outward appearance
+
+4642	(medium)						TH482
+Q:  The perlino color is a double dilution of what color?
+A:  Bay
+
+4643	(medium)						HIH1060-4
+Q:  CID (Combined Immunodeficiency) is an inherited disease of which breed?
+A:  Arabian or part Arab		(accept either)
+
+4644	(medium)						TH81
+Q:  2 part question:  What color results from a single cream dilution of bay & what color results from a double cream dilution of bay?   
+A:  Single cream dilution—buckskin; double cream dilution—perlino      (addtl info:  dun is not a dilution – caused by another gene) 
+
+
+
+
+4645	(medium)						TH511-13
+Q:  Homozygous pairing of the dominant genes for what 2 coat colors cause early embryonic death of the fetus?
+A:  White & roan
+
+4646	(medium)						DET6/HIH1020-1
+Q:  What is an allele  (ah-LEEL)?
+A:  Gene pair
+
+4647	(medium)						HS19
+Q:  What is the term for normal (somatic) cell division?
+A:  Mitosis
+
+4648	(medium)						HIH1040-2
+Q:  Are the genes for coat color separate or combined with the gene loci for occurrence & pattern of white hairs on the body?
+A:  Separate
+
+4649	(medium)						HIH1020-1
+Q:  Where is the genetic material carried?
+A:  In the nucleus in form of chromosomes    (accept nucleus, chromosomes, or DNA)
+
+4650	(medium)						HIH1060-3
+Q:  Are male or female horses primarily affected by genetic diseases that have an X-linked mode of inheritance?
+A:  Male horses
+
+4651	(medium)						TH81
+Q:  Grulla is a dilution of what basic coat color?
+A:  Black    (addtl info - dun dilution of black)
+
+4652	(medium)						HS20
+Q:  Name the two types of cell division.
+A:  Mitosis & meiosis
+
+4653	(medium)							ES95
+Q:  What does the agouti gene do?      
+A:  Restricts the black pigmentation pattern to the points of the horse (mane, tail, lower leg, ear rims)
+
+4654	(medium)							ES95
+Q:  In reference to coat colors, what color modifier do the letters A/a represent?       
+A:  Agouti        
+
+4655	(medium)						TH458/HS20
+Q:  If you breed a heterozygous black stallion to a heterozygous black mare, what percentage of the foals may be red?
+A:  25%
+
+
+
+4656	(medium)						HIH1020-1/ES87
+Q:  Genes are made up of complex molecules of what?            
+A:  DNA
+
+4657	(medium)						HIH1040-2
+Q:  The cream gene is a partially dominant gene which does what when combined with other color genes?
+A:  Lightens/ dilutes the color   
+
+4658	(medium)						HS19
+Q:  What is the term for sex cell division?
+A:  Meiosis
+
+4659	(medium)						HIH1020-1
+Q:  In what type of cells do chromosomes exist as singles, not pairs?
+A:  Egg & sperm cells	 (also accept -- gametes, or haploid cells)
+
+4660	(medium)						HIH1020-1
+Q:  Define nucleus.
+A:  Dense center of a cell that contains the genetic material
+
+4661	(medium)						HIH1060-6
+Q:  How do you diagnose HYPP?
+A:  Genetic blood test OR by clinical signs & elevated blood potassium levels
+
+4662	 (medium)						HIH1060-6
+Q:  Which breed of horse carries the genetic disease HYPP?
+A:  Quarter Horse
+
+4663	(medium)						HIH1060-4
+Q:  What is inbreeding?
+A:  Breeding closely related animals
+
+4664	(medium)						HIH1060-1
+Q:  If a sperm carrying the X chromosome fertilizes the egg, what sex will the foal be?
+A:  Female
+
+4665	(medium)						HS21
+Q:  How many chromosomes do mules & hinnies have?
+A:  63
+
+4666	(medium)						TH447
+Q:  Who was the first to work out how genetic material is transmitted from one generation to the next?
+A:  Gregor Mendel
+
+4667	(medium)						TH462
+Q:  Which chromosome carries the genes for most sex-linked traits?
+A:  X
+
+
+
+4668	(medium)						TH462
+Q:  Give an example of a sex-linked trait.
+A:  Hemophilia
+
+4669	(medium)						ES94
+Q:  What 2 base colors are determined by the extension gene?
+A:  Black & red (chestnut)
+
+4670	(medium)						TH50
+Q:  Palomino is a single  cream dilution of what color?
+A:  Chestnut
+
+4671	(medium)						TH50
+Q:  A double cream dilution of chestnut results in what color?
+A:  Cremello
+
+4672	(medium)						TH81
+Q:  What does dilution of color mean?
+A:  Lessening the intensity 
+
+4673	(medium)						TH81
+Q:  Cremello results from a double dilution of which base color?
+A:  Chestnut
+
+4674	(medium)						TH81
+Q:  What color is a cream dilution of bay?
+A:  Buckskin 
+
+4675	(medium)						FCH297
+Q:  HYPP is found in which Quarter Horse line?
+A:  Impressive
+
+4676	(medium)							TH473
+Q:  Which one of the following modifications of black does NOT have black points:  bay, seal brown, buckskin, dun, grulla, or perlino?  
+A:  Perlino
+
+4677	(medium)						HIH1060-6
+Q:  On what chromosome do you find the gene for hemophilia?
+A:  X
+
+4678	(medium)						TH81
+Q:  What color is a single cream dilution of chestnut?
+A:  Palomino	
+
+4679	(medium)						HIH1060-6
+Q:  Which lethal genetic defect can result from mating 2 overo Paint horses?
+A:  Lethal white foal syndrome (OLWS)
+
+
+4680	(medium)						HIH1020-1
+Q:  What are loci?
+A:  Specific locations of genes on a chromosome (singular is locus)
+
+4682	(medium)					TH51
+Q:  Palomino horses do not “breed true”.  What does this mean?         
+A:  When breeding a palomino to a palomino only 50 percent will produce a palomino (also accept breeding a palomino to a palomino will not always result in a palomino)
+
+4683	(medium)                   ES50
+Q:  What sensory deficit is often present in horses with the splashed white color pattern?
+A:  Deafness                       
+
+4684	(medium)				TH490
+Q:  Tobiano and overo color patterns are both controlled by genes.  Which color pattern is displayed only if the genotype is homozygous  for the recessive gene?
+A:  Overo                               
+
+4685	(medium)                         ES43
+Q:  Identify one of the two colors that must be present in the genetic  lineage of a cream colored horse.                          
+A:  Palomino or Buckskin
+
+4686	(medium)                        ES20
+Q:  How many chromosomes does a donkey have?
+A:  62           
+
+4687	(medium)                       HIH1040-2
+Q:  What is the base color of a red silver horse?
+A:  Bay       
+
+
+HARD
+
+4688	(hard)							TH481
+Q:  Referring to color, what is the pangere effect?
+A:  Causes light areas of color on muzzle, over eyes, on flanks & inside the legs
+
+4689	(hard)							HIH151-1/DET20
+Q. Justin Morgan was the foundation sire for the Morgan breed. His ability to pass his breed type on to his offspring regardless of the type of mare he was bred to would be referred to by what genetics term? 
+A. Pre-potent  or prepotency   (accept either)
+
+4690	(hard)							HIH675-1
+Q:  Identify the following disease that primarily affects Quarter Horses:  superficial & deep layers of the skin separate resulting in "stretchy" skin that's easily damaged or torn.
+A:  HERDA (Hereditary Equine Regional Dermal Asthenia) OR HC (Hyperelastosis Cutis)
+
+
+
+
+4691	(hard)							HIH675-1
+Q:  This disease results in “stretchy” skin due to separation of the superficial & deep layers of the skin. What breed is affected by HERDA or HC?
+A:   Quarter Horse
+
+4692	(hard)							HS20/ES88
+Q:  Explain how mitosis differs from meiosis.
+A:  Mitosis is normal cell division where each daughter cell receives an identical copy of the original chromosome pairs; meiosis is sex cell division where each daughter cell only receives half of each chromosome pair (haploid number of chromosomes)
+
+4693	(hard)							ES94
+Q:  What is an extension gene as relates to color genetics?
+A:  The gene that regulates the color differences in black-pigmented horses & red-pigmented horses 
+
+4694	(hard)							HIH1020-3
+Q:  What does the term “quantitative gene action” mean?
+A:  Trait is controlled by several gene pairs.  
+
+4695	(hard)							ADV335-2
+Q:  Define Heritability Estimate.
+A:  The percentage of the horse’s expressed trait that is due to genetics OR the probability of that trait being passed from one generation to the next
+
+4696	 (hard)							HIH1080-1
+Q:  What does the term "nicking" mean?
+A:  When offspring has more superior qualities than expected by their pedigree
+
+4697	 (hard)							HIH675-1
+Q:  HERDA or HC is an inherited disorder that causes what?
+A:  Causes skin to be very stretchable, fragile & vulnerable to trauma
+
+4698	(hard)							ES85
+Q:  What is gene mapping?
+A:  Determining & recording the identities & positions of genes
+
+4699	(hard)							H3-10
+Q:  What is a punnet square?
+A:  Way of determining what percentage of offspring of a mating will have which genes of the parents
+
+4700	(hard)							TH51
+Q:  You are planning to breed your chestnut mare & would love her to produce a palomino foal.  In order to guarantee a foal of this color, what color stallion should she be bred to?
+A:  Cremello
+
+4701	(hard)							HIH1040-3,1095-1
+Q:  What genetic disease is associated with the frame overo pattern?
+A:  Lethal white foal syndrome or OLWS  
+
+
+4702	(hard)				HIH1060-6/ES99
+Q:  Identify two of the four breeds of horses that are affected by the sex-linked disease Hemophilia 
+A:  Thoroughbred, Standardbred, Quarter Horse and Arabian
+
+4703	(hard)							TH486
+Q:  What is the expected ratio of roan to solid colored foals if a heterozygous roan stallion is bred to a heterozygous roan mare?
+A:  2 roan to one solid   (50% would be roan, 25% would be solid & 25% homozygous roan fetus would die in utero)
+
+4704	(hard)							HIH1060-1/ES94
+Q:  What is the name of the special procedure used to visualize or examine chromosomes under a microscope?
+A:  Karyotyping
+
+4705	(hard)							DET118
+Q:  What is the proper name for a mature sex cell?
+A:  Gamete
+
+4706	(hard)							ADV335/HIH1020-2
+Q:  In genetics, what does the term “partial dominance” mean?
+A:  A gene action resulting in an intermediate state between the 2 alleles
+ (additional info – a single dominant cream gene doesn’t make a chestnut cremello)
+
+4707	(hard)							HIH1040-2
+Q:  Genetically, what is the difference between a buckskin & a dun?
+A:  Buckskin is a cream dilution of bay & dun is a dun dilution of bay.
+
+4708	(hard)						HIH1060-3
+Q:  2 part question:   If a mare is a carrier for an X-linked genetic disease, what percent of her male foals will be affected with the disease and what percent of her female foals will be carriers?
+A:  50% males will be affected and 50% of females will be carriers
+
+4709	(hard)							TH490
+Q:  Name the color pattern on a Pinto horse whose genetic color code for dominant white is at the T locus.
+A:  Tobiano
+
+4710	(hard)							HIH1020-1
+Q:  Where is the location of the cytoplasm?
+A:  Between the nucleus & the cell wall
+
+4711	(hard)							HIH1040-3
+Q:  2 part question:  What gene is responsible for the roan color & what letters represent it?
+A:  Roaning gene;   R/r
+
+4712	(hard)							HIH1020
+Q:  What would be the difference in the offspring from a homozygous black stallion & a heterozygous black stallion when mated with a chestnut or brown mare?
+A:  All the foals from the homozygous black stallion would be black.  Half the foals from the heterozygous black stallion would be black & half would be chestnut.
+
+4713	(hard)							HIH1040-1
+Q:  What gene must be present to produce the color bay?
+A:  Dominant agouti 	(additional info -- dominant agouti modification of black)
+
+4714	(hard)							HIH1060-5/335-3/ES99
+Q:  What term is used to describe the genetic disease characterized by the failure of the immune system to form?
+A: Combined Immunodeficiency (CID) OR Severe Combined Immunodeficiency (SCID)
+
+4715	(hard)							HIH1060-6
+Q:  What causes foals with lethal white syndrome do die?  
+A:  Failure of nerves in the gastrointestinal tract to develop   (ileocolonic aganglionosis)
+
+4716	(hard)							HIH1020-1
+Q:  What is a chromosome?
+A:  Long, thread-like structure in the nucleus of a cell that contains genetic material
+
+4717	(hard)							HS25
+Q:  The genetic material of the sperm cell is contained in which part of the cell?
+A:  Head section
+
+4718	(hard)					FCH298/HIH1060-6
+Q:  A horse with what genetic disease would benefit from a diet that is low in potassium?
+A:  HYPP or Hyperkalemic Periodic Paralysis	 (also accept PIPP or Potassium Induced Periodic Paralysis)
+
+4719	(hard)							HIH1040-2
+Q:  Give an example of partial or incomplete dominance where the dominant gene is not fully expressed.
+A:  Cream dilution in a palomino
+
+4720	(hard)							ADV335/HIH1020-2
+Q:  In genetics, what does the term "co-dominance" mean?
+A:  When the 2 alleles are equally dominant  
+( additional info – example:  like  some color genes or genes for straight/curly hair)
+
+4721	(hard)							HIH1020-3
+Q:  When a number of genes are required to produce a trait, what type of gene action is this considered?
+A:  Quantitative
+
+4722	(hard)							HIH1060-1
+Q:  What is a genetic disease?
+A:  One that's a result of a DNA mutation & can be passed on to offspring
+
+4723	(hard)							TH539
+Q:  What do you call the form of inbreeding that's aimed at trying to maintain a close relationship with a particular animal?
+A:  Line breeding
+
+
+
+
+4724	(hard)							TH555
+Q:  2 part question:  What is a quantitative trait & give an example?
+A:  Trait influenced by many genes; examples – speed, cow sense, jumping ability, etc.
+
+4725	(hard)							DET198
+Q:  What is outcrossing?
+A:  Mating animals that are members of the same breed, but which show no relationship close up in the pedigree
+
+4726	(hard)							TH483
+Q:  The gene for what color is located at the G locus?
+A:  Dominant gray (gray)
+
+4727	(hard)					TH481
+Q:  Light areas of color over the eyes, on the muzzle, flanks and inside the legs are seen with influence of what color gene?
+A:  Pangere                   
+
+4728	(hard)				ES93
+Q:  Which type of melanin controls the expression of red & yellow pigment?
+A:  Pheomelanin               	
+	
+4729	(hard)				HIH1095-1
+Q:  What do the initials OLWS refer to?
+A:  Overo Lethal White syndrome           
+
+4730	(hard)					ES100
+Q:  Aniridia is a genetic disorder in which the iris of the eye is absent.  This occurs primarily in which horse breed?
+A:  Belgian                              
+
+
+BONUS
+
+4731	(bonus)							HIH1020-1
+Q:  A horse's characteristics are due to 2 things.  Name them.
+A:  Heredity & environment
+
+4732	(bonus)							HS19/ES88
+Q:  Explain 3 steps of mitosis.
+A:  1) Chromosomes duplicate,		 2) chromosomes line up in the middle of the cell, 	
+3) chromosomes pull a part, 		4) cells start to divide, 
+5) cell division completes with each daughter cell receiving a complete copy of the chromosomes
+
+4733	     (bonus)							HIH1040-2
+Q:  Genetically, name 3 ways a black coat color be modified.
+A:  Dilutions such as cream or dun, spotting such as Overo or Tobiano, gray, roan, bay (agouti) 
+
+
+
+4734	(bonus)							HIH1090
+Q:  Name 3 things that should be considered when selecting breeding stock.
+A:  Conformation, breeding/pedigree, disposition, size, individual performance records, progeny records
+
+4735	(bonus)							TH51
+Q:  If a palomino mare were mated to a palomino stallion, what percentage of foals would be what color?
+A:  50% palomino, 25% cremello, & 25% chestnut
+
+4736	(bonus)							TH473
+Q:  Name 3 coat colors whose base color is black with a dilution, modification, white pattern, etc.
+A:  Bay (agouti modification),			 seal brown (agouti modification) 	
+buckskin (single cream dilution of bay),		 perlino (double cream dilution of bay), 
+dun (dun dilution of bay), 			grulla (dun dilution of black), 
+gray (gray modification), 			smoky black (single cream dilution of black), 
+smoky cream (double cream dilution of black), blue roan
+
+4737	(bonus)							HIH1020-1
+Q:  Name 3 things other than genetic-makeup that may affect a horse's potential.
+A:  Care, feeding, training, injuries
+
+4738	 (bonus)							HIH1020-2
+Q:  Define the 2 basic types of genetic action
+A:  Qualitative - trait influenced by 1-3 pairs of genes
+Qualitative - trait influenced by 1-3 pairs of genes; Quantitative - trait influenced by a number of genes
+
+4739	(bonus)							HIH153
+Q:  Define 3 of the following terms:  outcrossing, grading up, crossbreeding, inbreeding, & line-breeding.
+A:  Outcrossing – mating of animals from different families within the same breed;
+Grading up – mating animal with unknown ancestry with registered animal; 
+Crossbreeding—mating registered animals of different breeds; 
+Inbreeding—mating of animals more closely related than average; 
+Line-breeding—selective breeding along a certain genetic line to perpetuate certain desirable qualities.
+
+4740	(bonus)							TH458-59/HIH1020-2
+Q:  In traits affected by qualitative gene action there are 3 primary types of gene action that affect the trait.  Name them
+A:  Dominance, co-dominance, partial dominance
+
+4741	(bonus)							HIH1020-2
+Q:  Name 3 traits of horses that are influenced by many genes.
+A:  Conformation, temperament, physical performance, size, muscularity, longevity
+
+
+
+
+
+
+
+
+
+4742	(bonus)							ADV335
+Q:  Name 3 genetic diseases in horses.
+A:  SCID (Severe Combined Immunodeficiency—Arabians), 
+HYPP (Hyperkalemic Periodic Paralysis—Quarter Horses) 
+HERDA (Hereditary Equine Regional Dermal Asthenia (formerly called Hyperelastosis Cutis—Quarter Horses),
+OLWS (Overo Lethal White Syndrome—Paints),
+ GBED (Glycogen Branching Enzyme Deficiency—Quarter Horses & Paints),
+ JEB (Junctional Epidermolysis Bullosa—Belgians), 
+CSNB (Congenital Stationary Night Blindness—Appaloosas), 
+ERU (Equine Recurrent Uveitis—Appaloosas), 
+Hemophilia A (sex-linked trait seen in males), 
+RER (Recurrent Exertional Rhabdomyolysis—Thoroughbreds), 
+Roaring (Laryngeal Hemiplegia—Thoroughbreds)
+Do not need to give the breed – accept either acronym or scientific name
+
+4743	(bonus)							HS18
+Q:  Tell how many pairs of chromosomes each of the following farm animals has – horses, cattle, goats
+A:  Horses – 32, cattle – 30, goats - 30
+
+4744	(bonus)					HIH1040-2
+Q:  What specific color would be the result of a single dilution of the following 3 colors with the dominant dilution gene ----- black, bay & chestnut?
+A:  Black – grulla      Bay – zebra dun       Chestnut – red dun or claybank dun        
+
+4745	(bonus)						HIH1040-2		
+Q:  What color would be the result of the silver dapple gene on the following three colors…black, bay and chestnut?				
+A:  Black – Blue silver or silver dapple   Bay – Red silver   Chestnut – Chestnut (silver gene only affects black areas)
+
+
+
+
+

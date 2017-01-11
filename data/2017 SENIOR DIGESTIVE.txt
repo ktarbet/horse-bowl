@@ -1,0 +1,650 @@
+2017 SENIOR DIGESTIVE
+
+EASY
+
+2553	(easy)						TH93/HIH405-1,2
+Q:  What type of jaw movement is necessary for a horse to grind its food?
+A:  Lateral or side to side movement
+
+2554	(easy)							HIH705-1
+Q:  What is the technical name for chewing?
+A:  Mastication
+
+2555	(easy)						ES111
+Q:  Which takes more time to pass from the horse’s stomach into the small intestine…hay or water?
+A:  Hay
+
+2556	(easy)							HIH705-2
+Q:  What part of the digestive system is referred to as a blind pouch?
+A:  Cecum
+
+2557	(easy)							HIH705-1/TH190/HS27
+Q:  What does mastication mean?
+A:  Chewing
+
+2558	(easy)							HIH705-2
+Q:  What is the final part of the horse's digestive system?
+A:  Rectum	 (also accept anus)
+
+2559	(easy)							HIH360-2
+Q:  The average 1000 pound horse can produce how much manure in one day?
+A:  28 - 50 pounds		 (accept any number within this range)
+
+2560	(easy)							HIH710-1,705-1
+Q:  In which part of the digestive system does the majority of digestion/absorption occur?
+A:  Small intestine
+
+2561	(easy)								INT203-1/HIH705
+Q:  Of the following 3 organs, where does food stay the least amount of time in the digestive system:  stomach, small intestine, or large intestine?
+A:  Stomach
+
+2562	(easy)							ES700
+Q:  What term describes the breakdown of feed into its smaller components?
+A:  Digestion			
+
+2563	(easy)							HS23
+Q:  How many compartments are in a horse's stomach?
+A:  One
+
+
+
+2564	(easy)						TH190/HIH705-1
+Q:  In reference to digestion, describe 2 main functions of the horse's mouth.
+A:  Intake food, chew food, wet food with saliva
+
+2565	(easy)							HIH635-2
+Q:  How does the great length of the small intestine lead to many problems?
+A:  Gets twisted or telescoped
+
+2566	(easy)							HS29
+Q:  How long does it take to completely empty a horse's stomach?
+A:  24 hours after eating
+
+2567	(easy)							HS27
+Q:  What do we call the grasping of food in order to get it into the mouth?
+A:  Prehension
+
+2568	(easy)							HIH705/DET81
+Q: The mouth, pharynx, esophagus, stomach, small intestine, large intestine, rectum, and anus are all parts of what system of the horse? 
+A: Digestive system 
+
+2569	(easy)							HIH705-1
+Q:  Saliva is produced by what gland?
+A:  Salivary gland
+
+2570	(easy)							HIH705-1
+Q:  Why do you need to have knowledge of the horse's digestive system?
+A:  So you know how to feed them correctly OR you know how to look for signs of colic	 (accept either)
+
+2571	(easy)							HIH705-1
+Q:  What is the purpose of the esophagus?
+A:  Moves feed from the mouth/pharynx to the stomach
+
+2572	(easy)							HS31
+Q:  What is the name given to the waste matter of digestion?
+A:  Manure or feces
+
+2573	(easy)							HIH710-1,705-1
+Q:  Where does digestion begin?
+A:  In the mouth
+
+2574	(easy)							HIH705-1
+Q:  What is produced by the salivary glands?
+A:  Saliva
+
+2575	(easy)							HIH705-1
+Q:  Which system of the horse is responsible for converting feed into a form that can be utilized by the body?
+A:  Digestive
+
+
+2576	(easy)							HIH705-1/TH190
+Q:  What is the first part of the digestive system?
+A:  Mouth
+
+2577	(easy)							HS31
+Q:  What does defecation mean?
+A:  Pooping 
+
+2578	(easy)							HIH705-1
+Q:  What is the horse's main structure for grasping food?
+A:  Lips	 (also accept upper lip)
+
+2579	(easy)							HS27
+Q:  What stimulates the secretion of saliva in the horse?
+A:  Chewing
+
+2580	(easy)						HS27
+Q:  What does prehension mean?
+A:  Grasping of food
+
+
+
+
+
+
+
+MEDIUM
+
+2581	(medium)			TH127
+Q:  What is the function of the horse's pancreas?
+A:  Secretes insulin & enzymes
+
+2582	(medium)					HIH710-1
+Q:  Excess gas produced in the stomach can cause what?
+A:  Rupture of the stomach & death
+
+2583	(medium)							TH606 DET6, 81, 118
+Q:  What is the name of the tract that consists of a musculo-membraneous tube that extends from the mouth to the anus?
+A: Digestive tract,  Gastrointestinal tract or alimentary canal
+
+2584	(medium)						HIH742-3,4
+Q:  What are probiotics used for?
+A:  To increase the population of beneficial micro-organisms in the digestive tract
+
+2585	(medium)						HS27
+Q:  Where do most of the fats get digested?
+A:  Small intestine
+
+
+2586	(medium)						DET56
+Q:  What is the material leaving the stomach & entering the small intestine called?
+A:  Chyme
+
+2587	(medium)						HIH710-2
+Q:  Where in the digestive tract are amino acids synthesized?
+A:  Large intestine
+
+2588	(medium)						HIH705-1
+Q:  What organ of the horse secretes gastric juices?
+A:  Stomach
+
+2589	(medium)						HIH710-2/ES112
+Q:  Hay is digested primarily in what part of the digestive system?
+A:  Cecum
+
+2590	(medium)					HIH710,705-1
+Q:  How long is the horse's small intestine?
+A: 65-70 feet 		(accept any number within this range)
+
+2591	(medium)					      HIH710-1
+Q:  The salivary glands, pancreas & liver are accessory organs of what system?
+A:  Digestive
+
+2592	(medium)						FCH395
+Q:  What is the name for chemical reactions occurring in the body?
+A:  Metabolism
+
+2593	(medium)						HIH705-1
+Q:  Continued exposure of the lower part of the stomach to excessive gastric secretions can cause what?
+A:  Gastric ulcers
+
+2594	(medium)						HIH705-1
+Q:  What does the enzyme pepsin do?
+A:  Helps digest proteins
+
+2595	(medium)						HIH705-1
+Q:  Which enzyme helps digest proteins?
+A:  Pepsin	(also accept trypsin)
+
+2596	(medium)						HIH705-1
+Q:  What are 2 things that happen in the small colon?
+A:  Any remaining water is removed;      fecal balls are formed
+
+2597	(medium)						HIH705-1
+Q:  Why is the cecum sometimes called a blind pouch?
+A:  Because feedstuffs both enter & exit at the top 
+
+
+
+2598	(medium)						CAHA52/HIH710-2
+Q:  The horse's small colon lies between what 2 other parts of the horse's digestive system?
+A:  Large colon & rectum				
+
+2599	(medium)						CAHA54
+Q:  What 2 organs deliver enzymes & products into the duodenum to assist in the digestive process?
+A:  Pancreas & liver
+
+2600	(medium)						HIH710-2
+Q:  Your horse is experiencing recurrent mild colic.  Your veterinarian is listening to the right side of your horse's abdomen for rumbling, gurgling noises.  What specific part of the digestive tract is he listening to?
+A:  Cecum
+
+2601	(medium)						HIH705-1
+Q:  What is the esophagus?
+A:  A muscular tube that extends from the pharynx to the stomach
+
+2602	(medium)						TH192
+Q:  Why doesn't a horse need a gall bladder?
+A:  Horses graze/eat many small meals, so there's no need for a gall bladder;  bile is constantly secreted & therefore doesn’t need to be stored;  (a gall bladder allows bile to be stored so that large amounts can be released in response to eating a large meal)		(only need to give one)
+
+2603	(medium)						HIH710-1
+Q:  What is the process by which fiber is digested?
+A:  Fermentation
+
+2604	(medium)						HIH710-1/TH199
+Q:  The soluble carbohydrates are digested & absorbed in what part of the digestive system?
+A:  Small intestine
+
+2605	(medium)						HIH710-2
+Q:  How long is the large colon?
+A:  10 - 12 feet		 (accept any number within this range)
+
+2606	(medium)						TH201
+Q:  Where is the primary site of water absorption?
+A:  Cecum
+
+2607	(medium)						HIH705-2,710-2
+Q:  Which part of the horse's large intestine has the largest capacity?
+A:  Large colon
+
+2608	(medium)					TH127
+Q:  Insulin controls glucose levels in the horse's body.  Where is it produced?
+A:  Pancreas
+
+
+
+
+2609	(medium)					DET153
+Q:  What is the function of insulin?
+A:  Controls blood sugar levels & the utilization of sugar in the body
+
+2610	(medium)					HIH 435a-1
+Q:  Why is the small intestine susceptible to displacement, telescoping, or twisting?
+A:  Its long length & its loose attachment to the abdominal wall (mesentery) 	 
+       
+2611	(medium)					HIH705-2
+Q:  Where are the characteristic balls of feces formed?
+A:  Small colon
+
+2612	 (medium)						HS25
+Q:  The cecum lies between what 2 parts of the horse's digestive system?	
+A:  Small intestine (ileum) & large colon
+
+2613	(medium)						HIH710-2
+Q:  How long is the cecum?
+A: 4 feet
+
+2614	(medium)						HIH710-2
+Q:  What is the muscular tube 50 - 60 inches in length which extends from the pharynx to the stomach?
+A:  Esophagus
+
+2615	(medium)						HIH705-1/TH192
+Q:  What is the name of the dark green-yellow substance secreted by the liver?
+A:  Bile
+
+2616	(medium)						HS28
+Q:  What does deglutition mean?
+A:  Swallowing
+
+2617	(medium)						HS23
+Q:  Because the upper jaw is wider than the lower jaw, how does mastication occur?
+A:  On one side of the jaw at a time	(also accept in a circular motion)
+
+2618	(medium)						TH190
+Q:  Where is the small intestine located in the horse?
+A:  Between stomach and cecum
+
+2619	(medium)						HS26
+Q:  Most farm animals have an organ that stores bile, but horses do not.  What is this organ?
+A:  Gall bladder
+
+2620	(medium)						HS28
+Q:  What is the technical name for swallowing?
+A:  Deglutition
+
+
+2621	(medium)						HIH705-1
+Q:  What is the short, funnel-shaped tube between the mouth & esophagus?
+A:  Pharynx
+
+2622	(medium)						HIH705-2
+Q:  What is the cecum?
+A:  Large, sock-shaped pouch between small intestine & large colon
+
+2623	(medium)						HS28
+Q:  Why must food move through the pharynx quickly?
+A:  So it won't enter the windpipe or be forced into nasal passage
+
+2624	(medium)						HIH705-1,710-1
+Q:  Food remains in the stomach for about how long before it starts passing into the small intestine?
+A:  15 - 45 minutes		 (accept any number within this range)
+
+2625	(medium)						CAHA50/HIH705-1
+Q:  What is the pharynx?
+A:  A short, funnel-shaped tube between the mouth & esophagus
+
+2626	(medium)						HIH710/HS31/TH194
+Q:  The rate of food passage from mouth to anus is how long?
+A:  1 ½ - 3 days OR 36 - 72 hours 		(accept any number within this range)  
+
+2627	(medium)						HIH705-1/TH219
+Q:  Name the primary site of protein digestion in the horse.
+A:  Small intestine
+
+2628	(medium)						HIH705-1
+Q:  The stomach is what percent of the total capacity of the horse's digestive tract?
+A:  9 - 10%
+
+2629	(medium)						H3-35
+Q:  Commercial preparations of dried beneficial intestinal micro-organisms are called what?
+A:  Probiotics
+
+2630	(medium)						TH401
+Q:  What body part should be examined closely in a horse that is quidding?
+A:  Teeth or mouth
+
+2631	(medium)						CAHA55
+Q:  What causes the intestinal (gut) sounds that can be heard with a stethoscope pressed to the horse's abdomen?
+A:  Movement of gas or fluids through the large intestine OR cecal activity	 (accept either)
+
+2632	(medium)						TH93
+Q:  What is referred to as a strong, sensitive, mobile organ of prehension?
+A:  Upper lip	(lips)
+
+
+2633	(medium)						HIH710-2
+Q:  What is the capacity of the small colon?
+A:  4 gallons
+
+2634	(medium)							HIH705-1,710-2
+Q:  What is the capacity of the stomach?
+A:  2 - 4 gallons/8-16 quarts 		(accept any number within this range)
+
+2635	(medium)							HIH705-1,710-2
+Q:  What is the capacity of the small intestine?
+A:  Approx. 12 gallons/68 quarts  
+
+2636  (medium)                                 TH93
+Q:  Which two anatomic structures aid the horse in collecting loose feed such as kernels of grain from a feed bucket or manger?		
+A:  Upper lips (also accept lips) and tongue
+
+
+
+
+
+
+
+HARD
+
+2637	(hard)									FCH294/DET93
+Q:  What is an enterolith?
+A:  Intestinal stone or stone-like mass that forms around a foreign object in horse's intestines
+
+2638	(hard)							FCH393
+Q. What is the name for the terminal portion of the small intestine?
+A. Ileum
+
+2639	(hard)							HIH705-2
+Q:  Fibrous feedstuffs are broken down into volatile fatty acids.  What percent of the horse's energy needs do these acids provide?
+A:  80%
+
+2640	(hard)							HIH705-2
+Q:  Referring to the digestive system, what does VFA mean?
+A:  Volatile fatty acid
+
+2641	(hard)							HIH705-1
+Q:  What are 2 functions of the pharynx?
+A:  Food passage between mouth & esophagus; air passage between nostrils & trachea
+
+2642	(hard)							TH192
+Q:  What part of the large intestine serves as a microbacterial vat?
+A:  Cecum
+
+2643	(hard)							HS25
+Q:  Sugar is absorbed in what form?
+A:  Glucose OR in the forms of other simple sugars
+
+2644	(hard)							HIH705-2
+Q:  The large colon has the largest capacity of the horse's digestive system.  What percent of total capacity is it?
+A:  40%
+
+2645	(hard)							HS31
+Q:  What is the diameter of the large colon?
+A:  19-22 inches down to 3-4 inches		 (accept any number within this range)
+
+2646	(hard)							TH192
+Q:  2 part question:  How long is the large intestine & what is its' capacity?
+A:  25 feet long;    32 gallons capacity
+
+2647	(hard)							HS30
+Q:  What are the small projections in the small intestine called?
+A:  Villi
+
+2648	(hard)							CAHA51
+Q:  What powerful, ring-like muscle closes the opening of the esophagus into the stomach?
+A:  Sphincter      (cardiac sphincter)   
+
+2649	(hard)							DET154
+Q:  What is the general term for the bacteria and other microorganisms that normally reside in the large intestine?
+A:   Intestinal Flora
+
+2650	(hard)							CAHA51/DET48
+Q:  What part of the stomach connects to the esophagus?
+A:  Cardia  
+
+2651	(hard)							HS23/DET209
+Q:  What is peristalsis?
+A:  Wavelike movements of the esophagus that move food through the digestive tract
+
+2652	(hard)							HIH705-2,710-2
+Q:  2 part question:  What is the length & capacity of the cecum?
+A:  4 feet long;               capacity 28 - 32 quarts/4 gallons
+
+2653	(hard)							HS29
+Q:  What is the purpose of gastric lipase?
+A:  Helps digest fats
+
+
+
+
+2654	(hard)							TH191/HS28
+Q:  Approximately how many gallons of saliva are produced & swallowed by the horse each day?
+A:  8 - 10 gallons	 (accept any number within this range)
+
+2655	(hard)							HIH710-2,705-2
+Q:  2 part question:  What is the length & capacity of the large colon?
+A:   10 - 12 feet;		 capacity 86 quarts/20 gallons 
+
+2656	(hard)							CAHA51/DET224
+Q:  What is the opening of the stomach into the small intestine called?
+A:  Pylorus 
+
+2657	(hard)							CAHA51
+Q:  What do the bile duct & the pancreatic duct empty into?
+A:  The duodenum
+
+2658	(hard)							TH191
+Q:  Besides water, what composes the saliva of a horse?
+A:  Inorganic salts & proteins/enzymes
+
+2659	(hard)							HIH435-1
+Q:  What part of the horse functions similar to the rumen in cattle & sheep?
+A:  Cecum
+
+2660	(hard)							HIH705-1/HS29
+Q:  What does hydrochloric acid do in the stomach?
+A:  Helps with digestion OR mixes with the food & acidifies it so pepsin & gastric lipase can work
+
+2661	(hard)							CAHA51
+Q:  Where in the digestive system is hydrochloric acid secreted?
+A:  Stomach lining
+
+2662	(hard)							HS29
+Q:  What does pancreatic amylase do?
+A:  Digests starch
+
+2663	(hard)							TH191/HS28
+Q:  2 part question:  What makes up 99% of the saliva & what is the other 1%?
+A:  99% water & 1% inorganic salts & proteins/enzymes
+
+2664	(hard)							HS29
+Q:  Food does not leave the stomach until what happens?
+A:  Stomach is 75% full
+
+2665	(hard)							TH194/HIH710-1
+Q:  When a horse is fed a balanced hay to grain ratio, it generally takes about how many hours for the ingested material to pass through the digestive tract & be passed out as fecal material?
+A:  36 - 72 hours (1-1/2 - 3 days)		 (accept any number within this range)
+
+
+2666	(hard)							HIH710-1
+Q:  What percent of proteins in grain-based diets is digested to amino acids & absorbed from the small intestine?
+A:  50 – 70%
+
+2667	(hard)							HIH705-1,710-2
+Q:  Passage of feeds through the small intestine takes approximately how long?
+A:  30 - 90 minutes		 (accept any number within this range)
+
+2668	(hard)							HIH705-1
+Q:  The angle at which the esophagus meets the stomach & the powerful spinchter at that junction makes it nearly impossible for feed to do what?
+A:  Re-enter the esophagus once it's deposited in the stomach
+
+2669	(hard)							DET210
+Q:  Explain how the pharynx functions with the respiratory tract
+A:  When horse isn’t swallowing, it connects the nasal passages with the windpipe
+
+2670	(hard)							TH192/HS29
+Q:  Explain how bile is released in the horse's digestive system.
+A:  Continuously secreted by the liver    (into the bile duct which empties into the duodenum)
+
+2671	(hard)							TH196/HS29
+Q:  What does the enzyme trypsin do?
+A:  Breaks down proteins     (assists in the digestion of proteins)
+
+2672	(hard)							HS29
+Q:  Which enzyme assists in the digestion of fats?
+A:  Lipase  
+
+2673	(hard)							HS29
+Q:  Explain how insulin & glucagon act.
+ A:  Insulin - moves extra glucose from blood to storage in body;
+      Glucagon - moves stored glucose back into the blood when needed
+
+2674	(Hard)							HS24
+Q:  2 part question:  A normal horse requires how many minutes to eat a pound of hay & how many minutes to eat a pound of grain?
+A:  15 - 20 minutes to eat a pound of hay & 5 - 10 minutes to eat a pound of grain
+
+2675	(hard)							HIH710-1
+Q:  Describe a non-ruminant digestive system.
+A:  Carbohydrates, proteins & fats are digested in foregut by enzymes & fiber is digested in hindgut by bacteria
+
+
+
+
+
+
+
+2676	(hard)							HIH710-1
+Q:  Describe a ruminant digestive system.
+A:  Fiber is digested in the rumen, enzymatic digestion in foregut & relatively minimal digestion occurs in hindgut
+
+2677	(hard)							HIH710-1
+Q:  Digestively speaking, what is the horse categorized as?
+A:  Non-ruminant herbivore
+
+2678	(hard)							FCH399
+Q:  Why can't a horse vomit?
+A:  Blocking action of the soft palate OR angle at which esophagus meets stomach OR cardiac sphincter prevents food from re-entering esophagus		(accept either)
+
+2679	(hard)							DET250
+Q:  What structure in the horse's mouth is forced up by the tongue during swallowing to keep food out of the nose?
+A:  Soft palate
+
+2680	(hard)							CAHA51
+Q:  What muscle regulates the flow of stomach contents into the duodenum?
+A:  Pyloric sphincter    
+
+2681	(hard)							DET209
+Q:  What is the name for the wavelike muscular contractions that move food down the esophagus?
+A:  Peristalsis
+
+2682	(hard)							TH204
+Q:  What is intestinal flora?
+A:  Bacteria normally present in the intestine
+
+2683	(hard)							HIH710-2
+Q:  2 part question:  Where does the sound-generating action of digestion occur & where do you listen for it?
+A:  Occurs in cecum.  You should listen for it on right side of the horse's abdomen at junction of the hind leg & trunk
+
+2684   (hard)                             DET224
+Q:  What two areas of the digestive tract are connected by the pylorus?
+A:  Stomach and small intestine (duodenum)			
+
+
+
+BONUS
+
+2685	(bonus)							HS25
+Q:  What 3 things do intestinal movements do?
+A:  Mix digested food with digestive secretions, enhance absorption, move material through intestines, expel the residue, assist in blood flow & lymph through vessels in intestinal wall
+
+
+2686	(bonus)							TH201-02
+Q:  What are 3 factors that may affect the rate of passage of ingesta through the gastrointestinal tract of the horse?
+A:  Processing of food, level of intake/how much is eaten, frequency of feeding, exercise, individuality, time of watering, associative effects, ratio of hay to grain
+
+2687	(bonus)							TH118-119/FCH4,5
+Q:  The gastrointestinal tract of the horse has many functions.  Name 3.
+A:  Ingestion, grinding/chewing, mixing, digestion, absorption, elimination of waste
+
+2688	(bonus)							HIH710-2
+Q:  Name 4 parts of the horse’s hindgut.
+A:  Cecum, large colon, small colon, rectum
+
+2689	(bonus)							HIH710-1
+Q:  Name 4 parts of the foregut.
+A:  Mouth, esophagus, stomach & small intestine
+
+2690	(bonus)							HS31
+Q:  Name 3 things that make up feces.
+A:  Waste matter of digestion, water, indigestible and/or undigested food, cells sloughed off intestinal walls, remains of digestive secretions
+
+2691	(bonus)    			HIH705-1
+Q:  Explain how each of the following 4 parts of the horse is involved in the process of digestion ---
+Lips, incisor teeth, molars/premolars & tongue
+A:  Lips – pick up/sort loose feed
+Incisor Teeth – bite off grasses
+Molars/Premolars – chew the feed
+Tongue – moves the feed into the mouth 
+
+2692	(bonus)							HS25
+Q:  What are 3 sections of the digestive tract where impactions are most likely to occur?
+A:  Cecum, small colon, & large colon  
+
+2693	(bonus)							HIH705-1
+Q:  Name 3 things secreted by the stomach.
+A:  Hydrochloric acid, pepsin, gastric lipase   		
+
+2694	(bonus)							HIH710-2,705
+Q:  Name the parts of the horse's foregut in correct order - starting from the mouth & including the 3 parts of the small intestine.
+A:  Mouth, pharynx, esophagus, stomach, duodenum, jejunum, ileum
+
+
+
+
+
+2695	(bonus)							TH189/HS31/HIH705
+Q:  The important digestive action of the cecum & colon is due to the presence of bacteria & protozoa which do 3 things.  Name these 3 things.
+A:  Digest cellulose, synthesize B vitamins, synthesize amino acids
+ 
+2696	(bonus)							HS24
+Q:  What are 3 substances that are secreted into the duodenum?	
+A:  Bile, trypsin, pancreatic lipase
+
+2697	(bonus)							TH190
+Q:  What are the 7 parts of the alimentary canal?
+A:  Mouth, pharynx, esophagus, stomach, small intestine, large intestine, rectum/anus
+
+2698	(bonus)							HIH701,705
+Q:  Name 3 mechanical factors in digestion.
+A:  Chewing, swallowing, movements of stomach & intestines, defecation/pooping
+
+2699	(bonus)							HIH710-1
+Q:  Name 3 accessory organs of the digestive system.
+A:  Teeth, tongue, salivary glands, pancreas, liver
+
+2700	(bonus)							CAHA51
+Q:  What are the 3 parts of the small intestine?
+A:  Duodenum, jejunum, ileum
+
+
+
+

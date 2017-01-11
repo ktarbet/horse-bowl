@@ -1,0 +1,375 @@
+2017 SENIOR SAFETY
+
+
+EASY
+
+6085	(easy)								HH52
+Q:  Why should you tie your horse far away from strange horses?
+A:  They might fight
+
+6086	(easy)								HH53
+Q:  When riding your horse on paved roads, what gait should you use?
+A:  Walk
+
+6087	(easy)								HH53
+Q:  Why should horses on a picket line not be too close to each other?
+A:  They might fight
+
+6088	(easy)								H1-27
+Q:  Never tie a horse at a level below what point of the horse?
+A:  Withers /shoulder
+
+6089	(easy)								HH53
+Q:  Which gait should you use when riding on rough ground or in sand, mud, ice or snow?
+A:  Walk (let him pick his own way as there is danger or slipping or falling)	
+
+6090	(easy)								HH52	
+Q:  What is the safest way to lead a horse through a narrow opening or gate?
+A:  Step through first & move to one side to avoid being crowded
+
+6091	(easy)								HH52
+Q:  If your horse resists while you are trying to lead it, what should you NOT do?
+A:  Don't get in front & try to pull him
+
+6092	(easy)								HH53
+Q:  While riding, what should you do if your horse becomes frightened & tries to run away?
+A:  Turn him in a circle & tighten the circle till he stops OR use pulley rein or one rein halt
+
+6093	(easy)							TH822/HIH340-4
+Q:   In case of an emergency what two pieces of equipment should be outside every horse’s stall?
+A:   Halter and lead
+
+6094	(easy)								H1-25
+Q:  What is the recommended knot for tying a halter rope to a fixed object?  	
+A:  Quick release  
+
+6095	(easy)								HH51
+Q:  If you have to work around a horse’s hindquarters, why is it important to stay close?
+A:  If the horse kicks, you won’t get the full impact of the kick
+
+
+
+
+
+
+6096	(easy)							HIH340-1/TH754
+Q:  What tragic event involving barns or equine facilities can be caused by human carelessness and lack of safety knowledge?  
+A:  Barn fires
+
+6097	(easy)								HH52
+Q:  What should you never do with a lead rope or reins?
+A:  Never wrap them around your hand, wrist, or body
+
+6098	(easy)								HH51
+Q:  A:  Wear a helmet
+
+6099	(easy)								HH53
+Q:  Why should you speak to your horse when approaching it from the rear?
+A:  
+
+6100	(easy)								HH52
+Q:  When going up & down hills, you should always use which gait?
+A:  Walk	
+
+6101	(easy)								HH53
+Q:  Why should you recheck the cinch just before mounting the horse?
+A:  Because the cinch often loosens after you walk your horse around
+
+6102	(easy)								HH51
+Q:  Why is it important to learn & practice safety rules?
+A:  So they’ll become habits & will keep you safe
+
+6103	(easy)								HH52
+Q:  When your horse is tied, what should you always do before removing the halter?
+A:  Untie the horse 	(additional info -- so if the horse pulls back you won’t get hurt)
+	
+6104	(easy)								H4-19
+Q:  What should you do as a safety precaution if your horse is known to kick?
+A:  Put a red ribbon in its tail
+
+6105	(easy)								HIH1220-1
+Q:  Why should you never approach a horse directly from behind?
+A:  He can't see directly behind himself & you might get kicked
+
+6106	(easy)								HH52
+Q:  What direction should you turn the horse when leading it?
+A:  Away from you OR to the right	 (additional info -- so you don’t get stepped on)
+
+6107	(easy)								HH53
+Q:  After adjusting the saddle & before you mount, what should you do?
+A:  Re-check the cinch  
+
+6108	(easy)								HH53
+Q:  In using a double-rigged saddle, which cinch should you buckle first?
+A:  Front
+
+
+6109	(easy)								HH52
+Q:  What is the only thing you should tie your horse with?
+A:  Halter rope/lead rope
+
+6110	(easy)								HH51
+Q:  Where should you place your hand first when petting your horse?
+A:  Neck or shoulder
+
+6111	(easy)								HIH340-4
+Q:  Why should you keep a halter & lead rope by each stall?
+A:  In case of emergency	 (additional info -- so you can lead horse out quickly)
+
+6112	(easy)								HH53
+Q:  Which cinch should you loosen first when unsaddling a double-rigged saddle?
+A:  Back
+
+6113	(easy)								HH52
+Q:  When working on a horse, what position is considered the safest for you to be in?
+A:  As near shoulder as possible		
+ (additional info -- so you can stay away from the mouth & the hind legs)
+
+6115	(easy)								HH52
+Q:  You should never tie a horse with what?
+A:  Bridle/reins
+
+6116	(easy)								HH54
+Q:  Why shouldn't you run past other horses & riders?
+A:  It will make the other horses want to run & someone could get hurt
+
+6117	(easy)								HH51
+Q:  Always do what when approaching your horse?
+A:  Speak to him
+
+6118	(easy)								HH51
+Q:  Disregarding simple safety rules in handling horses can result in what?
+A:  Serious injury
+
+6119	(easy)								HIH340-2
+Q:  Give 2 fire safety rules for barns.
+A:  No smoking, no flammable substances, store vehicles & machinery elsewhere, fire extinguishers available, no kerosene or portable heaters, automatic fire sprinklers, smoke alarms, inside water supply with hose, exterior stall doors, space between buildings exit doors marked, barn aisles clear, keep cobwebs/dust off electrical fixtures, manure piles at least 20’ away from barn, keep weeds/brush/trash picked up from around barn, fire hose/buckets available		(accept any reasonable answer)		
+
+6120	(easy)								BEG113-2/HIH340-4
+Q:  Why should smoking NEVER be allowed in a barn?
+A:  It could cause a fire
+
+6121	(easy)								H1-25
+Q:  What kind of knot is recommended when tying a rope around a horse's neck?
+A:  Bowline	 (additional info -- because it won’t slip & choke the horse)
+
+6122	(easy)								HH54
+Q:  What should you tell someone who's going to ride your horse?
+A:  Tell them what to expect
+
+6123	(easy)								H1-27
+Q:  What is the safest way to comb a horse’s tail?
+A:  Stand off to the side & bring the tail around to you
+
+6124	(easy)								HH51
+Q:  Horses kept in tie stalls must be taught to do what before you walk in beside them?
+A:  Move over	 (additional info -- so you’re not crowded against the wall)
+
+6125	(easy)								HH52
+Q:  If your horse rears up while you are leading it, what should you do?
+A:  Release the hand nearest the halter so you can stay on the ground
+
+6126	(easy)								H4-16
+Q:  Describe how the halter lead rope should be held.
+A:  Right hand holds the lead rope near the halter.  Left hand holds the excess lead either folded in figure 8 
+
+6127	(easy)								HIH710-5
+Q:  When using a hay net for feeding horses, why should it be tied at approximately eye level of the horse?
+A:  SAFETY – so horse can’t get foot caught in it
+
+6128	(easy)								HH53
+Q:  When riding, if an obstacle frightens your horse, what should you do?
+A:  Steady him/give him time to overcome his fear then ride by the obstacle
+
+6129	(easy)								HH53
+Q:  Why is it important to keep your horse under control & to keep a secure seat?
+A:  Horses are easily frightened    (also accept so you won’t fall off)
+
+6130	(easy)						HIH340/TH781			
+Q:  For fire safety, a building for hay storage should be located at least how many feet from any other structures?
+A:  At least 100 feet away
+
+6131	(easy)								HH21
+Q:  Why is it a good safety practice to face the rear of the horse when mounting?
+A:  Easier to keep your balance OR easier to control horse
+
+6132	(easy)								H1-25
+Q:  What are 2 basic knots every horseperson should know?
+A:  Quick release, bowline, square knot, half hitch, double half hitch
+
+6133	(easy)								HH51
+Q:  When catching a horse, what area of the horse should you walk towards?
+A:  Neck or shoulders
+
+6134	(easy)								HH54
+Q:  If a rider should fall from the horse when jumping, what should be done?
+A:  DON’T move him;   CALL 911 if he’s injured
+
+6135	(easy)								H1-25
+Q:  What type of knot would you use when you need a loop that won't slip or tighten?
+A:  Bowline
+
+6136	(easy)								HH52
+Q:  Why should you never tie a horse with the reins?
+A:  He may pull back, break the reins, or injure his mouth 	(only need to give one)
+
+6137	(easy)								HH53
+Q:  When saddling, if you drop the saddle down too quickly or hard, what may happen?
+A:  Might scare the horse or hurt his back
+
+6138	(easy)								HH52
+Q:  What is the safest way to turn your horse loose in a pasture or stall?
+A:  Lead horse completely through gate/door.  Turn him to face direction from which you just came, then remove the halter/bridle
+ (additional info -- never let him bolt away from you because it’s a bad habit & you might get kicked)
+
+6139	(easy)								HH52
+Q:  What is the safest position from which to lead a horse?
+A:  Between his head & shoulder 
+
+6140	(easy)							HH53
+Q:  When riding a young or green horse, what's the safest way to cross a paved road?
+A:  Dismount & lead him across
+
+6141	(easy)							HH54
+Q:  What part of the horse's body should you NEVER strike or kick?
+A:  Head or legs		 (additional info -- they injure more easily than the rest of the body)
+
+6142	(easy)							HH37/TH719-20
+Q:  Why should a hoof pick only be used from heel to toe?
+A:  Safety!  If used the opposite way, it could slip & gouge handler or horse
+
+6143	(easy)							HH53
+Q:  On what side of the road should you ride?
+A:  With traffic OR side required by state law
+
+6144	(easy)							HH52
+Q:  In using a double-rigged saddle, which cinch should you buckle last?
+A:  Rear			
+
+6145	(easy)							HIH340-1
+Q:  Most barn fires occur in which seasons?
+A:  Summer & winter
+
+6146	(easy)							TH821
+Q:  During a fire, what's the best thing to do to get your horse out of a barn?
+A:  Blindfold him
+
+
+
+
+6147	(easy)							BEG107-2/TH775/HIH320
+Q:  Why is electrical wiring in a barn is always run in conduits?
+A:  To protect the horse from getting shocked  add: to keep horses from chewing on it
+(additional info -- conduits are coverings for electrical wires & are often made out of metal)
+
+6148	(easy)								HH53
+Q:  Why should you never mount or dismount near fences, barns, or overhanging projections?
+A:  You may get hurt
+
+6149	(easy)			HIH340-2
+Q:  How often should a fire extinguisher be checked?					
+A:  Yearly
+
+6150	(easy)				HIH320-9
+Q:  Why is it recommended that hay be stored in a different building from the horses?
+A:  Fire safety   (possibly respiratory issues)              
+
+
+
+
+
+
+MEDIUM
+
+6151	(medium)						HIH340-1old, 340-4new
+Q:  Where should fire extinguishers be hung in a barn?
+A:  Should be hanging at all exterior doorways, in middle of long aisles & next to electrical panel box      
+Also accept at least 75 feet apart     
+
+6152	(medium)						HIH340-2old
+Q:  What is a critical, but often overlooked, item of a barn escape plan?
+A:  Providing for a holding area at a distance from the barn that's big enough to hold all the horses
+
+	
+
+
+
+BONUS
+
+6153	(bonus)						HH53
+Q:  Name the 3 times you should check your cinch.
+A:  After saddling, after walking a few steps, after mounting & riding a short distance
+
+6154	(bonus)						TH759/HH/HIH/CCS
+Q:  You should check your pasture or turnout area for unsafe conditions.  Name 3.
+A:  Old machinery/junk, broken fence, loose wire, broken boards, nails, poisonous plants, etc
+Accept any reasonable answer
+
+
+
+
+
+
+6155	(bonus)								H4-19-21/HH53
+Q:  Name 3 safety precautions for riding in a group.
+A:  Don't rush past other riders who're going slower, keep a safe distance between horses, cross roads together, ride on same side of road, most experienced rider in lead, least experienced riders in middle of group, wait for everyone to be mounted before you ride off, no practical jokes, warn other riders of obstacles, if possible take cell phone, if horse kicks - put red ribbon in tail, pay attention      
+(accept any reasonable answer)
+
+6156	 bonus)						HIH340	-1	TH201
+Q:  Give 3 possible causes of a stable fire.
+A:  Accumulation of dust/cobwebs, appliances (space heaters, etc), bucket/water heaters, chemical reaction (gas, aerosol cans left in areas of extreme heat), electrical storms/lightning, garbage/debris piled up around heat source, horse/rodent chewing through electrical wires, smoking, spontaneous combustion, grass/brush burning, wind-blown sparks, burn barrels, set fires, ignited fires (car exhaust/farrier forge)
+(accept any reasonable answer)
+
+6157	bonus)								HIH340-1
+Q:  What are the 2 most common causes of summer barn fires?
+A:  Lightning & spontaneous combustion
+
+6158	(junior bonus)							HIH340-4
+Q:  Give 3 general fire safety rules for barns.
+A:  No smoking, no flammable substances, store vehicles & machinery elsewhere, fire extinguishers available, no kerosene or portable heaters, automatic fire sprinklers, smoke alarms, inside water supply with hose,
+exterior stall doors, space between buildings          (accept any reasonable answer)
+
+6159	(bonus)							H1-25
+Q:  What are 3 features of a good knot?
+A:  Easy to tie, strong, holds firmly, easy to untie if used for livestock
+
+6160	(bonus)							HIH320, 340/BEG320
+Q:  When building a barn, what are 3 safety features you should incorporate?
+A:  Adequate ventilation, electrical outlets in safe/convenient locations, windows in proper location, alley width, stall door width, stall size, stall doors hung safely, no obstacles blocking air ventilation, adequate lighting, waterers in safe/convenient locations, inside temperature at comfortable level
+use flame retardant or fire resistant materials, install smoke detectors, fire alarms, sprinkler systems, etc
+
+6161	(bonus)							HIH340
+Q:  Give 3 safety features for barn electrical systems.
+A:  Conform to national electrical code, panel boxes in dry/dust-free area, switch boxes have dust/watertight covers, corrosive resistant/weather proofed, wires in conduits, appliances grounded/UL approved,  thermostats on water heaters, heat lamps not close to hay/bedding, no portable heaters, light bulbs in dust free covers, inspect equipment regularly, outlets/wires/lights out of horse's reach, utility shutoffs prominently marked ,  lightning rods on barns
+
+6162	(bonus)							HIH340-1
+Q:  Name 3 things that cause winter fires
+A:  Appliances/portable heaters, rodents/horses chewing through wires, dust/cobwebs on electrical surfaces, smoking, etc		(accept any reasonable answer)
+
+
+
+
+6163	(bonus)						H4-21
+Q:  When trail riding in a group with riders & horses of varying experience, describe the riding order - experience wise - that' s the most safe.
+A:  Most experienced in lead, least experienced in middle, strong rider bringing up rear
+
+6164	(bonus)							HIH340-2-old
+Q:  Give 3 basic steps of a barn escape plan.
+A:  Escape plan posted in barn, fire drills, firefighters/emergency personnel trained in horse handling/behavior, horses accustomed to simulated smoke/emergency situations, necessary equipment & knowledge of how to use, never lock stall doors, fire dept phone # posted, have supply of towels/burlap bags for blindfolds			
+6165	(bonus)				HIH340-1
+Q:  Name 3 highly flammable materials found in barns/stabling areas 		
+A:  Hay, straw, bedding (esp. sawdust/shredded newspaper), cobwebs, dust, grain dust, horse blankets, paint, fertilizer, pesticides & herbicides
+
+6166	(bonus)				HIH340-2
+Q:  An accelerant is a substance that increases the speed at which a fire spreads.  Name 3 common
+accelerants				
+A:   gasoline, kerosene, oil, aerosol cans, paint thinner, charcoal lighter fluid
+
+6167	(bonus)				HIH340-2
+Q:  An ignition source is something that can cause an accelerant or flammable material to ignite or smoke.  Name 3 common ignition sources				
+A:  Cigarettes, matches, sparks, motors, heaters, electrical appliances, fence chargers, electrical fixtures/wires, batteries, broken glass, chemicals
+
+
+
+
+

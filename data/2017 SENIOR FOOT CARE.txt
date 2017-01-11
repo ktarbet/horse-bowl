@@ -1,0 +1,996 @@
+2017 SENIOR FOOT CARE
+
+EASY
+
+4110	(easy)								HIH505-7
+Q:  What part of the horse's foot contains the LEAST amount of moisture?
+A:  The wall 
+
+4111	(easy)						HIH525-1
+Q:  What part of a horse's foot provides traction & absorbs shock?
+A:  Frog  
+
+4112	(easy)								HIH540-2
+Q:  What is a quarter or sand crack?	
+A:  Crack in the side of the hoof wall 
+
+4113	(easy)									HIH455-3
+Q:  A darkened or moist area on the sole is usually an indication of what?
+A:  Puncture wound	 (also accept sole bruise OR abscess)
+
+4114	(easy)									HIH540-2
+Q:  Where is a foot abscess most common?
+A:  Sole OR white line	 (accept either) 
+
+4116	 (easy)								ADV334-1L
+Q:  In reference to a horse's foot, where would you find a corn?
+A:  Heel area of sole
+
+4117	(medium)							HIH540a
+Q:  A specific type of sole bruise occurring in the heel area is called what?
+A:  Corn
+
+4118	(easy)								HIH540-1	
+Q:  A disease of the foot characterized by a pungent odor is called what?	
+A:  Thrush
+
+4119	(medium)						HIH535-2
+Q:  Why should the clinches be cut or straightened before pulling off the shoe?
+A:  To prevent tearing or chipping the hoof wall
+
+4120	(medium)						HIH525-1
+Q:  About how many times a year should your horse be trimmed or shod?
+A:  6 – 12 	 (accept any number within range) 
+
+4121	(easy)						HIH420-3
+Q:  What is the best way to prevent snow & ice from accumulating in a horse's hooves during the winter?
+A:  Pull shoes & keep feet trimmed	 (also accept keep feet clean)
+
+
+
+
+4122	(easy)							TH728/HIH530-2
+Q:  What type of farrier's hammer is used for making & shaping shoes?
+A:  Rounding
+
+4123	(medium)						INT231-2
+Q:  Aluminum horseshoes have the advantage over steel horseshoes of being lighter in weight, but have what disadvantage compared to a steel shoe?
+A:  Aluminum shoes wear faster
+
+4124	(easy)							HIH530-1
+Q:  You reach into your toolbox looking for your hoof nippers & grab what looks like nippers, but they have knobs on the ends of the handles.  What tool to you have?
+A:  Pull offs/ shoe pullers 
+
+4125	(easy)							HIH530-2
+Q. What tool is used to level the bearing surface of the hoof after it has been trimmed by the nippers?
+A. Rasp
+
+4126	(easy)							HIH515-4/HH49/TH732
+Q:  Name the type of keg shoe that is made of aluminum & is used on racehorses.  
+A:  Plates or racing plates
+
+4127	(easy)							HIH515-4/TH732
+Q:  Aluminum shoes are most commonly used in what equine sport?
+A:  Racing
+
+4128	(easy)							HIH515-4/TH732
+Q:  Racing plates are generally made from what type of metal?
+A:  Aluminum
+
+4129	(easy)							HIH505-6
+Q:  Hoof growth rate decreases as the animal's what increases?
+A:  Age
+
+4130	(easy)							HIH515-2/TH737-38
+Q:  What type of shoe modification is used primarily to take the stress of the nail & stabilize the shoe?
+A:  Clips                       
+
+4131	(easy)								HIH540-1
+Q:  What is thrush?	
+A:  Disease/infection  of the frog	(accept either)
+
+4132	(easy)							HIH530-4
+Q:  What farrier tool is used to shape & make shoes on the anvil?
+A:  Rounding hammer or turning hammer
+
+4133	(easy)							HIH525-1
+Q:  Exercising a horse will help keep his feet what?
+A:  Healthy
+
+4134	(easy)							HIH515-2/TH737-38
+Q:  What are toe clips?
+A:  Metal projections on outside, front of shoe
+ (additional info – they help hold the shoe on & take stress off the nails)
+
+4135	(easy)							HIH530-1/TH728
+Q:  Name the farrier's tool used to remove excess hoof wall.
+A:  Nippers
+
+4136	(easy)							HIH515-3
+Q:  What kind of special shoes would be found on the hind feet of a horse in a reining competition?
+A:  Sliding plates or sliders
+
+4137	(easy)							HIH515-3
+Q:  Sliding plate horseshoes will be found on the rear hooves of a horse performing in what kind of competition?
+A:  Reining
+
+4138	(easy)							HIH525-3
+Q:  List one reason why you should work with your foal's feet.
+A:  Get him used to being handled while young, he’s easier to control while young, he will grow up knowing he won't be hurt
+
+4139	(easy)							HIH505-2
+Q:  What is the primary function of the sole?
+A:  Protection     (protects the coffin bone)
+
+4140	(easy)							TH742/HH49
+Q:  In reference to shoeing, what is meant by the term "re-set"?
+A:  When farrier uses the same set of shoes for a second time
+
+4141	(easy)							HIH230-1
+Q:  A pincher-like instrument used to squeeze the hooves to find a sore spot is called what?
+A:  Hoof tester
+
+4142	(easy)							HIH540-3
+Q:  What is the purpose of hoof testers?
+A:  To identify problems in the hoof
+
+4143	 (easy)							HIH515-5
+Q:  In horseshoeing, what are pads used for?
+A:  Protect the bottom of the foot
+
+4144	(easy)							HH49/TH721
+Q:  When trimming the hooves of a pigeon toed horse, which half of the hoof do you trim more?
+A:  Inner half
+
+
+
+
+4145	(easy)								HIH540-2
+Q:  Name one cause of a sand or quarter crack.
+A:  Uneven weight bearing, irregular hoof growth, wire cuts, excessive hoof length, dry conditions
+
+4146	(easy)							HH49/TH721
+Q:  How would you trim a splayfooted horse?	
+A:  Trim more off the outer half of the hoof 
+
+4147	(easy)								INT231-2
+Q:  Caulks & studs are devices added to horseshoes for what purpose?
+A:  Traction
+
+4148	(easy)							HIH505-1/HH49
+Q:  What is the basic purpose of horseshoes?	
+A:  Protect the feet from wear or damage
+
+4149	(easy)						HH47/TH720
+Q:  When should hoof dressing be used?
+A:  When wall is dry, brittle, or cracked
+
+4150	(easy)							HIH540-8/TH720
+Q:  Approximately how often should a horse's foot be trimmed?
+A:  Every 4-8 weeks	 (accept any number within this range)
+
+4151	(easy)							HIH505-8
+Q:  What in the horse's feet helps to maintain their flexibility?
+A:  Moisture
+
+4152	(easy)							HIH530-1/HH36
+Q:  Give one reason for picking out a horse's foot.
+A:  Check for injuries or bruises, check for loose shoes, check for rocks, check for thrush
+
+4153	(easy)						HIH525-2
+Q:  Referring to horse’s feet, what does “picking out” mean?  
+A:  Cleaning out a horse’s hoof
+
+4154	(easy)							HH36-37
+Q:   How do you pick up a front foot?
+A:  Stand beside shoulder, facing rear.  Run your hand down back of leg to just above fetlock. Grasp fetlock area & pick up foot	 (can pinch tendon or push shoulder away to help)
+
+4155	(easy)							HIH535-5
+Q:  Give one reason for shoeing your horse.
+A:  Protect hoof from excessive wear, provide traction, help correct stance or gait, correct faulty hoof structure or growth, protect hoof from corn/contraction/cracks/other abnormal conditions, ease pain of injured hoof
+
+4156	(easy)							HH49
+Q:  Keeping the hoof moist & toe shortened will help correct which defect?
+A:  Quarter crack
+
+4157	(easy)							HH49/TH20-22
+Q:  Name a common fault corrected by trimming.
+A:  Splay foot/toe out, pigeon toe/toe in, contracted heels, quarter crack, cocked ankle
+
+4158	(easy)						HIH535-2
+Q:  2 part question:  When trimming a horse that’s going to be ridden on rocky ground and/or roads, what part of the foot should NOT be trimmed & why?
+A:  Sole;   because it protects the foot
+
+4159	(easy)							HH47
+Q:  If the hoof is not trimmed & it grows too long, what will happen?
+A:  Hoof wall cracks, breaks off, or won't wear evenly (accept any)
+
+4160	(easy)							HIH505-4
+Q:  Where is the greatest point of wear on a horse's hoof?
+A:  Toe (breakover point)
+
+4161	(easy)							HIH525-3
+Q:  2 part question:  When holding a horse for the farrier, on which side should you stand & why?
+A:  Same side as farrier; if horse acts up, you can pull head toward you & horse's body will move away from farrier
+
+4162	 (easy)							HIH530-1
+Q:  What is one purpose of a horseshoer's leather apron?
+A:  Protects the shoer's legs from cuts, nails or tools, protects against heat when working at forge, provides barrier between horse & farrier for dirt, wet, etc., holds small tools
+
+4163	(easy)							HIH530/TH728
+Q:  Which farrier tool is used to cut and/or raise clinches?
+A:  Clinch cutter
+
+4164	(easy)							HIH530
+Q:  What are nippers used for?
+A:  Trim hoof            
+
+4166	(easy)									HH49
+Q:  What 2 things will usually help correct a quarter crack?
+A:  Keep hoof moist & toe shortened  OR   File a groove or notch across the top of the crack (crack & filed groove will look like a “T”) 		(accept any reasonable answer)
+
+4167	(easy)							HIH505-6/CAHA25
+Q:  What is the average hoof growth rate per month?
+A:   3/8 inch OR 1/4 – 1/2 inch		 (accept any number within this range -- also accept 0.5-1 cm)
+
+4168	(easy)							HH49/TH721
+Q:  By lowering the inside hoof wall, the farrier is correcting what problem?
+A:  Toe in or Pigeon toe
+
+
+
+4169	(easy)							HIH505-7
+Q:  What is nature's hoof conditioner?
+A:  Water
+
+4170	(easy)							HIH525-3/HH48
+Q:  Careless trimming of a foal's feet can cause what?
+A:  Strained tendons or lameness
+
+4171	(easy)							HIH505
+Q:  Why should you never rasp the walls of the hoof?
+A:  Removes the periople (outer varnish layer); can cause hoof to dry out	 (accept either)
+
+4172	(easy)							HIH540-1
+Q:  2 part question:  What part of the foot is most important to clean properly & why?
+A:  Deep depressions between bar & frog(commissures, sulci, or collateral grooves; most likely place for thrush to start OR area where rocks & debris get stuck
+
+4173	(easy)							HIH1140-14
+Q:  When shoeing a horse during fly season, what can you use to make things more comfortable for your farrier & your horse?
+A:  Fly spray
+
+4174	(easy)							HIH505-6
+Q:  Horse's hooves grow faster in what general temperature?
+A:  Warm
+
+4175	(easy)							HIH505-6
+Q:  Which grows faster - the front hooves or the back hooves?
+A:  Front
+
+4176	(easy)							HIH515
+Q:  When should the angle of the hoof be changed?
+A:  Only as a corrective measure
+
+4177	(easy)							HIH530-4/TH727
+Q:  What is the farrier's workbench?
+A:  Anvil
+
+4178	(easy)							HIH530-2/TH728
+Q:  What is one purpose of the farrier's driving hammer?	
+A:  Driving nails or finishing clinches 	(accept either)
+
+4179	(easy)							HIH515-1/TH722
+Q:  What portion of the hoof should never bear weight?
+A:  Sole
+
+
+
+
+
+4180	(easy)							HH47
+Q:  How do you pick up a hind foot?
+A:  Stand to side facing tail.  Put hand on hindquarters & run down leg to fetlock.  Ask horse to pick up foot. Pinch tendon/fetlock to help. 		(accept any reasonable wording)
+
+4181	(easy)							HH49/TH742
+Q:  What is the term for the type of shoeing job when the farrier uses the same set of shoes for a second time?
+A:  Re-set or re-shod
+
+4182	(easy)							HH37
+Q:  The part of the horseshoe nail that's bent over after being nailed through the hoof is called what?
+A:  Clinch
+
+4183	(easy)							HIH515-1,535-1
+Q:  Give 2 terms for the person who trims & applies shoes to horse's hooves?
+A:  Farrier, blacksmith, horseshoer/shoer
+
+4184	(easy)							HIH505-6
+Q:  Horses hooves grow at different rates of speed.  Which hooves grow slower?
+A:  Hind
+
+4185	(easy)							HIH530-3/TH745
+Q:  What is the name of the tool that farriers use to bend over the end of a horseshoe nail?
+A:  Clincher	
+
+4186	(easy)							HIH540-2/ADV334-2
+Q:   2 part question:  Will the edges of a crack in the hoof wall grow back together (heal) if the hoof wall is supported & immobilized.  Explain why.
+A:   No; hoof wall must grow out to eliminate the crack
+
+4187	(easy)							HIH505-1 HIH930-4
+Q:  Regarding horses’ feet, what is one of the best known quotations in the horse world?
+A:  "No foot, no horse"
+
+4188	(easy)							HIH505-1
+Q:  What is the foundation of a horse?
+A:  His feet
+
+4189	(easy)							HIH515-1
+Q:  What is the first rule to remember in fitting a shoe to a horse's foot?
+A:  Shape the shoe to fit the foot
+
+4190	(easy)							HIH515-1
+Q:  How many nail holes are there in most ready-made horseshoes?
+A:  8
+
+4191	(easy)							HIH535
+Q:  A satisfactory trimming job can be accomplished with a hoof knife, nippers & what else?
+A:  Rasp
+
+4192	(easy)							HIH505-4
+Q:  What part of the normal, ideal hoof supports the primary weight of the horse?
+A:  Hoof wall
+
+4193	(easy)							HIH530-1
+Q:  What is the difference in use between nippers & pull-offs?
+A:  Nippers are used to trim the hoof & pull-offs are used to remove shoes
+
+4194	(easy)							HIH530-1
+Q:  Nippers & pull-offs look similar.  Describe how you can quickly tell one from another?
+A:  Pull-offs have knobs on the end of the handles
+
+4195	(easy)								HIH505-7
+Q:  What part of the horse's foot contains the GREATEST amount of moisture?
+A:  Frog  
+
+4196	(easy)							TH727
+Q:  What can be added to a horseshoe to help hold the shoe in place?
+A:  Clips (toe clips, heel clips, or both)     (accept either general or specific)
+
+4197	 (easy)							HS13
+Q:  When is the only time a horse will shift his weight to the other front foot?
+A:  When one foot is injured
+
+4198	(easy)							DET142
+Q:   Why would you use a hoof boot for your horse? 
+A:  Replace a lost shoe, treat a foot by placing medication in boot, protect hoof from further injury, keep a hoof clean, traction
+
+4199	(easy)							TH732
+Q:  What is the name for a variation of keg shoe that's shaped to fit a mule's foot?
+A:  Mule shoe
+
+4200	(easy)							TH719
+Q:  Why is hoof care one of the most important aspects of horsemanship?
+A:  If your horse is lame, you can't use him		
+
+4201	(easy)							TH731
+Q:  What size shoe fits most average horses?
+A:  #1
+
+4202	(easy)							TH740
+Q:  If the farrier holds the horse's feet too high, what is likely to happen?
+A:  Horse will be uncomfortable or try to jerk foot away
+
+4203	(easy)							DET23
+Q:  Referring to horses, define the term "barefoot".
+A:  Unshod
+
+
+4204	(easy)					TH150
+Q:  You are spending the day with a farrier.  The farrier has 4 shoes that look identical set aside for the horse he is shoeing.  He would like you to hand him a front shoe.  How will you know which is a front shoe?
+A:  Front shoe is more round     (also accept wider at the heel)          
+
+4205	(easy)                          HIH930-4
+Q:  Hoof growth is slower during which season?
+A:  Winter                   
+
+4206	(easy)							HIH505-6
+Q:  What part of the horse's foot grows the fastest?
+A:  Toe
+
+4207	(easy)				HIH540-2/DET68
+Q:  Name a common cause of corns in the horse.
+A:  Shoe too small, leaving shoe on too long, trimming heel too low
+
+
+
+
+
+MEDIUM
+
+4208	(medium)							HIH540-1
+Q:  What is white line disease?
+A:  Infection in the white line that causes separation of the sole & wall (seedy toe)   
+
+4209	(medium)						HS12
+Q:  What unsoundness may result from a dried out shrunken frog?
+A:  Contracted heels or navicular disease					
+
+4210	(medium)					TH167
+Q:  A narrow, shrunken frog & heels that are pulled together are signs of what?
+A:  Contracted heels
+
+4211	(medium)					INT221-2L
+Q  How does the thickness of the hoof wall determine the web or  width of a horse shoe?
+A:  The web or width should be twice the thickness of the hoof wall
+
+4212	(medium)						TH722/DET142
+Q:   What does the farrier remove from the hoof when trimming the hoof with a hoof knife? 
+A:   Excess dead tissue from the horse’s frog and sole 
+
+4213	(medium)						HIH515-3,525-4
+Q:  Half round shoes are most commonly used on what type of horse?
+A:  Harness racing horses, reining horses or occasionally foals	 (only need to give one answer)
+
+
+
+
+4214	(medium)							HIH505-5
+Q:  2 part question:  What is the shape of the sole & its purpose?
+A:  It's concave;   purpose is protection
+
+4215	(medium)						DET45
+Q:  Where on a horseshoe would you find caulks?
+A:  On the ground surface of the shoe - usually at the heels and/or toes
+
+4216	(medium)						HIH535-3
+Q:  Why do you trim the bars level with the sole?
+A:  So they won't be broken or torn on rocks, etc.
+
+4217	(medium)						TH727
+Q:   What farrier tool is used for cutting hot metal? 
+A:   Hardy
+
+4218	(medium)						TH696
+Q:  How many times a year is a frog naturally shed?
+A:   Two;    every 6 months
+
+4219	(medium)						TH745
+Q:  What is the term used to describe when a nail is being driven too close to the white line.
+A:   Quicking
+
+4220	(medium)						TH742
+Q:  What poor trimming practice may cause forging or over-reaching?
+A:  Leaving the toe too long
+
+4221	(medium)						TH739
+Q:  What type of horseshoe nail is used to increase traction on icy surfaces?
+A:  Frosthead nail
+
+4222	(medium)							ADV334-1 
+Q:  Thrush is a black, strong smelling infection of the hoof that causes destruction of the frog. Is it caused by aerobic or anaerobic bacteria?
+A:  Anaerobic bacteria	 (Fusobacterium necrophorum)   Accept either general or specific answer
+
+4223	(medium)						HIH535-2
+Q:  When removing a shoe, why should you pull down on the pullers instead of pulling them from side to side?
+A:  So you won't twist the foot or pull a tendon		
+
+4224	(medium)								TH167
+Q:  Name a cause of contracted heels?
+A:  Improper trimming or shoeing, leaving shoes on too long, lack of frog pressure, lack of moisture in hoof, heredity, faulty conformation, uneven weight distribution
+
+
+
+
+
+4225	(medium)							INT231-2
+Q:  2 part question -- Give one advantage & one disadvantage of aluminum shoes
+A:  Advantage – lightweight		 disadvantage - wears out quicker than steel
+
+4226	(medium)						HIH535-5
+Q:  What is the purpose of beveling on a horseshoe nail?
+A:  Directs the point of the nail to come out the side of the hoof wall instead of going straight into the hoof
+
+4227	(medium)						HIH530-3
+Q:  What is the purpose of a hoof gauge?
+A:  Used to measure the hoof angle or toe length
+
+4228	(medium)						HIH515-1
+Q:  What is corrective shoeing?
+A:  Shoeing to correct the stance or gait of a horse 
+
+4229	(medium)						HIH515-2
+Q:  What is therapeutic shoeing?
+A:  Shoeing to treat a medical condition of the foot or leg
+
+4230	(medium)						HIH515-4
+Q:  What is the name for a removable traction device for horseshoes?
+A:  Studs 	(additional info -- they can be screwed or driven into shoe as needed & then removed)
+
+4231	(medium)							HIH540-1/ES183
+Q:  How can you treat thrush?
+A:  Clean out hoof, remove affected tissue, & treat with anti-thrush medication
+
+4232	(medium)						TH727
+Q:  What is the purpose of a hardy?
+A:  Used by farrier to cut hot metal
+
+4233	(medium)						TH727
+Q:  What farrier tool is used to make or enlarge nail holes in horseshoes?
+A:  Pritchel
+
+4234	(medium)						TH731
+Q:  The kind & weight of shoes worn by horses depends on what?
+A:  Type of work the horse does
+
+4235	(medium)						TH751
+Q:  What is a keg shoe?
+A:  Pre-sized, ready-made shoe
+
+4236	(medium)							TH745
+Q:  Horse shoe nails have a shank that is flat on one side and the other side is concave.  When driving a nail, the nail should be started with which side facing the outside of the hoof?
+A:  Flat side should be outside
+
+
+4237	(medium)						TH738
+Q:  What alloy can be added to horseshoes to increase traction & life of the shoe?
+A:  Borium
+
+4238	 (medium)						TH734
+Q:  How does a mule shoe differ from a horse shoe?
+A:  Mule shoe is narrower
+
+4239	(medium)						TH732
+Q:  You are the ring steward at a horse show.  An animal in the previous driving class lost a shoe.  You found it & notice that its size is triple zero.  What type of equine lost this shoe?
+A:  Pony OR horse with very small feet
+
+4240	(medium)						CAHA39
+Q:  A base narrow horse will wear its feet unevenly.  What part of the foot needs to be rasped more in order to bring the foot level?
+A:  Inside wall
+
+4241	(medium)						TH742
+Q:  What does an uneven wear pattern on a horseshoe indicate?
+A:  Foot is landing out of balance OR foot is breaking over at a point other than the toe
+
+4242	(medium)						HIH420-3
+Q:  Give 2 reasons for letting a horse go barefoot for a few months.
+A:  Increases circulation in foot, makes for healthier foot, in winter -helps keep snow/ice from accumulating in hooves
+
+4243	(medium)								TH167
+Q:  What are contracted heels?
+A:  Heels of hoof are too close/upright for normal foot conformation    (frog may be shrunken)
+
+4244	(medium)						HIH505-6
+Q:  Where does the moisture come from that helps maintain flexibility & prevent cracking of the horse's feet?
+A:  Within the foot OR environment
+
+4245	(medium)						HIH535-3/CAHA24
+Q:  What is the difference in shape between front & back feet?
+A:  Front feet are naturally flat.  Hind feet are naturally concave, narrower & more pointed
+
+4246	(medium)						TH167
+Q:  What is the condition known as grease heel or scratches?
+A:  Inflammation/infection of the skin on the back of the heel or pastern
+
+4247	(medium)						TH731
+Q:  Fullering, web & branch are parts of what?
+A:  Horseshoe
+
+
+
+
+4248	(medium)						TH731
+Q:  The width & thickness of the metal in the horseshoe is called what?
+A:  Web
+
+4249	(medium)						HIH535-4
+Q:  What are outward distortions of the hoof called?
+A:  Flares
+
+4250	(medium)						HIH530-2
+Q:  What piece of equipment is used by a farrier to determine the angle of the hoof?
+A:  Hoof gauge
+
+4251	(medium)						HIH515-2
+Q:  Why are clips used on horse shoes?
+A:  To take stress off the nails OR to stabilize the shoe on the foot
+
+4252	(medium)							HIH455-4
+Q:  Why are quarter cracks more common than toe cracks?
+A:  Wall is thinner at the quarter
+
+4253	(medium)						HIH515-4
+Q:  What type of horseshoe is commonly used on horses with laminitis to transfer weight from the wall of the hoof to the frog?
+A:  Heart Bar
+
+4254	(medium)							FCH391
+Q:  What is the term used to describe a bacterial or fungal infection of the skin on the heel or back of the pastern?
+A:  Grease heel, scratches, or mud fever	 (only need to name one)       
+
+4255	 (medium)						DET160
+Q:  The most commonly used manufactured or preformed horseshoes are called what?
+A:  Keg shoes
+
+4256	(medium)						ADV 334-2		
+Q:  An abscess of the hoof may open and drain on its own.  What simple treatment can you do to encourage the abscess to dry up and heal? 
+A:  Soak the foot (Epsom salts & warm water or iodine solution) OR pack the hoof (Animalintex, Ichthammol, etc.) 
+
+4257	(medium)						TH720
+Q:  How long does it take the hoof to grow out from the coronet to ground at the toe?
+A:  9 - 12 months	  (accept any number within this range)
+
+4258	(medium)						TH99
+Q:  What is a pritchel used for?
+A:  Make or enlarge nail holes in a horseshoe		(accept either)
+
+
+
+4259	(medium)						HIH530-2/TH728
+Q:  Which farrier's hammer is heavier, rounding or driving?
+A:  Rounding 
+(addtl info - rounding hammer weighs 2-2 ½ pounds; driving hammer weighs less than a pound)
+
+4260	(medium)						HIH515-4
+Q:  A heart bar shoe would be used temporarily to treat a hoof problem where you want to transfer weight from the hoof wall to what structure of the foot?
+A:  Frog
+
+4261	(medium)						HIH530-3/TH745
+Q:  A clinch block can be used to turn the head of the nail to start the clinch.  If your horse objects to this procedure, what other tool could be used to turn the clinch?
+A:  Clinchers or clinching tongs
+
+4262	(medium)					FCH402
+Q:  What is the name of the condition of the hoof when there is a separation of the sensitive & insensitive laminae at the white line in the toe area?
+A:  Seedy toe	(also accept white line disease)
+
+4263	(medium)					HIH535-1,525-3/TH720
+Q:  A normal, healthy mature horse without foot problems has its feet trimmed every 6 - 8 weeks.  How often should foals feet be trimmed?
+A:  Once a month, every 30 days, or every 4 weeks            (accept any)
+
+4264	(medium)								HIH525-3
+Q:  Why should one trim a young foal's feet often?
+A:  Regular foot balancing will allow growth to be as straight as possible
+
+4265	(medium)					TH168/FCH402
+Q:  What is seedy toe?
+A:  Separation of the sole from the hoof wall near the toe       (additional info – also called white line disease)
+
+4266	(medium)					HIH530-2
+Q:  Which farrier tool would be used to correct a flare?
+A:  Rasp                
+
+4267	(medium)						TH735
+Q:  What is the purpose of adding stickers or mud caulks to the heel of a racing plate?
+A:  To increase traction on muddy race track        (accept to increase traction)      
+
+
+HARD
+
+4268	(hard)							HIH515-5
+Q:   What type of horseshoes can be used on a horse that temporarily need shoe protection without damaging the foot with horseshoe nails? 
+A:   Glue-on shoes
+
+
+4269	(hard)							INT231-2
+Q:   In race horses, why are traction devices such as toe grabs not being used by trainers as commonly as they used to be?
+A:   They produce too many injuries
+
+4270	(hard)							HIH515-5
+Q:  When would you use a hospital plate on a shoe?
+A:  When foot is abscessed OR sole has injury
+ (additional info – it’s easy to remove & apply medication to foot bottom; also keeps out debris)
+
+4271	(hard)							ADV321-2L
+Q:  A:  3/4 to 1 inch			(accept either)
+
+4272	(hard)							TH746
+Q:  What is the position of a properly driven horseshoe nail?
+A:  Parallel to the tubules in the hoof wall
+
+4273	 (hard)							DET272
+Q:  Referring to horseshoes, what is a trailer?
+A:  Horseshoe heels that are extended 1/2 inch or more beyond the horse's heel      (addtl info – hind feet)
+
+4274	(hard)						HIH515-4
+Q:  What metal alloy can be used for horseshoes that maintains the light weight of aluminum, but has the durability of steel
+A:   Titanium
+
+4275	(hard)							TH731
+Q:  What happens if the branch of a shoe is too long?
+A:  If on front foot - hind foot may overreach& pull it off;    if on back foot - usually nothing happens
+
+4276	(hard)							TH700
+Q:  What is the name for a type of shoe where the inside rim on the web is raised above the outside rim?
+A:  Polo shoe
+
+4277	(hard)							TH742
+Q:  When removing a shoe from a horse, describe how the pull-offs are used.
+A:  Put jaws of pull-offs under one heel of the shoe.  Close handles & pull down towards the toe & in towards the center of hoof.  Work pull-offs gradually towards the toe - first on one branch of the shoe, then on the other.  Continue till shoe works loose from foot.
+
+4278	(hard)							TH737
+Q:  What distinguishes a polo shoe from a cowboy shoe?
+A:  Inside rim of the polo shoe is raised above the outside rim
+
+4279	(hard)							HIH515-5
+Q:  What is the term for a specialized type of horseshoe pad that can be removed to treat or apply medicine to the hoof & then re-attached?
+A:  Hospital pad
+
+4280	(hard)							INT231-3L
+Q:  What is the name of the type of shoe that's used to elevate the heels of a horse that's confined to stall rest?
+A:  Patten shoe
+
+4281	(hard)							HIH510-1
+Q:  Referring to horseshoeing, what is balance?
+A:  Equal weight distribution (additional info -- around the center of gravity on the horse's leg)
+
+4282	(hard)							HIH505-1
+Q:  How many years have horseshoes been protecting horse's feet?
+A:  More than 2000
+
+4283	(hard)								ADV334-1L
+A:  Name the following disease:  Disease is caused by Fusobacterium necrophorum, an anaerobic bacterium, usually as a result of wet or unsanitary conditions.  Symptoms include crumbly frog, black sulci area & a pungent odor
+A:  Thrush
+
+4284	(hard)							HIH505-1
+Q:  Hoof size can depend on what 2 things?
+A:  Genetics & nutrition
+
+4285	(hard)							TH237
+Q:  What characteristic of a polo shoe increases traction?
+A:  Inside edge is raised higher than the outside edge
+
+4286	(hard)							HIH535-3
+Q:  How much should you trim the frog of a horse that's stabled?
+A:  Only enough to remove dead tissue 
+
+4287	(hard)							HIH505
+Q:  How do extremely wet conditions promote rapid drying of the horse's feet?
+A:  Constant contact with moisture can erode or remove natural oils/protective films from the horse's feet
+
+4288	(hard)							HIH515
+Q:  Why should the horseshoe be slightly wider at the heels than at the quarters?
+A:  To accommodate the expansion of the heels when the foot bears weight
+
+4289	(hard)							HIH505-4
+Q:  In referring to the hoof, what can happen if there isn't any frog pressure or contact with the ground?
+A:  Contracted heels may develop
+
+4290	(hard)							HIH515-1
+Q:  How does the farrier choose the proper weight of shoe for the horse?
+A:  Generally, the lightest weight the horse can wear is best; heavier shoes are used on gaited horses to achieve higher action
+
+
+
+4291	(hard)							FCH392
+Q:  What is the term for the condition where a horse's foot may become smaller at ground level than at the top of the foot?
+A:  Contracted heels
+
+4292	(hard)							HIH535-4
+Q:  What causes the hoof wall to flare?
+A:  Unequal weight distribution
+
+4293	(hard)							HIH530-2
+Q:  After a farrier's rasp has become too dull for rasping hooves, what can the farrier use it for?
+A:  As a clinching or finishing rasp
+
+4294	(hard)							HIH515-4
+Q:  What is a fullered shoe?
+A:  One with a crease all the way around the shoe
+
+4295	(hard)							HIH515-4
+Q:  What is the purpose of an eggbar shoe?
+A:  Supports rear portion of hoof (used for navicular, under-run heels, etc.)               (accept any of these)
+
+4296	(hard)							HIH515-4
+Q:  In order to alleviate tension of the flexor tendons and/or reduce the risk of forging, what horseshoe feature is frequently used in conjunction with an eggbar shoe for horses with navicular disease?
+A:  Rocker toe
+
+4297	(hard)							HIH540-2
+Q:  What type shoe can you use to protect the foot while a corn is healing?
+A:  Bar shoe
+
+4298	(hard)							TH721
+Q:  Correction of a foal's hooves must begin when the foal is a few days old & must be completed before what happens?
+A:  Before growth plates close
+
+4299	(hard)							TH227-29
+Q:  Which farrier tool is used to make a crease in hand-fullered shoes?
+A:  Fullering iron
+
+4300	(hard)							TH732-36
+Q:  What is the approximate weight of a #1 shoe?
+A:  8 - 12 ounces	 (accept any number within range)
+
+4301	(hard)							TH748
+Q:  What style of horseshoe can help correct the horse landing on either the outside or inside wall?
+A:   Square toe
+
+
+
+
+4302	(hard)							TH734
+Q:  How much does an aluminum racing plate weigh?
+A:  2 - 3 ounces 		(accept any number within this range)
+
+4303	(hard)							TH738
+Q:  A horseshoe nail has 2 sizes of head - regular & city head.  Which is smaller?
+A:  City head
+
+4304	(hard)							TH750-51
+Q:  Name a reason your horse might wear a bar shoe.  
+A:  Contracted heels, navicular disease, founder/laminitis, corn		(accept any)
+
+4305	(hard)							TH735
+Q:  In reference to horseshoes, explain the difference between a sticker & a block.
+A:  Both are heel caulks – block is set lengthwise on heel; sticker is set so it goes across the foot
+
+4306	(hard)							HIH530-1
+Q:  What are the 2 main parts of a clinch cutter?
+A:  Blade & point
+
+4307	(hard)							TH739,745
+Q:  What is the name for the part of the horseshoe nail that prevents the nail from pulling through the shoe?
+A:  Head or nail head
+
+4308	(hard)					DET53
+Q:  The Chadwick Spring provides constant outward pressure on the bars of the foot & would be used for what conformation defect of the hoof?
+A:  Contracted heels              
+
+4309	(hard)						HIH510-1
+Q:  What are the 2 types of balance to consider when trimming the hoof?
+A:  Heel to toe (front to back) & medial/lateral (side to side)           
+
+4310 (hard)					DET270
+Q:  A thin protrusion of metal on the ground surface of the toe of a racing plate is known as what shoe alteration?
+A:  Toe grab  (toe grip)          accept either
+
+4311	(hard)						HIH525-4
+Q:   Why would you choose to use a rocker-toe horse shoe for a healthy young horse?
+A:   A rocker-toe shoe eases the breakover of the hoof and to help prevent forging    	 (accept either)
+
+4312	(hard)							TH737
+Q:  Identify one advantage of the raised inside rim on polo shoes.
+A:  Increases traction, prevents sliding, enables foot to roll over faster, allows horse to pivot on shoe, allows horse to maintain a toe grip regardless of where foot breaks over
+
+
+
+
+BONUS
+
+4313	(bonus)								HIH515,540-2
+Q:  List 3 causes of a sand crack.
+A:  Uneven weight bearing, irregular hoof growth, wire cuts, excessive hoof length, dry conditions
+
+4314	(bonus)									HIH540a
+Q:  Name 3 steps in treating an abscessed foot.
+A:  Locate & drain abscess, remove dead tissue (but avoid excessive tissue removal), use poultice, soak foot in water & Epsom salts, protect hoof with shoe, pad, or bandages, tetanus booster
+
+4315	(bonus)						HIH455-3
+Q:  Name 3 shoeing practices that may contribute to the development of corns.
+A:  Shoe too small, leaving shoe on too long, trimming heel too low
+
+4316	(bonus)						HIH535
+Q:  Timeline…You are a farrier and are demonstrating how to remove a shoe & trim the hoof.  What is the correct order to use the following five farrier tools when accomplishing this task:  nippers, hoof knife, clinch cutter, rasp, pull offs
+A:  Clinch cutter…pull offs…hoof knife…nippers…rasp
+
+4317	(bonus)						INT206-2L
+Q:  Name 3 things that affect hoof growth
+A:  Warm temperature, improved nutrition, young age, stimulation or massage of the coronary band, irritation or injury to sensitive structures, exercise, heart rate  age, genetics, season/temperature, moisture, nutrition, individual differences/sensitivity
+
+4318	(bonus)							TH728
+Q:  2 part question:  What are the 2 basic types of hammers used by farriers & how are they used?
+A:  Rounding - used for making & shaping shoes
+A:  Driving - used for driving nails, finishing clinches  (claws also used for wringing off the old nails)
+
+4319	(bonus)							BEG104
+Q:  Give 3 characteristics of a healthy hoof.
+A:  Outer wall hard/slick, hoof wall shiny or slightly waxy appearance, free of growth or fever/founder rings, free from heat, coronet band has enough moisture to feel slightly resilient, frog firm/slightly pliable, no foul odor,  no discharge, sole firm/thick (doesn't "give" to thumb pressure), white line free of discoloration, white line uniform thickness, no bruising, no corns
+
+4320	(bonus)							TH167
+Q:  Give 3 causes of contracted heels.
+A:  Lack of frog pressure, lack of moisture in hoof, heredity, faulty conformation, improper trimming, improper shoeing, leaving shoes on too long, uneven weight distribution
+
+4321	 (bonus)								TH720HIH530-1/HH49
+Q:  Name 3 things you should look for when inspecting the horse's feet.
+A:  Rocks/other debris, bruises, loose shoes if shod, disease/thrush, loose or missing horseshoe nails, puncture wounds, abnormal growth, uneven wear, cracks, splitting, too dry, etc.
+
+
+4322	 (bonus)							HIH515
+Q:  2 part question:  Name 2 types of shoe used specifically for the front feet & their uses.
+A:  Half round - harness racing or reining; 	weighted - enhance action of gaited horses
+
+4323	(bonus)							HIH530
+Q:  2 part question:  Name 2 types of shoes used specifically for the hind feet & their purpose
+A:  Sliding plates - help horse slide stop;		 square toe - stabilizes breakover point
+
+4324	(bonus)							HIH515-1
+Q:  There are 10 things that distinguish an ideally fitted horseshoe.  Name 3.
+A:  Balanced under leg's center of gravity, stable on hoof,  retains most traction from frog/natural cupping shape of foot,  seated away from/protects sole, fit to compensate for low heels or heel movement,  beveled to prevent pulling or injury to another leg,  nail holes in front half of shoe & at proper pitch/angle, provide confidence for performance without slipping, minimum weight necessary
+
+4325	(bonus)						TH749
+Q:  Name 3 corrective or therapeutic horseshoes.
+A:  Bar, egg bar, half rim, half sole, heart bar, shoe w/heel caulks, rolled toe, slippered heels, square toe, trailer, bar across breakover point, caulk at first outside nail hole, Chadwick spring, lateral toe extension with trailer, rocker toe, wedge toe, Patten shoe
+
+4326	(bonus)							TH738 fig 19-42
+Q:  Name 3 parts of a horseshoe nail.
+A:  Head, neck, shank, bevel, point, inner face, outer face
+
+4327	(bonus)								TH38
+Q:  Name 3 types of horseshoe nails.
+A:  Regular, cityhead, frosthead
+
+4328	(bonus)								TH750
+Q:  Name 2 types of horseshoes that can be used to re-establish frog pressure.
+A:  Bar shoe, slippered/beveled heel, Chadwick spring
+
+4329	(bonus)							TH747-750
+Q:  Name 3 common faults corrected by trimming.
+A:  Splay foot/toe out, pigeon toe/toe in, quarter crack, cocked ankle, contracted heels
+
+4330	(bonus)							HIH535
+Q:  Name 4 steps in shoeing a horse.  
+A:  Observe horse , cut clinches, pull off old shoe, trim hoof wall, trim frog & sole, shape shoe, nail shoe on, clinch nails, rasp
+
+4331	(bonus)							HIH505-7
+Q:  What is the moisture content of the following parts of the hoof - wall, sole & frog?
+A:  Wall - 25%            Sole - 33%                   Frog - 50%
+
+
+
+
+
+4332	(bonus)									HIH510
+Q:  When the shod hoof grows out & the angle changes, name two things that can happen.
+A:  Puts strain on the ligaments & tendons, can affect the horse’s action, can cause lameness
+
+4333	(bonus)							HH48/HIH
+Q:  Name 3 important points in the care of a horse's foot.
+A:  Keep them clean to prevent thrush, remove rocks to prevent bruises, keep them trimmed properly, prevent the hoof full from drying out
+
+4334	(bonus)							HIH505-1
+Q:  Name 3 things a horse's foot was designed to do.
+A:  Support weight, resist wear, absorb shock, provide traction, conduct moisture, assist in pumping blood
+
+4335	(bonus)							HIH525
+Q:  Name 3 problems that can occur to the feet of horses that are stalled year round
+A:  Dry hooves, contracted heels, navicular disease
+
+4336	(bonus)							HIH515-1,535-5
+Q:  What are 3 reasons a horse may require horseshoes?
+A:  Protect hoof from excessive wear, when used on hard surfaces/roads, to correct stance or gait, traction, to correct faulty hoof structure or growth, to protect hoof from corn, contraction, cracks or other abnormal conditions, ease pain of injured hoof
+
+4337	(bonus)							HIH515-2
+Q:  Name 3 reasons for hot shoeing.
+A:  Shoes can be made specifically for foot, more secure nailing, less interference with natural hoof function
+
+4338	( bonus)							HIH530
+Q:  Name 3 basic tools used in trimming or shoeing horses.
+A:  Hoof pick, nippers, rasp, hoof knife, rounding hammer, driving hammer, clinch cutter, pull-offs
+
+4339	(bonus)							TH742
+Q:  Name 3 things that can happen if you leave a shoe on too long.
+A:  Shoes can become loose or fall off, shoes can become thin, foot can get bruised or punctured, tendons & ligaments can become strained, hooves can grow out of proportion
+
+4340		(bonus)							ADV334-2
+Q:  Name 3 different variations of a hoof crack.
+A:  Extends partway down from coronary band, extends partway up from ground level, extends full length of wall, horizontal crack
+
+4341	(bonus)							HIH505/BEG116/TH727-29
+Q:  Name 3 uses of a hoof knife.
+A:  Pare away dead sole, trim ragged frog, relieve pressure on corns or cracks, remove foreign bodies from hoof
+
+
+
+
+
+4342	(bonus)							HIH535-5/INT221
+Q:  Name 3 things that influence horseshoe style.
+A:  Type of work/activity horse does, type of terrain horse is worked on, integrity of hoof/how good hoof is, size of horse, weight of horse
+
+4343	(bonus)							HIH535-3/INT221
+Q:  Name 3 things - other than hoof size - that influence what size horseshoe to use.
+A:  Length of shoe heels, position of heel nail holes, web/width, weight of shoe, nail hole size
+
+4344	(bonus)                                 BEG116-2L
+Q:  Identify the 3 general types of clinchers or clinching tongs
+A:  Saddle horse, gooseneck & draft horse          
+
+
+

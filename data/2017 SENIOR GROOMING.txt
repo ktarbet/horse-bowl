@@ -1,0 +1,347 @@
+2017 SENIOR GROOMING
+
+EASY
+
+4746	(easy)								DET34/HH38
+Q:  What is the name for the soft brush with fine bristles that's used to give a finishing touch?
+A:  Body brush (soft brush)
+
+4747	(easy)								HH39
+Q:  How long an area is clipped for the bridle path?
+A:  1-1/2 to 8 inches depending on the breed & style of riding           (accept anything within range)
+
+4748	(easy)					 HH36
+Q:  Why should you follow the same procedure each time when cleaning your horse’s feet?
+A:  So the horse will know what to expect
+
+4749	(easy)						HIH1150-3
+Q:  When applying a wrap to a horse's tail, why is it important not to pull the wrap too tight?
+A:  You can cut off circulation to the tail
+
+4750	(easy)						HH39
+Q:  Give a reason why you would clip your horse’s legs a couple of weeks before a show.
+A:  To avoid clipper lines or contrasting colors  
+
+4751	 (easy)						DET34/HH38
+Q:  What does it mean to body clip a horse?
+A:  Clipping the horse's entire body
+
+4752	(easy)							HH28
+Q:  When picking out a hoof, what part of the hoof do you start on?	
+A:  Heel
+
+4753	(easy)							HH23
+Q:  Why is it a good practice to walk your horse for the last half mile on a ride?
+A:  To cool him out
+
+4754	(easy)							HH30
+Q:  To obtain a neat look, which way should you run clippers—against the hair or with the natural lay?
+A:  With the natural lay
+
+4755	(easy)							HH37
+Q:  What motion is most effective when currying?
+A:  Circular
+
+4756	(easy)							HH37
+Q:  What type strokes will remove the most dirt when using a stiff brush (dandy brush)?
+A:  Short/strong strokes with outward motion away from the body     (flicking outward)
+
+4757	(easy)							HH35
+Q:  What is the method by which you thin a tail?
+A:  Pulling
+
+
+4758	(easy)								DET77/HH37
+Q:  What grooming tool is a hard-bristled brush used to remove excess hair & loose dirt?
+A:  Dandy brush (stiff brush)
+
+4759	(easy)							HH40
+Q:  What is the term used when describing cutting the bones of the tail in order to shorten it?
+A:  Docked or docking
+
+4760	(easy)							DET235, 141
+Q:  Referring to grooming, what is roached?
+A:  When the mane is clipped close to the skin     (short cut mane – less than 3” long)
+
+4761	(easy)							HH35
+Q:  When should you groom a horse that's going to be exercised or worked?
+A:  Both before & after the workout
+
+4762	(easy)								DET39/HH39
+Q:  What is the name for the section of mane at the poll that's trimmed or clipped to allow space for a halter or bridle to rest?
+A:  Bridle path
+
+4763	(easy)							HH38	
+Q:  How can you avoid a dull, sunburned appearance of your horse's coat?
+A:  Put him in the stable during the sunniest part of the day OR turn him out to pasture only in the early morning & late evening		(accept either)
+
+4764	(easy)							HH8
+Q:  What is the term for rough, harsh appearance?
+A:  Coarse
+
+4765	(easy)							HIH535-2
+Q:  What is the name for the piece of equipment that's used to clean out a horse's foot?
+A:  Hoof pick		
+
+4766	(easy)							HH35/FCH180
+Q:  What practice most helps the appearance of the horse's coat?
+A:  Frequent, thorough grooming
+
+4767	(easy)							H5-11
+Q:  How can bathing your horse dull his coat?
+A:  Removes the skin's natural oils
+
+4768	(easy)							HH37/DET75
+Q:  What grooming tool is used in a circular motion to loosen hair & dirt?
+A:  Curry comb
+
+4769	(easy)							HH9
+A:  What is docking?
+A:  Cutting the bones of the tail to shorten it
+
+
+
+
+4770	(easy)							HH35
+Q:  What is a banged tail?
+A:  Hair cut straight off below the dock/bony part of the tail
+
+4771	(easy)							HH7/TH83
+Q:  What is a rat-tailed horse?
+A:  Horse having little hair in its tail
+
+4772	(easy)							HH35
+Q:  What is the only purpose for which you would use a metal currycomb?
+A:  To remove thick/dry mud or heavy/loose hair
+
+4773	(easy)							HIH710-7
+Q:  Besides walking, what can you do to help cool out a horse?
+A:  Give him a couple swallows of water every few minutes (also accept sponge him down or spray him with a hose)
+
+4774	(easy)							HIH420-3
+Q:  Why is it recommended to groom a horse thoroughly before saddling?
+A:  
+
+4775	(easy)							HH35
+Q:  What do you call a person who cleans & brushes horses?
+A:  Groom
+
+4776	(easy)							HH35/DET141,235
+Q:  What does hogged mean?
+A:  Short cut mane	 
+Addtl info --   Hogged mane is clipped to a length of no more than 3 inches;
+      Roached mane is clipped close to the skin 
+
+4777	(easy)							HIH710-7
+Q:  If you've ridden your horse hard, when should you let him have his fill of water?
+A:  After he's cooled out
+
+4778	(easy)							HH39
+Q:  Referring to grooming, what is a bridlepath?
+A:  Clipped area behind the ears where the crownpiece of the bridle goes
+
+4779	(easy)							HH35
+Q:  What function does the body brush (soft brush) serve?
+A:  Removes last particles of dust or adds oil to the coat  
+
+4780	(easy)							HH36
+Q:  What do you call a horse that's neither hot to the touch nor breathing hard after he's been exercised?
+A:  Cooled out
+
+4781	(easy)							HIH1100-12
+Q:  What type of brush is best for sensitive areas of the face & legs?
+A:  Soft
+
+
+
+
+4782	(easy)							HIH420-3
+Q:  Why should you brush the horse's belly in the area of the saddle cinch?
+A:  To remove dirt that might cause sores
+
+4783	(easy)							HH37
+Q:  In grooming a horse, in what direction should the hair be brushed?
+A:  In the direction of its natural lay	(in the direction it grows)
+
+4784	(easy)							H2-34/DET75
+Q:  Define the term "curry".
+A:  To rub down or clean the horse's coat (also a type of rubber or metal brush used to remove deep dirt & loose hair)		(Accept either)
+
+4785	(easy)							H4-26 picture
+Q:  When braiding a horse's mane & tail, how many sections should be worked with at one time?
+A:  Three
+
+4786	(easy)							H2-27/TH719
+Q:  What is the proper procedure for using a hoof pick?
+A:  Heel to toe
+
+4787	(easy)							HH37
+Q:  What is a rubber currycomb used for?
+A:  Remove deep dirt, loose hair, saddle marks, or mud
+
+4788	(easy)							HH38
+Q:  What grooming aid is used to remove excess water after washing your horse?
+A:  Sweat scraper
+
+4789	(easy)							HH38
+Q:  In grooming a horse, where is the currycomb NEVER used?
+A:  Over the bony areas (head, below knees or hocks/lower legs)          (accept either general or specific)
+
+4790	(easy)							HH35
+Q:  Which grooming tool roughs up the hair to remove the deep dirt?
+A:  Currycomb
+
+4791	(easy)							HH37
+Q:  How can you remove caked mud & manure from the hoof wall?
+A:  Wash with water & stiff brush OR use hoof brush
+
+4792	(easy)							HIH1100-13,14
+Q:  Name 3 grooming tools.
+A:  Hoof pick, mane & tail comb, sweat scraper, grooming cloth, currycomb, dandy brush/hard brush, 
+body brush/soft brush, clippers, etc.
+
+4793	(easy)							HH37
+Q:  How do you clean the currycomb when grooming?
+A:  Strike it on something hard        (back of brush, boot heel, or post)
+
+
+
+4794	(easy)							HH35
+Q:  Ideally, how often should horses be groomed?
+A:  Daily
+
+4795	(easy)							HH35
+Q:  What do you call a tail that's been shortened or thinned by pulling?
+A:  Pulled tail
+
+4796	(easy)								DET77/HH37
+Q:  2 part question:  What is a dandy brush & what is it used for?
+A:  Stiff brush used to remove loose hair & dirt
+
+4797	(easy)							HH38
+Q:  If you body-clip your horse, what should be done in cold weather?
+A:  Blanket horse or keep him in stable
+
+4798	(easy)							H2-27
+Q:  Why should you NOT use a currycomb on your horse's face or legs?
+A:  You might hurt him   (there's less muscle to protect horse from injury)   	(accept either)
+
+4799	(easy)							HH38
+Q:  What is meant by "picking out" a mane or tail?
+A:  Separating the hairs with your fingers to keep them from tangling
+
+4800	(easy)							HH39
+Q:  How far down the tail is a hunter's tail braided?
+A:  8 - 12 inches        (accept any number within this range)		
+
+4801	(easy)							HH36
+Q:  In what order should you clean your horse's feet?
+A:  Counter clockwise (near fore, near hind, off hind, off fore)
+ 
+4802	(easy)						TH675
+Q:  How do horses naturally groom themselves?
+A:  Mutual grooming OR rolling
+
+
+
+
+
+MEDIUM
+
+4803	(medium)						DET30
+Q:  When a horse has a blanket clip, which body parts are left unclipped?
+A:  Head, neck & legs       (just the blanket area is clipped)
+
+4804	(medium)						HH39
+Q:  Describe how to pluck or pull a mane.  
+A:  Begin on underside of mane with the longest hairs.  Grasp a few strands of hair close to the roots & jerk sharply removing hair & roots
+
+
+
+4805	(medium)						TH129/FCH382
+Q:  What is the term that refers to hair that's clean & glossy, denoting a healthy appearance?
+A:  Bloom
+
+4806	(medium)							HH39
+Q:  When clipping a horse during the winter, why is it advisable to leave an unclipped area for the saddle blanket?
+A:  Gives protection from abrasions / wearing the hair away on the back under the saddle     (accept either)
+
+4807	(medium)						HH39
+Q:  What determines the style of the mane & tail of a horse that's being exhibited?
+A:  Breed of horse and/or what type of classes it’s being shown in
+
+4808	(medium)					HH30
+Q:  Why is the hair clipped around the fetlock joints?
+A:  To give the legs a neater, cleaner appearance
+
+4809	(medium)						TH63-64, DET141,235
+Q:  About how long is a hogged mane?
+A:  Three inches or less        
+Addtl info --   roached mane is clipped close to the skin
+
+4810	(medium)						FCH382
+Q:  In reference to horses, what is meant by the term "bloom"?
+A:  Glossy, healthy looking hair coat OR luster/shine to coat
+
+4811	(medium)						HH29
+Q:  Name the final touch to the horse's appearance before entering the show ring.
+A:  Going over the coat with a grooming cloth
+
+4812	(medium)				DET950
+Q:  Clipping along the belly, under the neck & above the thigh is known as what type of body clip?
+A:  Trace clip                 
+
+
+HARD
+
+4813	(hard)							HH29
+Q:  How is the mane & tail of an Arabian prepared for a show?
+A:  Washed & left full
+
+4814	(hard)							HH30
+Q:  Why do some gaited saddle horses have their bridle paths trimmed down the neck 6-7 inches?
+A:  To make the horse's neck look longer & finer through the throatlatch
+
+4815	(hard)					TH63
+Q:  What is the difference in the traditional grooming presentation of a Hackney Pony shown in harness versus a Hackney class?
+A:  Ponies are shown with a cob-tail in Hackney class & a long tail in a harness class        
+
+
+
+
+BONUS
+
+4816	(bonus)							HH38
+Q:  What are 3 effects of hand rubbing your horse?
+A:  Brings out the bloom/shine, stimulates circulation, massages tired muscles, feels good to the horse, helps you bond with your horse
+
+4817	(bonus)							DETvarious
+Q:  Name 3 types of clips used in grooming horses.
+A:  Blanket clip, trace clip, body clip, hunter clip
+
+4818	(bonus)							HH36-38
+Q:  Name 5 important steps in grooming a horse.
+A:  Use curry comb on non-bony parts of body, use stiff brush, use body brush, use grooming cloth, groom horse’s body before riding, clean feet, comb mane & tail, cool horse out after exercise, groom, sponge or hose horse after exercise
+
+4819	(bonus)							HH39
+Q:  What are 3 areas of the Western stock horse that are usually clipped for a show?
+A:  Muzzle, under chin, under jaw, bridle path, ears, long hairs around eyes, below knees & hocks
+
+4820	(bonus)							HH36
+Q:  Name 3 uses of a grooming cloth.
+A:  Polish coat, dry off wet horse, & wipe around eyes, nostrils, lips, dock, sheath
+
+4821	(bonus)							HH35-56/HIH1100-13,14
+Q: Name 3 grooming tools & their purpose.
+A:  Curry comb roughs up hair to remove deep dirt; dandy or stiff brush removes dirt; body or finishing brush removes last particles of dust & brings out natural oils; soft or face brush brushes face; mane & tail comb combs mane & tail; hoof pick cleans hooves; sweat scraper removes extra water; clippers trim hair (accept any reasonable answers)
+
+4822	(bonus)							HH35
+Q:  Name 3 benefits of grooming your horse.
+A:  Improves appearance, cleans hair & skin, brings out natural oils in skin, prevents skin problems, looks for skin problems, massages muscles, increases circulation, removes dirt & external parasites, improves muscle condition
+
+4823	(bonus)							HH35
+Q:  When brushing a horse, what are the last 3 parts to be brushed?
+A:  Head, mane & tail
+
+
+

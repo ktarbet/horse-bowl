@@ -1,0 +1,2253 @@
+2017 SENIOR ANATOMY
+EASY  
+506	 (easy)       	CAHA8/HIH230-2 
+Q:  How many ribs does a Percheron have? 
+A:  36 or 18 pairs 	(accept either)
+  
+508 	(easy)      	HIH505-1/DET293
+Q:  What part of the foot is between the wall and the frog? 
+A:  Sole	 (also accept white line, bars, and commissures, sulci, or collateral grooves)
+(Addtl info - White line is junction of the sole & wall – where the sensitive & insensitive laminae meet)
+
+509	 (easy)      	HIH525-1 
+Q:  What is the name for the soft, spongy part of the horse's foot? 
+A:  Frog  
+
+510	 (easy)      	HIH505-1 
+Q:  What is the term for the outside part of the hoof? 
+A:  Wall  
+
+511	 (easy)      	HIH220-3 
+Q:  The elbow, knee, and fetlock are all joints on which leg? 
+A:  Front  
+
+512	 (easy)      	HIH202-3 
+Q:  The stifle, hock, and fetlock are all joints on which leg? 
+A:  Rear  
+
+513 	(easy)      	TH693/HIH505-1 
+Q:  What part of the foot separates the wall and the sole? 
+A:  White line    
+
+514 	(easy)      	HIH220-6 
+Q:  What joint is located between the fetlock and the stifle? 
+A:  Hock 	(tarsus)  
+
+515 	(easy)      	CAHA24/HIH505-1 
+Q:  Where is the white line located? 
+A:  Between the wall and the sole  
+
+516	 (easy)      	CAHA4/HH39 
+Q:  What is the proper name for the lock of hair falling forward over the horse's face? 
+A:  Forelock  
+
+517	 (easy)      	TH81/HH7/HIH465-1 
+Q:  What is the usual color of the horse's eye? 
+A:  Brown  
+
+518	 (easy)      	CAHA1/HIH220-3 
+Q:  What part of the horse lies between the knee and the fetlock? 
+A:  Cannon  
+
+
+
+
+519 	(easy)      	CAHA1/H2-35/DET262 
+Q:  What is the term for the base of a horse's tail? 
+A:  Dock or tail head      (accept either) 
+
+520 	(easy)      	CAHA4/HH9 
+Q:  What is the term for the horny growth found at the back of the fetlock? 
+A:  Ergot  
+
+521 	(easy)      	TH12/BEG119-1L 
+Q:  Which structures carry blood away from the heart? 
+A:  Arteries  
+
+522 	(easy)      	CAHA1/HH8 
+Q:  What part of the horse is located directly above the stifle? 
+A:  Thigh  
+
+523 	(easy)      	TH142/HH8 
+Q:  What is the part of the horse located between the rump and the quarter? 
+A:  Buttocks  
+
+524 	(easy)      	HIH230-6 
+Q:  2 part question:  How many pasterns does a horse have and what is the best angle? 
+A:  4 pasterns; 45 - 50 degrees 
+ 
+525 	(easy)      	HH37 
+Q:  What part of the horse is located between the coronet and the ground?  
+A:  The hoof   
+
+526	 (easy)      	TH98/HS9 
+Q:  The muscles that control leg movement end where? 
+A:  At the knees and hocks
+  
+527 	(easy)      	HIH220-3 
+Q:  What is located between the elbow and the knee? 
+A:  The forearm  
+
+528 	(easy)      	HIH220-6 
+Q:  What is the term for the area between the last rib and the croup? 
+A:  Loin or coupling (accept either)
+  
+529 	(easy)      	HIH220-3 
+Q:  What is another name for the fetlock joint? 
+A:  Ankle  
+
+530 	(easy)      	HIH220-3 
+Q:  On the front leg of a horse, which should be longer - the forearm or the cannon? 
+A:  The forearm  
+
+531 	(easy)      	TH154/HH8 
+Q:  Give 2 names for the area of the horse between the loin and the buttock 
+A:  Croup and rump
+  
+
+532 	(easy)      	TH49/HH49 
+Q:  What part of the foot is located between the plantar cushion and the insensitive frog? 
+A:  Sensitive frog  
+
+533 	(easy)      	TH98/HS9, H2-27 
+Q:  Why is it difficult for cuts and bruises to heal below the knees or hocks? 
+A:  There are no muscles below the knees and hocks; therefore the blood supply is limited
+  
+534	 (easy)      	HIH830-1 
+Q:  What is the main purpose of the red blood cells? 
+A:  To transport oxygen to the tissues and organs
+  
+535 	(easy)      	HIH830-1 
+Q:  What is the easiest way to determine if the cardiovascular system is working? 
+A:  Heart rate or pulse  
+
+536 	(easy)      	HIH840-1 
+Q:  When a horse's muscle shortens, is the muscle contracting or relaxing? 
+A:  Contracting  
+
+537 	(easy)      	HIH840-1 
+Q:  When a horse's muscle lengthens, is the muscle contracting or relaxing? 
+A:  Relaxing   
+
+538	 (easy)      	HIH220-3 
+Q:  The gaskin is located between which 2 joints of the horse's hind leg? 
+A:  Stifle and hock  
+
+539 	(easy)      	HIH220-3 
+Q:  What is the name of the muscular part of the hind leg above the hock? 
+A:  Gaskin  
+
+540 	(easy)      	HIH1100-8/HH12/TH150,179 
+Q:  The set of the feet and legs affects what? 
+A:  The action       (how the horse moves) 
+
+541 	(easy)      	TH150,179/HIH220-3 
+Q:  What do you call the curved covering of horn over the foot? 
+A:  Hoof  
+
+542	 (easy)      	HIH220-3/TH696 
+Q:  What is the purpose of the deep flexor tendon? 
+A:  Flexes (or bends) the hoof and leg
+  
+543 	(easy)      	TH696/HIH220-3 
+Q:  What is the purpose of the extensor tendon? 
+A:  Extends (or straightens) the hoof and leg  
+
+544 	(easy)      	HIH220-6 
+Q:  What is the ideal slope of the shoulder? 
+A:  45 - 50 degrees 	(accept any number within this range)
+  
+
+545 	(easy)      	HIH220-6 
+Q:  What is another name for the loin? 
+A:  Coupling  
+
+546 	(easy)      	TH80/HH8 
+Q:  What is another name for the chestnuts on a horse's leg? 
+A:  Night eyes  
+
+547 	(easy)      	TH151/HIH220-3 
+Q:  What is the name for the part of the horse located at the junction of the neck and the back? 
+A:  Withers                                                                                                                                                                                                                                                                                                                                     
+
+548	 (easy)      	HIH220-3 
+Q:  What do you call the measurement around the horse's body just back of the withers? 
+A:  Girth or heart girth 	(accept either)
+  
+549 	(easy)      	FCH120/HIH230-2/HH8/CAHA1 
+Q:  What part of the horse lies between the withers and the point of the shoulder? 
+A:  Shoulder 	(also accept thorax or scapula)   
+
+550	 (easy)      	HIH220-3 
+Q:  Where is the gaskin located? 
+A:  Below the stifle OR above the hock OR between the hock and the stifle
+  
+551 	(easy)      	HIH220-3 
+Q:  On a horse, what do you call the distinct space between the jawbone and the neck?                                                                                   A:  Throatlatch  
+
+552 	(easy)      	CAHA68/H3-6 
+Q:  Where is urine stored in the horse? 
+A:  Bladder  
+
+553 	(easy)      	HIH505-5 
+Q:  What bone is located between the cannon bone and the short pastern? 
+A:  Long pastern    	(also accept 1st or proximal phalanx) 
+     
+554 	(easy)      	TH126/HS4 
+Q:  What is the purpose of the 3rd eyelid? 
+A:  Prevents foreign bodies from getting into the eye OR cleans or removes foreign bodies from eye
+ (accept either)
+
+555 	(easy)      	TH121/HIH1220-2 
+Q:  Who has better hearing, you or your horse? 
+A:  Your horse  
+
+556 	(easy)      	HIH505-5 
+Q:  What bone is located at the lowest point in the hoof? 
+A:  Coffin bone 		(also accept pedal bone, distal phalanx, or 3rd phalanx)
+
+557 	(easy)      	CAHA1/HH8 
+Q:  The forearm of the horse lies between what 2 parts? 
+A:  Arm and knee OR elbow and knee
+  
+558	 (easy)      	CAHA58/HIH830-1 
+Q:  How many chambers are in a horse's heart? 
+A:  4 (four)  
+
+559 	(easy)      	HIH220-3 
+Q:  What is the name of the joint above the pastern? 
+A:  Fetlock or ankle 	(accept either)
+     
+560	 (easy)      	CAHA6/H2-7 
+Q:  What is the name of the structure that protects the vital organs? 
+A:  Skeleton  
+
+561 	(easy)      	HIH220-3 
+Q:  What is the cannon? 
+A:  Lower leg (bone) between the knee or hock and the fetlock or ankle
+
+562 	(easy)      	HIH220-6 
+Q:  Sharp, prominent, and well defined describes what part of the horse? 
+A:  Withers  
+
+563 	(easy)      	HIH505-5 
+Q:  Name 2 of the bones in the fetlock joint.
+A:  Cannon, long pastern, proximal sesamoids
+  
+564 	(easy)      	HH9/TH142/CAHA1 
+Q:  What do you call the upper curved part of the neck? 
+A:  Crest  
+
+565	 (easy)      	HIH220-3 
+Q:  Where is the croup? 
+A:  Just in front of the tail OR between the loin and the tail or dock 
+
+566 	(easy)      	HIH220-3 
+Q:  The top of a horse's head just back of the ears is called what? 
+A:  Poll  
+
+567 	(easy)      	HS4/TH126/HIH465-1 
+Q:  A third eyelid or membrane in front of the eye which removes foreign bodies from the eye is called what? 
+A:  Haw or nictitating membrane	 (accept either)  
+
+568 	(easy)      	HH9 
+Q:  What is an ergot? 
+A:  A horny growth behind the fetlock joint  
+
+569 	(easy)      	HH8/CAHA4/TH128 
+Q:  The horny growths on the insides of a horse’s legs are called what? 
+A:  Chestnuts or night eyes 	(accept either)
+  
+570 	(easy)      	HIH505-6/CAHA24 
+Q:  What is the varnish-like layer of the hoof called? 
+A:  Periople  
+
+
+571 	(easy)      	HIH220-3   DET205
+Q:  Where is the pastern found? 
+A:  Between the coronet band and the fetlock 
+ 
+572 	(easy)      	HIH220-3/DET69 
+Q:  Where is the coronet band located? 
+A:  Hairline above the hoof OR a band around the top of the hoof from which the hoof wall grows
+  
+573 	(easy)      	HIH220-3 
+Q:  What is the band directly above the hoof called? 
+A:  Coronet, coronet band, or coronary band 	(accept any)
+   
+574 	(easy)      	HH9/TH142/CAHA1 
+Q:  Where is the crest? 
+A:  Part of the neck under the mane OR the top line of the neck OR the curved upper part of the neck 
+(accept any reasonable wording)
+
+575 	(easy)      	HS4/TH126 
+Q:  In connection with the eye, what does the term "haw" mean? 
+A:  Third eyelid or nictitating membrane 	(accept either)
+  
+576 	(easy)      	HIH220-6    
+Q:  What part of the top line has no bone structure for support other than the lumbar vertebrae? 
+A:  Loin or coupling 	(accept either)    
+
+577 	(easy)      	HIH220-3 
+Q:  What is another term for the trunk area of the horse? 
+A:  Barrel  
+
+578 	(easy)      	HIH220-3 
+Q:  What do you call the area at the end of the head, which includes the lips and the nostrils? 
+A:  Muzzle  
+
+579	 (easy)      	HIH830-1 
+Q:  What is the largest muscular organ of the cardiovascular system? 
+A:  Heart  
+
+580 	(easy)      	HIH830-2 
+Q:  What could cause the heart rate to increase? 
+A:  Increased activity/exercise, anxiety/stress, illness, fever 	(accept any)
+
+581 	(easy)      	HIH840-1 
+Q:  What is the largest tissue mass in a horse's body? 
+A:  Muscles  
+
+582	 (easy)      	HIH100-3 
+Q:  Define the exact area of your horse's heart girth. 
+A:  Belly area directly behind the front legs OR measurement around the body just back of the withers 
+ 
+583 	(easy)      	HH8 
+Q:  Where is the horse known for being ticklish? 
+A:  Flank  
+
+584	 (easy)      	HIH220-3 
+Q:  Where is the throatlatch on a horse located? 
+A:  Where the jawbone and neck connect OR space between the jawbone and neck
+
+585 	(easy)      	HIH220-3,6 
+Q:  What is located between the back and the croup? 
+A:  Loin or coupling	 (accept either)
+   
+586 	(easy)      	HIH220-3 
+Q:  What joint is located between the hock and the hip? 
+A:  Stifle  
+
+587 	(easy)      	HIH220-3/HH8 
+Q:  Name the part of the horse's topline just in front of the tail. 
+A:  Croup or rump 	(accept either)  
+
+588	 (easy)      	HIH505-5 
+Q:  Where is the coffin bone? 
+A:  In the foot OR lowest bone in the foot 
+
+589	 (easy)      	HH8/CAHA4/TH128 
+Q:  What are chestnuts? 
+A:  Horny growths on the inside of a horse's legs
+ (additional info - above the knees and at the lower part of the hocks)
+  
+590 	(easy)      	HIH220-3 
+Q:  What is located between the forehead and the muzzle? 
+A:  Face  
+
+591 	(easy)      	HIH220-3 
+Q:  What joint is located between the shoulder and the knee? 
+A:  Elbow  
+
+592	 (easy)      	HIH220-3 
+Q:  What joint is located between the elbow and the fetlock? 
+A:  Knee  
+
+593	 (easy)      	HIH220-3 
+Q:  The part of the horse between the withers and the loin is called what? 
+A:  Back  
+
+594	 (easy)      	HIH220-6/TH152  
+Q:  What is the main role of the hindquarters? 
+A:  Propulsion  
+
+595 	(easy)      	HH39/TH129 
+Q:  What is the purpose of the long “feeler” hairs around the muzzle? 
+A:  Help the horse make contact with its surroundings especially in the dark
+  
+
+
+
+
+596 	(easy)      	HH4,8/TH80 
+Q:  What is a common name for a horny growth on the inside of the legs sometimes referred to as night eyes?  It's also a term used to describe a coat color 
+A:  Chestnut  
+
+597 	(easy)      	HIH220-6 
+Q:  What part of the horse is important in keeping the saddle in place? 
+A:  Withers  
+
+598	 (easy)        	HIH465-1 
+Q:  The cornea, sclera, choroid, iris, and retina are all parts of what? 
+A:  The eye  
+
+599 	(easy)      	BEG119 
+Q:  To which side of the heart does blood return from the body? 
+A:  Right  
+
+600	 (easy)      	H1-34 
+Q:  Cowlicks commonly occur on what part of the horse? 
+A:  Head, neck, throatlatch, or flank 	(accept any)
+
+601 	(easy)      	ADV321-2 
+Q:  The sole of the hoof is flatter on which pair of feet, the front or the rear? 
+A:  Front  
+
+602 	(easy)      	ADV325-2 
+Q:  Which system in the horse consists of the blood, blood vessels, and heart? 
+A:  Cardiovascular or circulatory  
+
+603	 (easy)      	HIH810 
+Q:  The term "respiration rate" refers to what? 
+A:  Number of breaths taken per minute  
+
+604	 (easy)       	HH48 picture/TH695 
+Q:  The wall of a horse's hoof will be thickest in which area? 
+A:  Toe  
+
+605 	(easy)      	HIH505-7 
+Q:  What part of the horse's foot contains the greatest amount of moisture? 
+A:  Frog  
+
+606 	(easy)      	HH8 
+Q:  Night eyes are another name for what structures on the horse?   
+A:  Chestnuts  
+
+607 	(easy)      	HIH465-1 
+Q:  What is the term for the opening in the iris of a horse's eye? 
+A:  Pupil  
+
+608 	(easy)      	HIH230-2 
+Q:  Where are the cervical vertebrae located? 
+A:  Neck  
+
+609 	(easy)      	HIH230-2/TH96 
+Q:  How many cervical vertebrae does a horse have? 
+A:  7   
+
+610 	(easy)      	HIH465-2/CAHA4-5 
+Q:  The horse's eye is lubricated by what fluid? 
+A:  Tears or lacrimal fluid  
+
+611 	(easy)      	HIH465-1 
+Q:  What structure is the first protection for the horse's eye? 
+A:  Eyelid  
+
+612	 (easy)      	HIH505-7 
+Q:  What part of the horse's foot contains the least amount of moisture? 
+A:  The wall  
+
+613	 (easy)      	HIH810-1 
+Q:  When breathing, what is the main gas that's exhaled? 
+A:  Carbon dioxide  
+
+614 	(easy)      		HIH230-2 H2-35 
+Q:  What is another name for the horse's shoulder blade? 
+A:  Scapula  
+
+615 	(easy)      		HIH230-2/H2-35 
+Q:  What is another name for the scapula? 
+A:  Shoulder blade    
+
+616	 (easy)      		CAHA41/H2-6 
+Q:  What is the correct term for the lower jawbone? 
+A:  Mandible  
+
+617	 (easy)      		CAHA41/H2-6 
+Q:  What is the mandible? 
+A:  Lower jawbone  
+
+618 	(easy)      		HIH230-1 
+Q:  The durability of a horse to do work depends on what? 
+A:  On his action or his feet and legs	 (accept either)
+
+619	 (easy) 		CAHA4 
+Q:  What are tactile hairs? 
+A:  The coarse, “feeler” hairs around the muzzle and eyes 	(also accept whiskers)  
+    
+620	 (easy)  		TH98 
+Q:  Do the front legs or hind legs have the most joints? 
+A:  Hind		 (additional info:  hind legs have 7 joints and front legs have 6 joints)  
+
+621	(easy) 		CAHA8 
+Q:  How many bones are in the sternum? 
+A:  1 (one) 	(additional info:  manubrium and xyphoid are cartilaginous attachments)  
+
+
+622	 (easy)		TH145 
+Q:  The spring-like action which absorbs concussion during movement is called what? 
+A:  Shock absorption  
+
+623 	(easy)   		TH104 
+Q:  Why is it important for a horse to have large nostrils? 
+A:  To allow for maximum air intake 	(also accept:  so it can breathe better))
+  
+624 	(easy)		TH129 
+Q:  Name 2 areas of hair on the horse that do not shed. 
+A:  Mane, tail, eyelashes, tactile hairs  
+
+625	(easy)   		TH90/CAHA8 
+Q:  How many bones are in the horse's body? 
+A:  205                                
+
+626 	(easy)  		TH82 
+Q:  What color are a horse's hooves at birth? 
+A:  Usually white  
+
+627 	(easy)  		TH96/HS8 
+Q:  What is the most flexible portion of the spine? 
+A:  Cervical 	(neck area) 
+ 
+628 	(easy)  		TH99 
+Q:  Are skeletal muscles voluntary or involuntary? 
+A:  Voluntary  
+
+629 	(easy)   		TH129 
+Q:  Where on the horse are there no sweat glands? 
+A:  Legs  
+
+630 	 (easy)		 HIH655
+Q:  Together the withers, back, loin & croup create what?
+A:  Topline               
+
+631  	(easy)      	TH91/HIH230-2 
+Q:  What is the largest bone in the horse's head? 
+A:  Mandible	 (lower jaw)  
+
+632  	 (easy)      	HIH525-1 
+Q:  What part of a horse's foot provides traction and absorbs shock? 
+A:  Frog    
+
+633  	(easy)      	TH683/HS6 
+Q:  How are the front legs attached to the main skeleton? 
+A:  By muscles	 (also accept by tendons and ligaments)
+
+634	 (easy)      	CAHA8/HIH230-2 
+Q:  How many PAIRS of ribs does a horse have? 
+A:  18  
+
+
+MEDIUM   
+635 	(medium)   	CAHA6,1 
+Q:  What is the main bone between the stifle and the hock? 
+A:  Tibia  
+
+636 	(medium)   	TH90 
+Q:  In the skull, what is protected by the orbital cavity? 
+A:  Eyes  
+
+637 	(medium)  	CAHA57 
+Q:  What is the name of the primary vessel that carries blood from the heart to the rest of the body? 
+A:  Aorta  
+
+638 	(medium) 	TH126 
+Q:  How does a hormone get to a distant part of the body? 
+A:  Through the bloodstream 	(circulatory system) 
+ 
+639 	(medium)  	BEG106-3 
+Q:  What is the name of the bone that's shaped like a miniature hood? 
+A:  Coffin bone 		(also accept pedal bone, 3rd phalanx, or distal phalanx) 
+
+640 	(medium) 	CAHA58 
+Q:  Name one of the functions of the heart that make the sounds you can hear with a stethoscope?  
+A:  Rush of blood; closing of heart valves	 (accept either)
+   
+641 	(medium)  	HIH810-1 
+Q:  In what units is respiration measured? 
+A:  Breaths per minute (BPM)  
+
+642 	(medium)  	TH141 
+Q:  A horse uses what 2 parts of its body to aid in stability and balance? 
+A:  Head and neck
+  
+643 	(medium) 	CAHA10 
+Q:  The radius and ulna comprise what structure of the horse? 
+A:  Forearm  
+
+644 	(medium)  	ADV323 
+Q:  What is measured from the chest floor to the top of the withers? 
+A:  Depth of heart    
+
+645	 (medium)  	CAHA41 
+Q:  What is the orbital cavity? 
+A:  Bony socket that surrounds and protects the eye
+  
+646	 (medium) 	TH117 
+Q:  Where is a large supply of the horse's red blood cells stored? 
+A:  Spleen  
+
+
+
+
+
+647 	 (medium)	FCH188 
+Q:  2 part question:  For a horse, what is the first line of defense against the cold and what is the second line of defense? 
+A:  First—hair coat; second—fat      (provides insulation)  
+
+648	 (medium)  	CAHA63 
+Q:  Where does formation of red blood cells occur? 
+A:  Bone marrow  
+
+649	 (medium) 	CAHA45 
+Q:  What part of the eyeball allows light to pass through to the lens? 
+A:  Cornea      (also accept pupil)  
+
+650	 (medium)   	TH98 
+Q:  What controls cannon, pastern, and foot actions? 
+A:  Ligaments and tendons  
+
+651 	(medium) 	TH322 
+Q:  In reference to a mare’s udder, how many teats does a mare have? 
+A:  2 (two)
+  
+652 	(medium)  	ES160 
+Q:   In regards to anatomy, why is it best to listen to the heartbeat from the left side of the horse's body? 
+A:   Heart is closer to left side
+  
+653 	(medium)  	HIH810-1 
+Q:  Why can't a horse breathe through its mouth? 
+A:  Blocking action of the soft palate  
+
+654  	 (medium)	ES60 
+Q:  Research indicates that horses do see in color.  However, they may have more difficulty seeing which color? 
+A:  Red  
+
+655 	(medium)  	TH90 
+Q:  Muscles are attached to bones by what? 
+A:  Tendons  
+
+656 	(medium) 	HIH1100-8 
+Q:  What is another name given to the chin area of your horse? 
+A:  Curb groove or chin groove 		(accept either)
+   
+657 	(medium)  	CAHA77/HIH910-5 
+Q:  Where is the hypothalamus located? 
+A:  Base of the brain  
+
+658 	(medium)  	HIH220-6 
+Q:  Name the 4 parts of the topline. 
+A:  Withers, back, loin or coupling, croup or rump  
+
+659 	(medium) 	TH89 
+Q:  What is the name of the science that studies the structure of the animal and the relationship of its parts? 
+A:  Anatomy  
+
+660 	(medium)  	DET67/TH126 
+Q:  What is the common name for the membrane of the eye that helps remove foreign materials from the eye?  It's also called the third eyelid or nictitating membrane? 
+A:  Haw   
+
+661	(medium)  	HIH425-1,535-2 
+Q:  Two grooves separate the sole from the frog.  These are called what? 
+A:  Collateral grooves, commissures, or sulci	 (accept any)
+  
+662 	 (medium) 	CAHA23 
+Q:  The blood supply to the foot is furnished by what 2 digital arteries? 
+A:  Medial and lateral
+  
+663 	 (medium)  	CAHA4 
+Q:  Being specific, where are chestnuts located on a horse? 
+A:  Front legs - inside surface above the knees;
+     hind legs - inside surface at the bottom of the hocks  
+
+664 	(medium)  	TH691 
+Q:  What is the largest joint in the horse? 
+A:  Stifle  
+
+665	 (medium)  	HIH810-1 
+Q:  What is another name for the trachea?   
+A:  Windpipe  
+
+666	 (medium)  	TH117    
+Q:   Name the 2 major components of blood. 
+A:   Plasma and cells  
+
+667	 (medium)  	HIH810-1 
+Q:  What is the medical name for the windpipe? 
+A:  Trachea  
+
+668 	(medium) 	CAHA77 
+Q:  Where is the pituitary gland located? 
+A:  Base of the brain  
+
+669	 (medium)   	DET55 
+Q:  What is the chin groove? 
+A:  Small indentation between the chin and the jaw
+  
+670	  (medium)  	CAHA4 
+Q:  Name 2 locations on the horse where you would find tactile hairs. 
+A:  Around the eyes, nostrils, lips, muzzle  
+
+671 	(medium)   	DET72 
+Q:  What part of the horse’s body does the term “cranial” refer to?  
+A:  The skull or head OR the end of the body towards the head   
+
+
+
+
+672	 (medium)  	HIH810-1 
+Q:  If the horse increases its movement, does the minute volume go up or down? 
+A:  Up (additional info:  minute volume is the tidal volume times the respiratory rate)
+
+673 	(medium)   	HIH810-1 
+Q:  What is another name for the respiration rate? 
+A:  Respiratory frequency  
+
+674	 (medium)   	HIH505-5 
+Q:  What arteries provide blood to the sensitive structures of the foot? 
+A:  Digital arteries       (medial and lateral digital arteries)  
+
+675 	(medium)   	HIH810-1 
+Q:  What is the term for the amount of air inspired in one minute? 
+A:  Minute volume  
+
+676	 (medium)   	TH688 
+Q:  What part of the horse has a distinctive pattern that can be used to positively identify a particular horse? 
+A:  Chestnuts  
+
+677 	(medium)  	TH89 
+Q:  The sciences that study the relationship of form to function are called what? 
+A:  Anatomy and physiology
+  
+678 	(medium)   	TH90 
+Q:  What is the difference between ligaments and tendons? 
+A:  Ligaments attach bones to bones; tendons attach muscle to bone  
+
+679 	 (medium)   	CAHA12/DET188 
+Q:  What is another name for the distal sesamoid bone? 
+A:  Navicular bone   (also accept shuttle bone)
+  
+680 	(medium)   	TH96 
+Q:  What term refers to the upper surface of the vertebrae? 
+A:  Spinous process   
+
+681 	(medium)   	HIH505-4 
+Q:  What is the PRIMARY purpose of the digital cushion? 
+A:  Shock absorption	 (additional info:  also assists in blood circulation)  
+
+682 	(medium)  	HIH505-4 
+Q:  What is the shape of the digital cushion? 
+A:  Wedge shaped  
+
+683 	(medium)  	TH154 
+Q:  What is the hardest working joint in the horse's legs? 
+A:  Hock  
+
+684 	(medium)   	HIH505-5 
+Q:  Where are the lateral cartilages located? 
+A:  On the sides or wings of the coffin bone  
+
+
+685 	(medium)   	TH98 
+Q:  Which bone in the horse is similar to the human kneecap? 
+A:  Patella of the stifle joint
+  
+686	 (medium)   	ADV323 
+Q:  What is depth of heart? 
+A:  Measurement from the top of the withers to the chest floor
+  
+687 (	medium)   	TH98 
+Q:  Which joint of the horse is similar to the human heel? 
+A:  Hock or tarsus 	(accept either)
+  
+688 	(medium)  	TH97 
+Q:  What is the main bone of the forearm called? 
+A:  Radius  
+
+689	 (medium)   	TH97 
+Q:  What is the heaviest and strongest bone in the horse's body? 
+A:  Femur  
+
+690	 (medium)  	TH98 
+Q:  Why do injuries to ligaments heal slowly? 
+A:  They have a limited blood supply  
+
+691	  (medium)  	CAHA7 
+Q:  What is the name of the first cervical vertebrae? 
+A:  Atlas  
+
+692	 (medium)   	TH104 
+Q:  What is the primary purpose of the respiratory system? 
+A:  Oxygenate blood   
+
+693	 (medium)   	TH708 
+Q:  Why can a horse rest standing up? 
+A:  Legs have a locking mechanism 	(stay apparatus)  
+
+694 	(medium)   	CAHA27 
+Q:  The digital cushion fills the area between the frog and what tendon? 
+A:  Deep digital flexor tendon	 (also accept deep flexor tendon)
+  
+695	 (medium)   	CAHA61 
+Q:  What artery is the main blood supply to the head? 
+A:  Carotid  
+
+696  	 (medium) 	TH322 
+Q:  What is another name for the mare's mammary gland? 
+A:  Udder  
+
+697 	(medium)   	CAHA8 
+Q:  Where on the horse would you find the sternum? 
+A:  Chest	 (front part of the chest attached to the ribs)  
+
+
+
+698	 (medium)   	CAHA2 
+Q:   2 part question:  What directional term refers to a structure that’s located closer to the head and what term refers to a structure that’s closer to the tail? 
+A:  Cranial is closer to the head; caudal is closer to the tail 
+ 
+699 	(medium)   	CAHA4/TH126 
+Q: What system produces chemical substances called hormones? 
+A:  Endocrine system  
+
+700	 (medium)   	DET211 
+Q:  What is physiology? 
+A:  Study of the function of the body systems
+  
+701	 (medium)   	CAHA5 
+Q:  What type of nerve brings sensations of pressure, pain, heat, and cold from the nerve endings? 
+A:  Sensory  
+
+702 	(medium)   	INT229-1-3 
+Q:  Where is the horse's counterpart to the human knee?   
+A:  Stifle  
+
+703 	(medium)   	CAHA21 
+Q:  The stay apparatus is a mechanism that enables the horse to do what? 
+A:  Sleep standing up	 (addtl info:  it locks the legs, prevents overextension, and reduces concussion)  
+
+704 	(medium)   	CAHA6 
+Q:  What 2 areas of the horse each contain 40 bones? 
+A:  Front and hind legs
+  
+705	 (medium)   	CAHA7 
+Q:  Where in the spinal column would one find the coccygeal vertebrae?
+A:  Tail  
+
+706 	(medium)   	TH90 
+Q:  What is the proper name for the bony socket that surrounds and protects the eye? 
+A:  Orbital cavity  
+
+707  	 (medium)                      HIH320-4
+Q:  What is the diameter of an average adult light horse’s foot?				
+A:  4-6”     (accept any answer in range)
+
+708 	(medium)   	CAHA57 
+Q:  Which artery carries oxygen poor blood from the heart to the lungs? 
+A:  Pulmonary artery
+  
+709 	(medium)  	CAHA23 
+Q:  The medial and lateral digital arteries furnish blood to what part of the horse? 
+A:  Foot  
+
+
+
+
+710 	(medium)  	CAHA4 
+Q:  The coarse “feeler” hairs that protrude from around the nostrils, lips, and eyelids are called what? 
+A:  Tactile hairs    
+
+711	 (medium)   	TH111 
+Q:  You do the math… Your horse’s resting heart rate is 32 beats per minute.  The stroke volume or amount of blood pumped during each heart contraction is approximately 1 liter.   What is the cardiac output for this horse? 
+A:  32 liters per minute 
+(additional info:  cardiac output equals stroke volume times heart rate)
+  
+712 	(medium)   	ADV325-2 
+Q:  What is cardiac output? 
+A:  How much blood the heart can pump in one minute 
+(additional info:  cardiac output equals stroke volume times heart rate) 
+ 
+713 	(medium)  	TH594 
+Q:  What artery is located under the jaw bone at the last cheek tooth and can be used to take a pulse? 
+A:  Facial artery  
+
+714 	(medium)  	CAHA57 
+Q:  Which are the smallest blood vessels? 
+A:  Capillaries  
+
+715 	(medium)  	HIH895-1 
+Q:  What is the definition of respiratory frequency? 
+A:  Number of breaths taken per minute
+    
+716	 (medium)   	TH695 
+Q:  What term describes the point of the frog towards the toe? 
+A:  Apex  
+
+717 	(medium)   	DET104 
+Q:  What is the general term for the last 10 pairs of ribs, those not connected to the sternum? 
+A:  False ribs or floating ribs 	(accept either)
+  
+718 	(medium)  	TH89 
+Q:  What system in the horse's body includes the brain, spinal cord, and associated nerves and special sensors? 
+A:  Nervous system    
+
+719 	(medium)   	TH96 
+Q:  What joint is commonly referred to as the "yes-no" joint? 
+A:  Atlas-axis joint OR joint between the 1st and 2nd cervical vertebrae OR atlantoaxial joint     (accept any)
+  
+720 	(medium)   	ES21 
+Q:  2 part question:  How many chestnuts do asses and donkeys have and where are they located? 
+A:  2 (two);          on the insides of the front legs only
+  
+721 	(medium) 	FCH199 
+Q:  During exercise, body heat is primarily produced by what system? 
+A:  Muscular system
+  
+
+
+722	 (medium)  	HIH705-1 
+Q:  What is an obligate nasal breather? 
+A:  Animal that breathes only through the nose      (can't breathe through the mouth)
+
+723	 (medium)  	CAHA8 
+Q:  Which pairs of ribs are fastened to the sternum by cartilage and are called “true ribs”? 
+A:  First 8 pairs  
+
+724 	(medium)  	DET778 
+Q:  Name the tendon connecting the deep muscles of the back of the leg to the coffin bone. 
+A:  Deep digital flexor tendon           (also accept deep flexor tendon)
+  
+725 	(medium) 	TH90 
+Q:  Name the 2 components of the skeletal system. 
+A:  Bones and ligaments
+  
+726 	(medium)  	HIH830-1 
+Q:  Which blood cells aid in clotting?   
+A:  Platelets     (thrombocytes)
+  
+727	 (medium)  	BEG106-1 
+Q:  Describe the difference between sensitive and insensitive structures of the hoof. 
+A:  Sensitive structures contain blood vessels and nerves;
+     Insensitive structures have no blood vessels or nerves
+
+728	 (medium)   	CAHA7/TH90 
+Q:  What body SYSTEM do irregular bones protect? 
+A:  Nervous system      (spinal cord of the nervous system)
+
+729 	(medium)   	TH9 
+Q:  In the horse's body, what connects bones to bones? 
+A:  Ligaments  
+
+730	 (medium)   	DET214 
+Q:  What is the name of the clear, yellowish, fluid portion of the blood in which various blood cells are suspended? 
+A:  Plasma  
+
+731 	(medium)   	TH90 
+Q:  What is the purpose of synovial fluid? 
+A:  To lubricate joints  
+
+732 	(medium)  	CAHA5/DET97 
+Q:  What is the purpose of the epiglottis?
+A:  Prevents food from entering the larynx or trachea when swallowing
+       
+733	 (medium)   	DET80 
+Q:  What is the name of the muscle that separates the abdominal and the thoracic cavities? 
+A:  Diaphragm  
+
+
+
+
+734	 (medium)   	TH119 
+Q:  What organ provides a blood filtering system that is responsible for the excretion of many waste products from the body? 
+A:  Kidney  
+
+735	 (medium)   	DET242 
+Q:  Where are the proximal sesamoid bones located? 
+A:  At the rear of the fetlock joint            (additional info:  distal sesamoid or navicular is in the hoof)  
+
+736 	(medium)  	TH696 
+Q:  Name the fibro-elastic, fatty cushion in the foot that acts as a shock absorber. 
+A:  Digital cushion  
+
+737 	(medium)  	TH80 
+Q:  What do a horse's chestnuts and a human's fingerprints have in common? 
+A:  Both have unique patterns that can be used to identify individuals
+  
+738 	(medium)   	CAHA8 
+Q:  The head of each rib of a horse is attached to what structure? 
+A:  Vertebrae       (thoracic vertebrae)
+  
+739 	(medium)	TH127 
+Q:  What gland controls the metabolic rate? 
+A:  Thyroid  
+
+740	 (medium)   	TH706 
+Q:  Where is the femoral artery? 
+A:  Hind leg  
+
+741 	(medium)   	HIH810 
+Q:  What is the name of the tiny air sacs in the lungs where oxygen and carbon dioxide are exchanged? 
+A:  Alveoli           (al-VEE-oh-lie)
+
+742	 (medium) 	DET144 
+Q:  Name the bone that extends from the shoulder to the elbow. 
+A:  Humerus   
+
+743	 (medium) 	DET158 
+Q:  What is the name of the place of union or junction between two or more bones of the skeleton? 
+A:  Joint  
+
+744 	(medium) 	CAHA57 
+Q:  Which chamber of the heart is the primary pumping chamber for moving oxygenated blood to the body? 
+A:  Left ventricle  
+
+745 	(medium)  	DET70  
+Q:  The coupling is the pivot point of the horse's back and is supported by which section of the horse's vertebrae? 
+A:  Lumbar  
+
+
+
+
+746 	(medium)   	DET167 
+Q:  The lens focuses light rays to form an image on what structure?   
+A:  Retina  
+
+747 	(medium)  	TH127 
+Q:  What is the major function of the thyroid gland? 
+A:  Controls metabolic rate   
+
+748 	(medium)  	DET258 
+Q:  Define the term "stroke volume". 
+A:  Amount of blood the heart pumps with each beat
+  
+749 	(medium)  	DET92 
+Q:  Which body system has glands that produce hormones to regulate growth, reproduction, metabolism, and digestion? 
+A:  Endocrine
+  
+750 	(medium)  	TH120 
+Q:  What part of the brain controls respiration and blood pressure? 
+A:  Brainstem  
+
+751 	(medium)  	CAHA43 
+Q:  What is the external part of the ear called? 
+A:  Auricle    
+
+752 	(medium)   	TH123/DET69 
+Q:  What is the first structure that light entering the horse's eye would pass through? 
+A:  Cornea   
+
+753 	(medium)  	TH82 
+Q:  In a wall eyed horse, which specific structure of the eye is light blue or hazel in color? 
+A:  Iris  
+
+754 	(medium)   	DET47 
+Q:  2 part question:  Which are the smallest blood vessels and what do they connect? 
+A:  Capillaries;      connect arteries with veins  
+
+755	 (medium)  	CAHA21, 36 
+Q:  2 part question:  What is the stay mechanism and what is its purpose? 
+A:  Joints of the legs are locked in position by muscles and ligaments;       it allows the horse to sleep standing up (additional reference TH708)
+
+756 	(medium)   	TH114 
+Q:  Which muscle has the largest increase in blood flow during exercise? 
+A:  Diaphragm  
+
+757 	(medium)   	DET42/CAHA24
+Q:  The soft, fleshy part of a horse's heel is called what? 
+A:  Bulb  
+
+
+
+
+758 	(medium)  	CAHA28/DET156 
+Q:  The ilium and ischium are 2 of the bones that make up what structure of the horse? 
+A:  Pelvis  
+
+759	 (medium)  	DET75 
+Q:  What is the name of the area on the horse's head where the curb chain should rest? 
+A:  Curb groove or chin groove		 (accept either)  
+
+760 	(medium)  	HIH830-1 
+Q:  In what part of the vascular system does the majority of exchange of substances in and out of the blood occur? 
+A:  Capillaries  
+
+761 	(medium)  	TH90 
+Q:  What is the primary function of the short bones? 
+A:  Absorb concussion         (shock absorbers)
+  
+762 	(medium)  	CAHA68 
+Q:  In the horse's renal system, what structure connects the kidney to the bladder? 
+A:  Ureter  
+
+763 	(medium) 	FCH395H2-35 
+Q:  What is the name of the upper jaw bone? 
+A:  Maxilla  
+
+764 	(medium)  	DET110 
+Q:  When fluorescein dye is applied to the surface of the eye, it will indicate any damaged areas of what structure of the eye? 
+A:  Cornea  
+
+765 	(medium)  	TH689 
+Q:  What is the least moveable joint in the horse's leg? 
+A:  Pastern  
+
+766	 (medium)   	CAHA19 
+Q:  The forces exerted by muscles in the foreleg are transmitted by tendons.  Generally muscles are not found below what joint of the foreleg? 
+A:  Knee      (carpus)
+  
+767	 (medium)	CAHA58 
+Q:  The coronary arteries are the first branches off the aorta and carry blood to what structure? 
+A:  Heart  
+
+768 	(medium)	TH123/DET102
+Q:  Name 2 clear or translucent structures that light must pass through to reach the retina in the horse's eye.
+A:  Cornea and lens 
+
+769 	(medium)   	CAHA77 
+Q:  Name one of the two endocrine glands that are attached to the brain. 
+A:  Pituitary gland; pineal gland  
+
+
+
+770 	(medium)   	TH695/CAHA24/DET62 
+Q:  The frog is a wedge-shaped mass that occupies the area between what structures at the heel of the foot? 
+A:  Bars            (also accept commissures, sulci, or collateral grooves)  
+
+771 	(medium)   	TH126 
+Q:  What structure in the brain controls the release of hormones by the pituitary gland? 
+A:  Hypothalamus  
+
+772 	(medium)   	DET194 
+Q:  Where is the horse's occipital crest located? 
+A:  Top of the head between the ears or the poll            (accept either)
+
+773 	(medium)   	CAHA50 
+Q:  What is the common term for the vallate, foliate, and fungiform papillae that are found on the tongue? 
+A:  Taste buds  
+
+774	 (medium)   	CAHA50 
+Q:  What bony structure in the oral cavity separates it from the nasal cavity? 
+A:  Hard palate     
+
+775 	(medium)   	TH689/DET48 
+Q:  What is another name for the horse’s knee?    
+A:  Carpus    
+
+776 	(medium)   	CAHA16/DET176 
+Q:  2 part question:  Name and give the function of the large muscle located on either side of the face.  It sits beneath the ear and covers the mandible. 
+A:  Masseter muscle;                    purpose - chewing    (opens and closes jaw)
+
+777	 (medium)   	TH696 
+Q:  Muscles that work together to accomplish a movement are called synergists.  What is the term for muscles that oppose each other and limit movement? 
+A:  Antagonists  
+
+778 	(medium)  	DET37 
+Q:  What part of the brain controls basic body functions such as respiration and heart rate? 
+A:  Brainstem       (specifically medulla oblongata) 
+
+779	 (medium)  	HIH220-6/DET216 
+Q:  What is the term for the pivot point of the back that is located at the area between the last rib and the croup? 
+A:  Loin or coupling              (accept either)
+  
+780 	(medium)   	CAHA78 
+Q:  What is the proper name for the cranial nerve that provides the horse with a sense of smell? 
+A:  Olfactory nerve  
+
+781	 (medium)  	TH686/CAHA12/DET60 
+Q:  Which bone of the horse am I describing?  The bone is very porous.  Blood vessels pass in and out of the pores.  Lateral cartilages are attached to the wings of this bone. 
+A:  Coffin bone, third phalanx, distal phalanx, or pedal bone                   (accept any)
+
+
+782 	(medium)   	HIH465-1 
+Q:  Give 2 purposes of the nictitating membrane. 
+A:  Removes foreign bodies from the eye, protects the eye from trauma, and smooths tear film over the eye  
+
+783 	(medium)  	CAHA15 
+Q:  What is the proper name for the layers of loose, dense fibrous connective tissue that are found superficially under the skin and deep covering the muscles? 
+A:  Fascia
+
+784	 (medium)   	DET97    
+Q:  What is the outermost layer of skin?    
+A:  Epidermis     
+
+785 	(medium)   	HIH465-1 
+Q:  In the horse's eye, there are cells known as rods and cones.  Which one of these is responsible for low light vision and motion detection? 
+A:  Rods     
+
+786	 (medium)   	HIH465-1 
+Q:  In the horse's eye, there are cells known as rods and cones.  Which one of these is responsible for day and color vision? 
+A:  Cones  
+
+787 	(medium)   	CAHA59 
+Q:  What vein in the horse's neck is commonly used to draw blood samples? 
+A:  Jugular vein  
+
+788 	(medium)  	CAHA50 
+Q:  Through which body cavity does the esophagus travel on its way to emptying into the stomach? 
+A:  Thoracic cavity    
+
+789 	(medium)   	CAHA7 
+Q:  The terms transverse process, spinous process, foramen, and arch are used to describe which bones? 
+A:  Vertebrae or spinal bones              (accept either)
+  
+790 	(medium)   	DET102 
+Q:  What is the name for the outer protective layer of the horse's eye? 
+A:  Cornea  
+
+791	 (medium)  	CAHA6 
+Q:  The first phalanx is just below what long bone? 
+A:  Cannon or 3rd metacarpal
+ (additional info:  1st phalanx is long pastern, 2nd is short pastern, and 3rd is coffin)
+  
+792	 (medium)   	CAHA57 
+Q:  The blood leaving the right ventricle of the heart by the pulmonary artery flows into what organ? 
+A:  Lungs  
+
+793 	(medium)	DET167/CAHA78  	 
+Q:  In the horse's eye, focused light rays which form the image on the retina are transmitted to the brain by what nerve? 
+A:  Optic nerve  
+
+795 	(medium)  	CAHA43 
+Q:  What is the horse's auricle? 
+A:  External or outer ear
+  
+796	 (medium)  	CAHA7 
+Q:  What are the first 2 cervical vertebrae called? 
+A:  Atlas and axis   
+
+797 	(medium)  	TH119 
+Q:  What system is responsible for collecting and removing the fluid waste materials from the body? 
+A:  Urinary system
+  
+798	 (medium)   	TH111 
+Q:  Simultaneously, blood enters the right atrium from the body and the left atrium from where? 
+A:  Lungs  
+
+799  	 (medium)                  CAHA60
+Q:  What organ receives oxygenated blood from the renal artery?
+A:  Kidney                                                                            
+
+800  	 (medium)                   CAHA12
+Q:  In the hind legs, what is the anatomical term for the short pastern bones?
+A:  Middle phalanx or second phalanx                 
+
+801 	 (medium)                          TH687
+Q:  What is the common term for the tuber coxae?
+A:  Hip                    TH687
+
+802 	(medium)  	CAHA57 
+Q:  Explain the FUNCTIONAL difference between arteries and veins. 
+A:  Arteries carry blood away from the heart to the body; veins carry blood from the body back to the heart 
+  
+
+
+HARD  
+
+803 	(hard)      	TH227 
+Q: Osteoblasts form a protein matrix that ultimately forms what tissue? 
+A: Bone  
+
+804	 (hard)      	HIH505-1 
+Q: What structure transfers the horse’s weight from the bony structure to the hoof wall? 
+A: Laminae  
+
+805 	(hard)      	HIH810-1 
+Q:  What is the term for the total amount of inspired air inspired in one breath?   
+A:  Tidal volume  
+
+
+
+
+
+
+806	 (hard)      	HIH810-2    
+Q:  What is the term for low oxygen saturation in the blood?   
+A:  Arterial hypoxemia or hypoxemia	 (accept either)     
+
+807	 (hard)      	CAHA12 
+Q:  What common name is given to the 3rd phalanx bone of the foot? 
+A:  Coffin bone or pedal bone 	(accept either) 
+
+809	 (hard)      	HIH505-2 
+Q:  Why are the sensitive structures of the horse's feet called sensitive? 
+A:  Because they contain many blood vessels and nerve endings 
+(Addtl info:  injury to them causes bleeding and pain) 
+
+810	 (hard)      	DET53 
+Q:  Which part of the brain controls the coordination of movement? 
+A:  Cerebellum     
+
+811 	(hard)      	TH97/CAHA8
+Q:  What is the difference between true ribs and false ribs? 
+A: True ribs attach directly to the sternum          (Addtl info: they attach by cartilage).  
+False ribs do not attach directly to the sternum.  (Addtl info:  False ribs connect to each other by cartilage and then attach to the sternum.)
+
+813 	(hard)      	CAHA9 
+Q:  What is the name of the membrane that covers the non-articulating surfaces of bone? 
+A:  Periosteum  
+
+814	 (hard)      	HIH230-2 picture 
+Q:  Which vertebrae of a horse is the most upright member of the spinal column? 
+A:  15th       (also accept thoracic)    
+
+815	 (hard)      	HIH1100-8 
+Q:  2 part question:  Explain where the gaskin is and what it ties into. 
+A:  Gaskin is the muscle between the hock and the stifle; it ties into the thigh
+  
+816	 (hard)      	TH154 
+Q:  What does the gaskin muscle have to do with the horse's stride? 
+A:  Pulls the leg forward      (Addtl info:  It enables propulsion)
+  
+817 	(hard)      	TH123/HIH220-4 
+Q:  What is a horse's degree of vision? 
+A:  300 degrees OR 215 degrees in each eye         (additional info:  binocular vision is 65 degrees)
+  
+818 	(hard)      	HIH840-1 
+Q:  What is the basic contractile unit of skeletal muscles? 
+A:  Sacromere  
+
+819 	(hard)      	HIH850-1 
+Q:  Which type skeletal muscle is used for long-term, non-strenuous work and also provides endurance? 
+A:  Type 1  
+
+
+
+
+820	 (hard)      	HIH850-1 
+Q:  Type 2B muscles are used for what? 
+A:  Quick bursts of speed for short distances
+  
+821	 (hard)      	HIH850-1 
+Q:  Which breed has the largest number of Type 2A muscles? 
+A:  Thoroughbred  
+
+822	 (hard)      	HIH830-1 
+Q:  What are erythrocytes? 
+A:  Red blood cells  
+
+823 	(hard)      	HIH830-1 
+Q:  What are leukocytes? 
+A:  White blood cells  
+
+824	 (hard)      	HIH810-2 
+Q:  At a gallop, respiration rate and stride rate are almost always coupled in what ratio? 
+A:  1 to 1  
+
+825 	(hard)      	HIH810-2 
+Q:  In the gallop, when does the horse exhale? 
+A:  When the front legs make contact with the ground  
+
+826	 (hard)      	TH689 
+Q:  2 part question:  Which leg joint is subjected to the greatest strain and why? 
+A:  Fetlock; it may support the full weight of the horse during certain gaits or movements such as jumping (accept any reasonable wording)
+
+827	 (hard)      	TH90 
+Q:  What is one purpose of the long bones in the horse's body? 
+A:  Act as levers, support weight, locomotion, store minerals  
+
+828	 (hard)      	TH90 
+Q:  2 part question:  Where are the short bones located and what is their main purpose? 
+A:  In complex joints such as the knee and hock; absorb concussion   (shock absorption)
+    
+829 	(hard)      	CAHA6 
+Q:  How many bones form the basis of locomotion in the horse? 
+A:  80     (20 in each leg)
+  
+830	 (hard)      	TH90 
+Q:  Which type bones enclose the body cavities containing vital organs and also provide large areas for muscle attachment? 
+A:  Flat bones  
+
+831	 (hard)      	TH90 
+Q:  2 part question:  Where are the irregular bones located in the horse's skeleton and what is their purpose? 
+A:  Spinal column (vertebrae);  they protect the spinal cord  
+  
+
+
+
+832	 (hard)      	TH99 
+Q:  Which muscle type is fast twitch and fatigues easily? 
+A:  Type 2  
+
+833	 (hard)      	TH101 
+Q:  What provides the energy for muscle contraction? 
+A:  ATP     (adenosine triphosphate)  
+
+834 	(hard)      	TH104 
+Q:  What is a secondary purpose of the respiratory system? 
+A:  Temperature regulation      (also accept phonation or vocalization)
+  
+ 835 	(hard)      	CAHA56-58 
+Q:  Name the cone-shaped muscular organ located between the lungs which propels blood by alternate muscular contraction and relaxation? 
+A:  Heart  
+
+836 	(hard)      	CAHA8 
+Q:  What is the term for the ribs that do not connect directly to the sternum?   
+A:  Floating ribs    (also accepted:  false ribs)
+
+837 	(hard)      	CAHA5 
+Q:  In the horse, which gland secretes tears? 
+A:  Lacrimal gland  
+
+838	 (hard)      	CAHA5 
+Q:  The horse's skin is composed of 2 layers.  What are they? 
+A:  Epidermis and dermis  
+
+839	 (hard)      	CAHA5 
+Q:  What is the common name for the apocrine tubular glands of the horse? 
+A:  Sweat glands  
+
+840	 (hard)      	CAHA9 
+Q:  Where on a bone would you NOT find the periosteum? 
+A:  At the ends of long bones OR epiphyses OR points of articulation     
+
+841	 (hard)      	TH129 
+Q:  What is the name for the long, individual hairs that often mix with the dense undercoat of the horse especially under the belly? 
+A:  Guard hairs or cat hairs         (accept either)
+ 
+842 	(hard)      	CAHA7/TH96 
+Q:  The increased height of the 3rd, 4th, and 5th thoracic vertebrae make up what part of the horse? 
+A:  Withers  
+
+843	 (hard)      	CAHA6 
+Q:  What is the triangular sesamoid bone that's situated at the front of the stifle? 
+A:  Patella   
+
+
+
+
+844	 (hard)      	CAHA27 
+Q:  The navicular bone and bursa are associated with which tendon? 
+A:  Deep digital flexor tendon      (also accept deep flexor tendon)
+  
+845	 (hard)      	CAHA29 
+Q:  What is the track-like structure on which the patella rides? 
+A:  Trochlea  
+
+846	 (hard)      	CAHA55   
+Q:  Name the organ in the abdominal cavity that stores blood, filters blood, and removes old blood cells. 
+A:  Spleen   
+
+847 	(hard)      	TH90 
+Q:  What is the name of the fluid that fills the sheaths around tendons and lines the inside of joints? 
+A:  Synovial fluid  
+
+848 	(hard)      	TH122 
+Q:  What is the name of the substance contained in the anterior chamber of the eye? 
+A:  Aqueous humor  
+
+849 	(hard)      	CAHA68 
+Q:  What substance produced by the horse contains nitrogen, sulfur, inorganic salts, and pigments? 
+A:  Urine  
+
+850 	(hard)      	CAHA16 
+Q:  What is the name of the longest and widest muscle in the horse's body? 
+A:  Latissimus dorsi  
+
+851	 (hard)      	CAHA50 
+Q:  What is the name of the flap that covers the opening into the windpipe during swallowing? 
+A:  Epiglottis  
+
+852	 (hard)      	CAHA10 
+Q:  What does "interosseous"  (in-ter-AH-see-us) mean? 
+A:  Between bones  
+
+853 	(hard)      	CAHA36 
+Q:  Which 2 joints in the rear leg have reciprocal action? 
+A:  Hock and stifle  
+
+854	 (hard)      	CAHA56 
+Q:  What is the lining of the abdominal wall called? 
+A:  Peritoneum  
+
+855 	(hard)      	CAHA8 
+Q:  What is the largest ligament in the leg? 
+A:  Suspensory ligament  
+
+856 	(hard)      	CAHA8 
+Q:  Where are the intercostal muscles located? 
+A:  Between the ribs  
+
+857	 (hard)      	TH687 
+Q:  The os coxae  (ahs COX-ee) of a horse is also known as what? 
+A:  Pelvis or pelvic girdle   (accept either)
+  
+858 	(hard)      	TH59 
+Q:  How many flat bones make up the skull? 
+A:  34   
+
+859	 (hard)      	CAHA11 
+Q:  What is the fluid-filled space between the iris and cornea called? 
+A:  Anterior chamber 	(additional info:  contains aqueous humor)
+
+860	 (hard)      	TH105 
+Q:  How many turbinates are in each nasal cavity? 
+A:  2 (two)
+  
+861	 (hard)      	HIH505-4 
+Q:  What are 2 purposes of the digital cushion? 
+A:  Helps absorb shock and helps circulation of blood
+  
+862 	(hard)      	CAHA68 
+Q:  When the bladder is full, urine is discharged through what? 
+A:  Urethra  
+
+863	 (hard)      	TH154/HS9 
+Q:  Which muscle helps to pull the hind leg forward and enable propulsion, giving the horse a long, powerful stride? 
+A:  Gaskin  
+
+864 	(hard)      	CAHA12 
+Q:  Which bone of the horse's foot serves as a pulley for the deep flexor tendon? 
+A:  Navicular bone or distal sesamoid 	(accept either)
+  
+865 	(hard)      	TH713 
+Q:  Name the tendon responsible for the extension of the horse's toe and hoof. 
+A:  Digital extensor tendon  
+
+866 	(hard)      	CAHA25 
+Q:  Specifically, what part of the foot produces the periople? 
+A:  Perioplic corium  
+
+867 	(hard)      	TH98  
+Q:  Describe one function of the distal sesamoid or navicular bone. 
+A:  Protects coffin joint, provides bearing surface or support for the deep digital flexor tendon
+  
+868 	(hard)      	CAHA43,65 
+Q:  What is the structural basis for the ears and nostrils? 
+A:  Cartilage  
+
+
+
+
+
+869	 (hard)      	TH684 
+Q:  What is unique about the horse's ulna? 
+A:  No bone marrow cavity  
+
+870 	(hard)      	CAHA14 
+Q:  What 4 bones make up the fetlock joint? 
+A:  Cannon, long pastern, and 2 proximal sesamoid bones
+  
+871	 (hard)      	CAHA57 
+Q:  What is the anatomical name of the tubular tissue that generally carries oxygenated blood under high pressure? 
+A:  Artery  
+
+872	 (hard)      	CAHA57-58 
+Q:  2 part question:  The heart is composed of how many chambers and what are their names? 
+A:  4 (four);    left ventricle, right ventricle, left atrium, right atrium  
+
+873	 (hard)      	CAHA10 
+Q:  2 part question:  How many bones comprise the forearm and what are their names? 
+A:  2 (two);    radius and ulna
+  
+874 	(hard)      	CAHA2 
+Q:  2 part question:  Explain proximal and distal. 
+A:  Proximal - closer to the body;    distal - furthest from the body
+
+875 	(hard)      	CAHA16 
+Q:  Where is the trapezius muscle located in the horse? 
+A:  On each side of the withers  
+
+876	 (hard)      	CAHA5 
+Q:  What is collagen? 
+A:  Fibrous network that forms the basic framework of body tissue  
+
+877 	(hard)      	CAHA5,80 
+Q:  Where in the horse's body is epinephrine produced? 
+A:  Adrenal gland  
+
+878 	(hard)      	TH96 
+Q:  2 part question:  What is the name and function of the first and second vertebrae of the horse's spinal column? 
+A:  Atlas - up and down/flexion and extension of the neck; 
+     Axis - lateral/left and right movements of the neck
+
+879	 (hard)      	TH128 
+Q:  The integumentary system refers to what body part? 
+A:  Skin  
+
+880 	(hard)      	TH117 
+Q:  What is the function of the horse's spleen? 
+A:  Stores red blood cells  
+
+
+
+
+881	 (hard)      	TH97  
+Q:  What is the name of the largest metacarpal? 
+A:  Cannon bone or 3rd metacarpal (accept either) (additional info:  splint bones are the 2nd and 4th metacarpals)
+  
+882 	(hard)      	TH97 
+Q:  Over which section of the vertebral column does most of the saddle sit? 
+A:  Thoracic  
+
+883 	(hard)      	TH429 
+Q:  What type of white blood cells is found in the spleen and lymph nodes and is important in fighting infection? 
+A:  Lymphocytes    
+
+884	 (hard)    	HIH910-5 
+Q:  What is a hormone? 
+A:  Body-regulating chemical secreted by an endocrine gland into the bloodstream 
+ 
+885	 (hard)      	TH117 
+Q:  What is the function of erythrocytes? 
+A:  Transport oxygen in blood
+  
+886	(hard)      	CAHA7 
+Q:  How many vertebrae are there?  
+A:  51 – 57    (accept any answer within this range) 
+(additional info:  7 cervical, 18 thoracic, 6 lumbar, 5 sacral, and 15-21 coccygeal/caudal)
+
+887	 (hard)      	TH688 
+Q:  What kind of joint is the horse's elbow? 
+A:  Hinge  
+
+888 	(hard)      	TH708 
+Q:  What is the primary function of the suspensory ligament? 
+A:  To prevent excessive overextension of the fetlock joint  
+
+889	 (hard)      	HIH various 
+Q:  How much blood does an adult horse's body contain? 
+A:  50 liters OR 13.2 gallons  
+
+890 	(hard)      	CAHA14 
+Q:  The long pastern, cannon, and sesamoid bones make up what joint of the horse? 
+A:  Fetlock or ankle 	(accept either)
+  
+891	 (hard)      	CAHA9 
+Q:  2 part question:  What is the periosteum and what does it do? 
+A:  Bone producing membrane that covers bones (except at the ends).  It protects the bone and is a site of healing.
+
+892	 (hard)      	HIH415-1 
+Q:  Name the muscle that lies under the horse's skin that enables the skin to twitch and shake flies off the body. 
+A:  Panniculus  
+
+
+
+893 	(hard)      	TH118 
+Q:  In the horse, the nose, ears, and eyes are referred to as what type of organs? 
+A:  Specialized sensory organs  
+
+894	 (hard)      	CAHA7 
+Q:  What classification type of bone protects the spinal cord? 
+A:  Irregular   
+
+895 (hard)      	HIH895-1 
+Q:  What is the name of the muscles located between the ribs that are involved in inspiration? 
+A:  Intercostal muscles  
+
+896 	(hard)      	TH196 
+Q:  2 part question:  Where is the panniculus muscle and what is its function?   
+A:  Muscle under the skin;   enables the horse to flick flies off its skin
+ 
+897 	(hard)      	HIH455-1 
+Q:  The tiny, folded, accordion-like, interlocking projections that connect the coffin bone to the hoof wall are called what? 
+A:  Laminae  (sensitive laminae)
+  
+898 	(hard)      	HIH455-2 
+Q:  Where is the navicular bone located? 
+A:  Behind and below the short pastern OR at the back of the coffin bone
+  
+899	 (hard)      	HIH505-5 
+Q:  What happens when the large venous plexuses within the hoof are compressed? 
+A:  Blood is pumped back up the leg  
+
+900 	(hard)      	ES22 
+Q:  Describe a tufted tail. 
+A:  Tail that has short hair (somewhat like a cow) towards the top with a tuft of longer hair beginning about halfway down the tail
+  
+901 	(hard)      	ES212 
+Q:  How many pairs of spinal nerves does a horse have? 
+A:  22  
+
+902	 (hard)      	HIH153B-2 
+Q:  What is a jibbah? 
+A:  The bulge between the eyes of an Arabian    
+
+903 	(hard)      	HIH435a-1 
+Q:  What is the mesentery? 
+A:  Loose tissue that connects the small intestines to the abdominal wall
+  
+904 	(hard)      	ES212 
+Q:  The central nervous system consists of the brain and the spinal cord.  What does the peripheral nervous system consist of? 
+A:  Nerves that branch off the brain and spinal cord     (also accept:  cranial nerves and spinal nerves)
+  
+
+
+905 	(hard)      	DET97 
+Q:  What is the function of the epiglottis? 
+A:  Prevents food from entering the larynx and trachea
+    
+906	 (hard)      	DET276  
+Q:  2 part question:  Where would you find the turbinate bones and what is their purpose? 
+A:  Bones in the nasal passages;  they filter and warm the air that's inhaled 
+ 
+907 	(hard)      	ADV325-1L 
+Q:  Which 2 muscles expand the chest during breathing? 
+A:  Diaphragm and intercostal muscles
+  
+908 	(hard)      	TH237 
+Q:  What are osteoblasts? 
+A:  Bone forming cells  
+
+909	 (hard)      	TH129 
+Q:  2 part question:  What are guard hairs and where are they commonly found? 
+A:  Long, individual hairs that often mix with the dense undercoat of the horse;   usually seen on the underside of the belly, underside of jaw and neck, and between cheeks of buttocks (don't need to give all locations)
+  
+910 	(hard)      	TH705 
+Q:  What is the name of the largest nerve in the horse's body? 
+A:  Sciatic nerve  
+
+911	 (hard)      	CAHA57 
+Q:  What chamber of the heart does the oxygenated blood from the lungs enter first? 
+A:  Left atrium  
+
+912	 (hard)      	ES56 
+Q:  2 part question:  How is the shape of the horse’s pupil different in comparison to other mammals and how does the shape of the pupil benefit the horse? 
+A:  Pupil is more horizontal   (additional info:  a cat's pupil is more vertical and a human's pupil is more round); It gives the horse more vision over a wide horizon OR enables the horse to see predators more easily
+
+913 	(hard)      	TH722 
+Q:  What is the common name for the epiphyseal (eh-pee-FISS-ee-al) plates?
+A:  Growth plates  
+
+914 	(hard)      	TH8 
+Q:  In today's modern Equus, vestiges are still present of the two outside toes that disappeared from the prehistoric horse Mesohippus.  What are these vestiges called? 
+A:  Splint bones		 (also accept chestnuts and ergots)    
+
+915 	(hard)      	HS24 
+Q:  What 2 tracts does the pharynx belong to? 
+A:  Respiratory and digestive  
+
+
+
+
+
+
+916 	(hard)      	DET100 
+Q:  Name the structure that equalizes air pressure in the ear.   
+A:  Eustachian tube  
+
+917 	(hard)      	TH188 
+Q:  Which region of the spinal column is joined securely to the hipbone? 
+A:  Sacrum (at the sacroiliac joint)
+  
+918 	(hard)      	DET62 
+Q:  What is the function of the commissure in the hoof? 
+A:  Gives elasticity to the foot  
+
+919 	(hard)      	DET69 
+Q:  2 part question:  Where is the coronary band and why do you have to be careful with this area? 
+A:  Hairline between the top of the hoof and the bottom of the pastern;   
+Hoof growth starts at the coronary band
+  
+920	 (hard)      	TH687/CAHA28 
+Q:  The ischium and pubis are located where?    
+A:   Pelvis           
+
+921 	(hard)      	CAHA54 
+Q:  Name the largest internal organ of the horse. 
+A:  Liver  
+
+922 	(hard)      	TH129 
+Q:  2 part question:  Describe the location and the function of the sebaceous glands. 
+A:  Located at base of hair follicles in the dermis;    they produce sebum an oily, waxy substance that protects and insulates the skin  
+
+923	 (hard)        	TH690
+Q:  What is parathormone or parathyroid hormone? 
+A:  Hormone secreted by the parathyroid gland that increases calcium in the blood 
+  
+924 	(hard)      	TH22 
+Q:  At what age do the epiphysis plates on the distal end of the cannon close? 
+A:  9 - 12 months	 (accept any number within this range) 
+ 
+925 	(hard)      	DET67 
+Q:  What is the term for the membrane that lines the inside of the eyelid? 
+A:  Conjunctiva  
+
+926 	(hard)      	CAHA57 
+Q:  Which chamber of the heart does blood returning from the body by the cranial and caudal vena cava enter first? 
+A:  Right atrium  
+
+927	 (hard)      	HIH505-4 
+Q:  The rear third of the coffin bone does not attach directly to the hoof wall.  What elastic structure provides the bridge for this attachment?   
+A:  Lateral cartilages    
+
+
+ 928 	(hard)      	CAHA58 
+Q:  The sinoatrial node in the right atrium performs an essential function to the heart.  What is that function? 
+A:  It's the pacemaker  
+
+929 	(hard)      	TH114/HIH830-2 
+Q:  How does the spleen help the race horse increase its level of arterial oxygen and maintain levels of physical exertion? 
+A:  Spleen contracts releasing additional red blood cells to carry oxygen
+  
+930	 (hard)      	TH112/CAHA64/DET173 
+Q:  What is the proper term for filters found in the horse's body which can remove bacteria, cancer cells, and foreign materials from circulation?  They are connected to the vascular system by the thoracic duct.
+A:  Lymph nodes  
+
+931	 (hard)      	CAHA9/DET80 
+Q:  The term "diaphysis" (die-AFF-i-sis) refers to what part of a long bone? 
+A:  Shaft  
+
+932	 (hard)      	HIH830-1 
+Q:  What is the name of the iron-containing protein found in erythrocytes that binds to oxygen? 
+A:  Hemoglobin  
+
+933 	(hard)      	FCH404 
+Q:  What is the name of the organ in the abdominal cavity which serves as a reservoir for red blood cells and assists the body in combating infectious organisms? 
+A:  Spleen  
+
+934 	(hard)      	CAHA8 
+Q:  The costal cartilages of the first 8 ribs articulate with what bony structure? 
+A:  Sternum  
+
+935	 (hard)      	CAHA14/TH158-59/DET154 
+Q:  Identify one of two different places in the horse's skeletal structure where you’d find an interosseous ligament. 
+A:  Attachment of radius to ulna 
+(additional info:  present only in foals and is later ossified); attachment of cannon to splint bones
+
+936 	(hard)      	CAHA12/DET188 
+Q:  What 2 sets of bones serve as pulleys to change the direction of the deep digital flexor tendon? 
+A:  Proximal and distal sesamoid bones  
+
+937 	(hard)      	FCH401,03 
+Q:  2 part question:  What is the proper name for the fluid that suspends the red blood cells in whole blood and what term is used for the fluid that remains once the red blood cells have clotted? 
+A:  Plasma - fluid in whole blood;      serum - fluid in clotted blood     
+
+938	 (hard)      	TH142/CAHA1,12/DET179 	
+Q:  What is the proper anatomical name for the bones of the horse that are found between the knee and the fetlock joints? 
+A:  Metacarpal bones    (additional info:  cannon is 3rd metacarpal and splint bones are 2nd and 4th metacarpals)
+  
+
+
+939 	(hard)      	CAHA60 
+Q:  Veins from the stomach, spleen, intestines, and pancreas all join to form the portal vein which carries blood to an important organ in the abdominal cavity where essential metabolic functions are performed.  What is the name of this organ? 
+A:  Liver  
+
+940 	(hard)      	CAHA13 
+Q:  In what joint would you find a fibro-cartilage structure called a meniscus that is located between the articulating surfaces of that joint? 
+A:  Stifle       (femur to tibia joint)
+
+941 	(hard)      	CAHA12 
+Q:  What 2 bones articulate with the distal sesamoid bone? 
+A:  Short pastern and coffin bone  
+
+942	 (hard)      	CAHA42/DET146 
+Q:  Name one of the structures that the hyoid bone supports. 
+A:  Larynx, base of tongue, guttural pouches, pharynx  
+
+943	 (hard)      	CAHA63 
+Q:  What organ located in the thorax, produces lymphocytes, is at its largest in the 6-8 week old foal, and decreases in size with age becoming difficult to find in older horses? 
+A:  Thymus  
+
+944	 (hard)      	CAHA45/TH125 
+Q:  What is the common term for the fluid that's produced by the lacrimal glands, collects in the medial canthus, and flows down the nasolacrimal duct? 
+A:  Tears  
+
+945 	(hard)      	HIH505-4 
+Q:  Why is the hoof wall harder at the toe than at the quarters? 
+A:  Toe is further from coronary band and is therefore is more keratinized  
+
+946 	(hard)      	HIH810-1 
+Q:  In measuring respiratory capabilities of the horse, tidal volume and respiratory rate are used to determine what respiratory parameter? 
+A:  Minute volume           (amount of air inspired or expired per minute)
+  
+947 	(hard)      	DET254/TH709/CAHA21,36 
+Q:  The stay apparatus is a system of muscles, ligaments, and tendons whose purpose is commonly thought to lock the legs to allow a horse to rest while standing.  Name one of the other two functions of this apparatus. 
+A:  Helps reduce concussion and prevents overextension
+   
+948 	(hard)      	CAHA78 
+Q:  To what structure does the 12th cranial nerve, the hypoglossal nerve, provide motor control? 
+A:  Tongue  
+
+949 	(hard)      	DET18/CAHA80 
+Q:  The autonomic nervous system regulates many of the internal operations of the body and regulates unconscious responses to external stimuli.  What are the 2 divisions of the autonomic nervous system?   
+A:  Sympathetic and parasympathetic  
+
+
+950 	(hard)      	HIH465-1 
+Q:  2 part question:  In the horse's eye, there are 2 main photoreceptor cell types.  What are they called and what type of vision is each used for? 
+A:  Rods - used for low light vision and motion detection;     cones - used for day vision and color vision
+  
+951 	(hard)      	HIH465-1 
+Q:  The tear film is necessary for the health of the cornea.  What do tears do for the eye? 
+A:  Supply nutrition, moisture, and oxygen to the eye surface  
+
+952 	(hard)      	TH694 
+Q:  What is the function of the tectorial layer of the horse's foot? 
+A:  Maintains moisture in the hoof wall
+  
+953	 (hard)      	HIH810-1 
+Q:  To what does oxygen attach on the red blood cells?   
+A:  Hemoglobin  
+
+954 	(hard)      	DET1,3 
+Q:   Describe the difference between adduction and abduction as it applies to the movement of the horse's limbs. 
+A:   Adduction - movement toward the body;     abduction - movement away from the body  
+
+955	 (hard)      	CAHA58 
+Q:  Where would you find the Purkinje fibers? 
+A:   In the heart   
+
+956 	(hard)      	DET205  
+Q:  Located beneath the ear, what is the largest of the horses 3 salivary glands? 
+A:  Parotid   
+
+957 	(hard)      	CAHA31 
+Q:  What is the common name for the coxofemoral joint? 
+A:  Hip joint  
+
+958	 (hard)      	TH91 
+Q:  What is the joint between the femur and the tibia? 
+A:  Stifle    
+
+959	 (hard)      	CAHA57 
+Q:  What is the only vein that carries oxygenated blood? 
+A:  Pulmonary vein  
+  
+960 	(hard)     	TH126-27/HS23 
+Q:  Name a hormone produced by the pituitary gland 
+A:  Prolactin, FSH, LH, growth hormone, oxytocin, TSH, ACTH, vasopressin
+    
+961	  (hard)        	HIH910-5 
+Q:  What is the study of hormones and their effects called? 
+A:  Endocrinology   
+
+
+
+
+962	  (hard)        	TH126 
+Q:  What is endocrinology? 
+A:  Study of hormones (and their effects on the body)   
+
+963 	 (hard)         	CAHA6 
+Q:  What structure begins the healing process when a bone fracture occurs? 
+A:  Periosteum  
+
+964 	 (hard)      	TH99 
+Q:  2 part question:  The muscles of a horse's body are classified as smooth, cardiac, and skeletal.  Which are voluntary and which are involuntary? 
+A:  Skeletal muscles are voluntary; smooth and cardiac muscles are involuntary 
+ 
+965 	 (hard)      	HS14 
+Q:  Define the term "anatomy". 	
+A:  Science of the structure of the animal's body and the relationship of its parts (accept any reasonable wording)
+  
+966 	 (hard)      	HIH505-3 
+Q:   What is the name of the internal foot structure that serves as a means of attachment for the hoof wall and the coffin bone? 
+A:  Sensitive laminae (also accept laminae)
+  
+967 	 (hard)      	CAHA10 
+Q: 2 part question:  If the horse has a fracture of the olecranon, what bone and joint would be involved? 
+A: Bone –ulna; joint – elbow    
+
+968  	 (hard)			DET113, 275
+Q:  Fossa and tuberosity are terms used to describe bones.  In general, what do these two terms describe?	
+A:  Fossa – hollow or depressed area    		Tuberosity –  prominence or projection
+
+969 	 (hard)				CAHA12
+Q:  What is the anatomical term for the hind cannon bone?
+A:  Large metatarsal or 3rd metatarsal           (answers with metacarpal not accepted)     
+
+970 	 (hard)                        DET111/CAHA41
+Q:  What is the anatomical name for a natural passageway or opening in the body that blood vessels & nerves pass through?
+A:  Foramen   
+
+971 	 (hard)                           DET283
+Q:  In general, what does the term viscera describe?		
+A:  Internal organs
+
+972 	 (hard)                  CAHA60
+Q:  What specific organ receives oxygenated blood from the left gastric artery?				
+A: Stomach                        
+
+973	 (hard)                         DET267
+Q:  What is the main physiological function of thrombocytes?				
+A:  Blood clotting
+
+
+974 	hard)                   TH689
+Q:  What is the anatomical term for the coffin joint?
+A:  Distal interphalangeal joint                   
+
+975	(hard)          CAHA30
+Q:  What is the anatomical name for the bone that forms the point of the hock?
+A:  Calcaneous			
+
+976	 (hard)              DET214
+Q:  Thrombocytes are commonly referred to as what type of blood cells?
+A:  Platelets				
+
+977	 (hard)                          FCH689
+Q:  What is the specific location of the metatarsal phalangeal joint?                        
+A:  Hind fetlock joint  (may also accept hind ankle or hind ankle joint – must specify “hind” for correct answer)
+
+978 	(hard)                    CAHA46
+Q:  What anatomical structure of the horse is described as a diverticulum of the auditory tube?
+A:  Guttural pouch               
+
+979 	(hard)            CAHA8
+Q:  What would be the general location of the manubrium & xiphoid process?
+A:  Sternum                
+
+980 	(hard)                CAHA51
+Q:  Which 2 glands empty into the small intestine at the major duodenal papilla?
+A:  Liver  (bile duct) & pancreas  (pancreatic duct)   
+
+981 	 (hard)                CAHA80
+Q:  Would the parasympathetic or sympathetic nervous system be stimulated with the “flight or fight” instinct?
+A:  Sympathetic               
+
+982 	(hard)                  DET204
+Q:  Which endocrine gland is responsible for the maintenance of calcium levels in the blood?
+A:  Parathyroid  (also accept thyroid due to the hormone calcitonin)     
+
+
+   
+BONUS  
+983 	 (bonus)      	TH120 				
+Q:  Name the 3 primary specialized sensory organs of the horse's nervous system. 
+A:  Eyes, ears, nose  
+
+984 	(bonus)      	TH111				 
+Q:  What are the 4 parts of the circulatory system? 
+A:  Heart, arteries, veins, capillaries, blood  
+
+985	(bonus)      	CAHA23 
+Q:  Name 3 ways that veins differ from arteries. 
+A:  Veins contain a larger volume of blood, veins have thinner walls, veins have valves, veins carry blood to the heart  
+
+
+986	 (bonus)      	TH129 
+Q:  Name 3 areas of the horse's skin that are not covered with hair. 
+A:  Underneath tail, inside of thigh, around genitals, udder  
+
+987	 (bonus)      	TH129 
+Q:  Name 3 areas of the horse's body where it sweats readily 
+A:  Base of ears, chest, neck, flank   (NOT back)  
+
+988 	(bonus)      	HIH425-2,3 
+Q:  Name 4 of the horse’s body fluids.		
+A: Feces, urine, tears, sweat, saliva, blood  
+
+989 	(bonus)      	TH689 
+Q:  The elbow joint in the horse is the articulation site of what 3 bones? 
+A:  Ulna, radius, humerus  
+
+990 	(bonus)      	TH119 
+Q:  The urinary system consists of what 4 parts? 
+A:  Kidneys, ureters, bladder, urethra  
+
+991	 (bonus)      	HIH230-2 
+Q:  Name 4 of the bones in the horse's hind leg from the stifle joint distally. 
+A:  Tibia, fibula, tarsal bones, cannon, splint bones, long pastern, short pastern, coffin bone, navicular bone or distal sesamoid, proximal sesamoid  
+
+992	 (bonus)      	TH117 
+Q:  Name 3 of the 5 types of leucocytes or white blood cells.
+A:  Eosinophils, basophils, neutrophils, monocytes, lymphocytes  
+
+993	 (bonus)      	CAHA28 
+Q:  Name 3 of the bones that make up the horse's pelvic girdle. 
+A:  Ilium, pubis, ischium, sacrum, caudal/coccygeal vertebrae
+  
+994	 (bonus)      	INT223-2 			
+Q:  Starting at the poll, name the 6 parts of the horse that comprise the entire topline 
+A:  Poll, crest, withers, back, loin/coupling, croup/rump
+  
+995 	(bonus)      	ADV302-1 
+Q:  Name the 3 passages of the facial portion of the skull. 
+A:  Orbital, nasal, oral  
+
+996 	(bonus)      	TH104 
+Q:  The primary function of the respiratory system is to oxygenate the blood.  What are the 2 secondary functions? 
+A:  Temperature regulation and phonation (vocalization)
+  
+997	 (bonus)      	TH97 
+Q:  What 3 body systems do the true ribs protect? 
+A:  Respiratory, circulatory, digestive  
+
+
+
+
+998	 (bonus)      	TH96 Det204, 258, CAHA44 
+Q:  Name two of the three pairs of salivary glands in the horse and give their locations. 
+A:  Parotid - below ear,   submaxillary/submandibular - between jaws,   sublingual - beneath tongue  
+   
+999 	(bonus)      	BEG115-1L 
+Q:  The mucous membranes are evaluated as part of the vital signs of the horse.  Name 4 places you can find them. 
+A:  Inner surface of eyelids, inside nostrils, inner surface of lips and gums, inner surface of vulva, inner surface of rectum  
+
+1000 	(bonus)      TH99 
+Q:  Name 3 places in the horse's body where you will find involuntary muscle action. 
+A:  Digestive tract, respiratory tract, circulatory system, urinary system 
+
+1001 	(bonus)      TH90 
+Q:  Name the 7 joints of the hind leg in order proximal to distal. 
+A:  Sacroiliac, hip, stifle, hock, fetlock, pastern, coffin  
+
+1002 	(bonus)      TH98 
+Q:  From distal to proximal, name the 7 joints of the hind leg. 
+A:  Coffin, pastern, fetlock, hock, stifle, hip, sacroiliac  
+
+1003 	(bonus)      TH91/CAHA6 
+Q:  What 4 bones form the stifle joint? 
+A:  Femur, patella, tibia, fibula  
+
+1004 	(bonus)      TH91/CAHA110-12 
+Q:  Name the 6 joints of the foreleg from proximal to distal. 
+A:  Shoulder, elbow, knee/carpus, fetlock/ankle, pastern, coffin  
+
+1005	 (bonus)      CAHA various 
+Q:  Where is each of the 3 following serous membranes found in the horse:  pleura, peritoneum, and pericardium? 
+A:  Pleura cover the lungs and line the thoracic cavity; peritoneum lines the abdominal cavity; pericardium surrounds the heart  
+
+1006 	(bonus)      ES67 
+Q:  The sense of taste in the horse is similar to that of humans.  What 4 tastes is the horse capable of sensing? 
+A:  Bitter, sweet, salt, sour  
+
+1007 	(bonus)      HH10/TH152 			
+Q:  Give 2 reasons why it's important to have a deep heart-girth with well-sprung ribs. 
+A:  Respiratory capacity and digestive capacity  
+
+1008 	(bonus)     	HIH220-3 			
+Q:  Name 3 of the parts of a horse's front leg below the knee. 
+A:  Cannon, fetlock or ankle, coronet band, pastern, hoof
+  
+1009 	(bonus)     	CAHA 6 							
+Q:  Name 4 bones of the lower leg below the knee or hock. 
+A:  Cannon, splint, long pastern, short pastern, coffin, navicular, sesamoid  
+
+
+1010   	(bonus)  	CAHA66 
+Q:  Name 3 functions of the larynx.   
+A:  Controls air flow, protects airway, phonation (vocalization)  
+
+1011 	(bonus)   	TH98 
+Q:  From proximal to distal name the 3 joints of the horse’s leg that are common to all 4 legs. 
+A:  Fetlock, pastern, coffin  
+
+1012 	(bonus)      HIH220-3 			
+Q:  Name 4 joints on the front leg. 
+A:  Shoulder, elbow, knee, fetlock or ankle, pastern, coffin  
+
+1013 	(bonus)    	HIH535-2 
+Q:  Name 4 parts of the horse's foot. 		
+A:  Toe, heel, wall, white line, frog, sole, buttress, quarter, bulb, bar, apex of frog, cleft of frog, frog, periople, seat of corn, commissure/collateral groove/sulci  
+
+1014 	(bonus)    	TH89 
+Q:  What 3 items make up the central nervous system? 
+A:  Brain, brainstem, spinal cord  
+
+1015 	(bonus)    	HIH220-3 
+Q:  Name 4 joints on the hind leg. 		
+A:  Sacroiliac, hip, stifle, hock, fetlock or ankle, pastern, coffin  
+
+1016 	(bonus)    	HS34 
+Q:  What are 3 other parts of the body made of protein besides muscles, internal organs, bones, and blood?
+A:  Skin, hair, hooves
+
+1017  	(bonus)     	CAHA57 
+Q:  Timeline… Correctly follow the blood flow through the heart and lungs beginning with blood entering the heart via the cranial vena cava.  Organize the following 7 anatomical terms in the correct order to complete this task:  cranial vena cava, left ventricle, pulmonary vein, right atrium, pulmonary artery, lungs, and aorta.     
+A:  Cranial vena cava, right atrium, pulmonary artery, lungs, pulmonary vein, left ventricle, and aorta  
+
+1018 	(bonus)      	TH90 
+Q:  There are 4 classifications of bones.  Name 3. 
+A:  Long, short, flat, irregular  
+
+1019 	(bonus)      	TH90 				
+Q:  Give 3 main purposes of the horse's skeleton. 
+A:  Provides framework, protects internal organs, locomotion, stores minerals, produces blood cells
+  
+1020 	(bonus)      	TH89 
+Q:  The horse's body is made up of 9 systems.  Name 3. 
+A:  Skeletal, muscular, respiratory, circulatory/cardiovascular, digestive, reproductive, nervous, endocrine, integumentary/skin  
+
+1021 	 (bonus)      	HIH830-1 
+Q:  Blood is made up of 3 types of cells.  What are they? 
+A:  Red blood cells/erythrocytes, white blood cells/leukocytes, platelets/thrombocytes  
+
+
+1022 	(bonus)      	HIH840-3 
+Q:  Skeletal muscles are classified into 4 types.  What are they? 
+A:  Type 1, Type 2A, Type 2B, Type 2C  
+
+1023	 (bonus)      	TH98				 
+Q:  What are the 3 main bones of the foot? 
+A:  Coffin, navicular, short pastern  
+
+1024 	(bonus)      	TH99 
+Q:  Give 3 characteristics of Type 1 muscle fibers. 
+A:  Slow twitch, low glycolytic activity, provide endurance 
+
+1025	 (bonus)      	TH99 
+Q:  What are the 3 subtypes of type 2 muscle fibers and their uses? 
+A:  Type 2A - speed at long distances, Type 2B - quick burst of speed for short distances, Type 2C - training can recruit them to either type 2A or type 2B  
+
+1026 	(bonus)      	CAHA78 
+Q:  Name 3 cranial nerves. 
+A:  Olfactory, optic, oculomotor, trochlear, trigeminal, abducens, facial, vestibulocochlear, glossopharyngeal, vagus, accessory, hypoglossal 
+ 
+1027 	(bonus)      	TH119 
+Q:  Give 3 functions of the horse's kidneys. 
+A:  Remove wastes, control water balance, control pH, control electrolyte levels, regulate blood pressure, hormone production, absorb minerals, regulate red blood cells 
+ 
+1028 	 (bonus)      	TH126-27 
+Q:  Name 3 of the horse's body functions that are controlled by the endocrine system. 
+A:  Growth, reproduction, metabolism, digestion  
+
+1029	 (bonus)      	CAHA7 
+Q:  Name 4 regions of the spinal column and give the number of vertebrae in each of those regions. 
+A:  Cervical 7, thoracic 18, lumbar 6, sacrum 5, coccygeal/caudal 15-21  
+
+1030 	(bonus)      	TH98/ES203 
+Q:  What are the common names of the 3 phalanx bones? 
+A:  Long pastern, short pastern, coffin/pedal bone
+  
+1031	 (bonus)      	TH90/CAHA42 
+Q:  Name 3 bones found in the horse’s head. 
+A:  Premaxilla/incisive, nasal, maxilla, mandible, frontal, temporal, parietal, occipital, zygomatic, pterygoid, presphenoid, vomar, palatine, orbit, hyoid  
+
+1032	  (bonus)      	CAHA11 
+Q:  2 part question:  How many carpal bones are there in the knee and how are they arranged?
+A:  8 carpal bones; arranged in 2 rows
+   
+1033	 (bonus)      	HIH840-1 
+Q:  Name the 3 types of muscles found in a horse's body. 
+A:  Smooth, cardiac, skeletal  
+
+
+
+1034 	(bonus)      	HIH830-1 			
+Q:  Name 3 functions of the blood. 		
+A:  Transports nutrients, transports gases (oxygen and carbon dioxide), transports hormones, removes wastes, fights infections, regulates pH, clotting, regulates body temperature, regulates blood pressure 
+  
+1035	(bonus)      	CAHA63 
+Q:  Name 3 parts of the horse's body that belong to the immune system. 
+A:  Lymph nodes, lymph vessels, spleen, bone marrow, thymus
+  
+1036 	(bonus)      	CAHA25 
+Q:  Name 3 parts of the hoof which furnish nutrition to the hoof. 
+A:  Perioplic corium, coronary corium, laminar corium, sole corium, frog corium  
+
+1037 	(bonus)      	CAHA5 
+Q:  Name 3 functions of the horse's skin. 
+A:  Protection, sensation, thermoregulation, controls water loss, absorption  
+
+1038 	(bonus)      	CAHA13 
+Q:  Synovial joints are classified on the basis of the type of motion.  Name 3 of these types. 
+A:  Ball and socket, ellipsoid, hinge, pivot, sliding/gliding
+  
+
+1039	 (bonus)      	HIH840-1 			
+Q:  Name 3 systems in the horse's body that use smooth muscles. 
+A:  Digestive, circulatory/cardiovascular, respiratory, urogenital  
+
+1040	 (bonus)					TH152
+Q:  What three boney structures form the thoracic cavity?		
+A: Spine (vertebrae), ribs and sternum
+
+1041 	(bonus)					ES61
+Q: Identify four ways that horses use their olfactory sense.	
+A: To locate food		To ensure food/water are acceptable quality
+     To identify humans		To identify other horses
+     To identify objects		To smell potential predators or other dangers
+     To initiate sexual and breeding behavior	To identify marked territory of other horses/herds
+
+1042  	(bonus)					CAHA5
+Q:  List 3 physiological functions of the skin that would affect regulation of body temperature
+A:  Changes in blood flow             Erection of hairs                 Sweating          
+
+1043	 (bonus)      			TH126-127
+Q:  Identify 3 of the hormones produced by the anterior pituitary
+A:  Growth hormone (GH)			Adrenocortocotropin   (ACTH)
+Luteinizing hormone   (LH)			Follicle stimulating hormone   (FSH)
+Thyrotropin (thyroid stimulating hormone or TSH)	Prolactin			
+
+
+
