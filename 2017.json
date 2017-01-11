@@ -1,21 +1,21 @@
 
 {
    
-   "SENIOR ANATOMY": {
-        "easy": [
-          {"number":   
-"506	 (easy)       	CAHA8/HIH230-2 ",
+"SENIOR ANATOMY":  [
+{
+"level": "easy",
+"number":  "506	 (easy)       	CAHA8/HIH230-2 ",
 "Q":"  How many ribs does a Percheron have? ",
 "A":"  36 or 18 pairs 	(accept either)"
-     },
-          {"number":     
-"508 	(easy)      	HIH505-1/DET293",
+ },
+{"number":  "508 	(easy)      	HIH505-1/DET293",
 "Q":  "What part of the foot is between the wall and the frog?" ,
 "A":  "Sole	 (also accept white line, bars, and commissures, sulci, or collateral grooves)(Addtl info - White line is junction of the sole & wall – where the sensitive & insensitive laminae meet)"
-          },
-          {"number":"509	 (easy)      	HIH525-1 ",
+ },
+ {"number":"509	 (easy)      	HIH525-1 ",
 "Q":  "What is the name for the soft, spongy part of the horse's foot? ",
-"A":  "Frog"  }
+"A":  "Frog"  
+ }
 ]
-        }}}]}
+}
           
