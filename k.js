@@ -5,9 +5,13 @@
 
 var level =["EASY","MEDIUM","HARD","BONUS"];
 
-var lines = readFile('data/2017 SENIOR ANATOMY.txt');
-  console.log(lines.length);
-
+files = fs.readdirSync('data');
+for(var i=0; i<files.length; i++)
+{
+console.log(files[i]);
+//var lines = readFile(fileName);
+ // console.log(lines.length);
+}
 
 
  
