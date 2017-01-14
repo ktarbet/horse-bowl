@@ -27,8 +27,13 @@ do
   {
    //508 	(easy)      	HIH505-1/DET293
    var result = lines[i].match(/^([0-9]+)\s*\(([a-zA-Z]+)\)\s*(.+)/);
-   var result2 = lines[i+1].match(/^Q:\s+(.*)/);   
-   var result3 = lines[i+2].match(/^A:\s+(.*)/); 
+   if( result == null)
+    {
+      i++;
+      continue;
+    }
+   var result2 =  lines[i+1].match(/^Q:\s+(.*)/);   
+   var result3 =  lines[i+2].match(/^A:\s+(.*)/);
    var opt=""; // some answers require extra lines 
    var j=i+3;
    while(j < lines.length && lines[j].trim() != "")
@@ -44,9 +49,9 @@ do
       "{"
      +"\"category\":\""+category+"\"," 
      +"\"level\":\""+level+"\","
-     +"\"number\":\""+ result[1]+" "+result[2]+" " +result[3]+"\","
-     +"\"question\":\""+result2[1]+"\","
-     +"\"answer\":\""+result3[1]+opt+"\"},");
+     +"\"number\":\""+ esc(result[1])+" "+esc(result[2])+" " +esc(result[3])+"\","
+     +"\"question\":\""+esc(result2[1])+"\","
+     +"\"answer\":\""+esc(result3[1])+esc(opt)+"\"},");
       
      i+=3;
     }
@@ -58,6 +63,13 @@ do
 
 }
 
+function esc(txt)
+{
+  if( txt == null)
+  return null;
+   return txt.split("\"").join("\\\"").trim();
+   //return txt.replace("\"","\\\"");
+}
  
 function readFile(fileName){
 var fs = require('fs');
