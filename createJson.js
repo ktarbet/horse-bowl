@@ -36,9 +36,9 @@ do
    var result3 =  lines[i+2].match(/^A:\s+(.*)/);
    var opt=""; // some answers require extra lines 
    var j=i+3;
-   while(j < lines.length && lines[j].trim() != "")
+   while(j < lines.length && lines[j].trim() != "" && lines[j].trim().length >1)
    {
-   opt+="\n"+lines[j].trim();
+   opt+=" "+lines[j].trim();
    j++;
    }
 
@@ -73,6 +73,6 @@ function esc(txt)
  
 function readFile(fileName){
 var fs = require('fs');
-var array = fs.readFileSync(fileName).toString().split("\n");
+var array = fs.readFileSync(fileName).toString().split("\r\n");
 return array;
 }
