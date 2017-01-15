@@ -4,8 +4,8 @@ var fs = require('fs');
 var path = require('path');
 
 files = fs.readdirSync('data');
-console.log("{ ");
-console.log("\"horse-bowl\": [");
+ 
+console.log("return [");
 for(var i=0; i<files.length; i++)
  {
 // console.log(files[i]);
@@ -13,8 +13,8 @@ for(var i=0; i<files.length; i++)
  
  linesToJSON(lines);
  }
-console.log(" ]");
-console.log("}");
+console.log(" ];");
+ 
 
 //converts array of Q/A text into json array format
 function linesToJSON(lines){
@@ -23,10 +23,15 @@ function linesToJSON(lines){
 var category = lines[0].match(/[0-9]{4}\s*SENIOR\s*(.+)/)[1];
 
 var i=1;
+
+  //508 	(easy)      	HIH505-1/DET293
+var re =/^([0-9]+)\s*\(([a-zA-Z]+)\)\s*(.+)/
+
 do
   {
-   //508 	(easy)      	HIH505-1/DET293
-   var result = lines[i].match(/^([0-9]+)\s*\(([a-zA-Z]+)\)\s*(.+)/);
+ 
+   //var result = lines[i].match(/^([0-9]+)\s*\(([a-zA-Z]+)\)\s*(.+)/);
+   var result =  lines[i].match(re);
    if( result == null)
     {
       i++;
@@ -36,7 +41,7 @@ do
    var result3 =  lines[i+2].match(/^A:\s+(.*)/);
    var opt=""; // some answers require extra lines 
    var j=i+3;
-   while(j < lines.length && lines[j].trim() != "" && lines[j].trim().length >1)
+   while(j < lines.length && lines[j].trim() != "" && lines[j].trim().length >1 && lines[j].match(re) === null  )
    {
    opt+=" "+lines[j].trim();
    j++;
