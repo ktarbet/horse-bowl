@@ -647,7 +647,7 @@ Q:  What is a good management practice to use when watering your horse with a bu
 A:  Empty at least once a day, cleaned every 2-3 days   (addtl info – empty/clean every day if any illness in barn)						
 6318	(medium)				HIH320-7
 Q:  Keeping air temperature in barn at no more than 5 degrees above outside temperature will provide air quality horse needs, but may be inconvenient for who?     				
-A - The handlers
+A: The handlers
 
 
 6319	(medium)				HIH330-2
