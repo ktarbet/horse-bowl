@@ -5,7 +5,7 @@ var path = require('path');
 
 files = fs.readdirSync('data');
  
-console.log("return [");
+console.log("var questions = [ ");
 for(var i=0; i<files.length; i++)
  {
 // console.log(files[i]);
