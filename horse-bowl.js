@@ -7,17 +7,21 @@ function showQuestion() {
   document.getElementById("question").innerHTML="select at least one level (easy, medium, ...)";
    document.getElementById("answer").innerHTML = "";
 
-  var x = jsonGetRandom();
+  var x = getRandomQuestion();
   document.getElementById("question").innerHTML = x.category+"<br/>"+ x.number+"<br/> "+ x.question;
 
   document.getElementById("answer").innerHTML =  x.answer;
   document.getElementById("answer").style.display = "none"
+
+  updateStatus();
  }
 
-function jsonGetRandom()
+var workingQuestions;
+
+function getRandomQuestion()
 {
- 
- var u = questions.filter(function(elem, index, array) {
+
+ var q = workingQuestions.filter(function(elem, index, array) {
         return (
 
           (  category.value === 'All' || category.value === elem.category )
@@ -30,8 +34,17 @@ function jsonGetRandom()
         }
 )     ;
  
- return u[getRandomInt(0,u.length)];
- 
+ var idx = getRandomInt(0,q.length);
+ var a= q[idx];
+ remove(a);
+ return a;
+}
+
+//remove row from workingQuestions
+function remove(a)
+{
+ var idx = workingQuestions.indexOf(a);
+ workingQuestions.splice(idx,1); 
 }
 
 
@@ -71,6 +84,14 @@ for(var i = 0; i < a.length; i++) {
 }
 }
 
+function updateStatus()
+{
+  var s = document.getElementById('status');
+  s.innerHTML = "total questions: "+questions.length+"  remaining questions: "+workingQuestions.length;
+  s.style.font.fontsize=.1;
+ // s.font-size = "12px";
+}
+var workingQuestions = questions.slice(0);
 loadCategories();
 showQuestion();
  
