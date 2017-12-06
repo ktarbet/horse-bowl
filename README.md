@@ -19,3 +19,8 @@ https://www.aqha.com/media/22720/aqha-rulebook-2018-1.pdf
 
 Horse induistry Handbook
 http://www.ayhc.com/product-page/horse-industry-handbook-1
+
+
+## Other info
+
+parts of horse from www.arabianhorses.org  https://www.arabianhorses.org/.content/youth-docs/AHYA_Skeleton_Parts.pdf
